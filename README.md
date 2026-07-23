@@ -104,11 +104,11 @@ Individual stages can be re-executed by adjusting the initial phase index in `st
 
 ## Key Technologies
 
-- **LangGraph** — directed graph orchestration with conditional routing
-- **BERTopic + UMAP + HDBSCAN** — unsupervised topic discovery
-- **Sentence-BERT** ( `all-MiniLM-L6-v2`) — document embeddings and similarity
-- **SciPy** — parametric survival distribution fitting
-- **Pandas / NumPy** — data processing across all stages
+- **LangGraph** - directed graph orchestration with conditional routing
+- **BERTopic + UMAP + HDBSCAN** - unsupervised topic discovery
+- **Sentence-BERT** ( `all-MiniLM-L6-v2`) - document embeddings and similarity
+- **SciPy** - parametric survival distribution fitting
+- **Pandas / NumPy** - data processing across all stages
 
 ---
 
