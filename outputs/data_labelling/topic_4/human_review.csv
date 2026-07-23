@@ -1,0 +1,12 @@
+row_idx,pair_id,text1,text2,doer_label,confidence,evaluator_verdict,human_label,human_notes
+150,e60f3dd454f4e3992f11c2421ced25fa,Lufthansa Pilots Plan New Strike,Lufthansa Pilots to Expand Strike,True,5,incorrect,,
+161,eb03a6344e312683daac4df7c3584a04,JetBlue Profit Doubles on Cheap Fuel,Low Fuel Costs Help JetBlue’s Profit Rise,True,5,incorrect,,
+163,582438698760245b5ce92e1cf4b5d650,EasyJet Profit Soars,EasyJet Soars as Revenue Grows,True,5,incorrect,,
+224,e90a5964757b836857019a7a9a62b0dc,Air India Will Take Delivery of All Dreamliners,Air India to Get Dreamliner This Week,True,5,incorrect,,
+352,88b681925736a2e551223bebe85f7359,Irish govt to move on Aer Lingus stake sale -report,UPDATE 1-Ireland to value Aer Lingus stake as sale looms,False,3,incorrect,,
+365,0e50757b6383bb533400cade2c99b50f,"Air India Sacks 6 Pilots, Cancels 26 Flights",Air India Cancels 36 Flights,True,4,incorrect,,
+372,cc209016c6331d908a035a2230afe19f,Jet Airways Posts Loss,Jet Airways Posts Wider Loss,True,5,incorrect,,
+570,86c2a798878bbf625f2143c8c0c84888,AirAsia Posts 43% Profit Rise,AirAsia Net Profit Soars,True,5,incorrect,,
+589,b0db5223f2a37078139a64ca1fda96e0,"United Continental, Flight Attendants Reach Buyout Deal",United Continental Flight Attendant Leaders Endorse Tentative Deal,False,5,incorrect,,
+679,0ece42929f7934bd535e305e21e1163f,Kingfisher Cancels Flights Due to Labor Unrest,Kingfisher Halts Flights Through Next Week,False,3,incorrect,,
+820,dce4cdbc97226a1a128b2975d21f8250,Spirit AeroSystems May Renegotiate Contracts,Boeing Pursues Fresh Deal With Spirit AeroSystems,False,5,incorrect,,

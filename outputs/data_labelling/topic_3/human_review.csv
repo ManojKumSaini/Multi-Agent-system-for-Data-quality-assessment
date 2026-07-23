@@ -1,0 +1,5 @@
+row_idx,pair_id,text1,text2,doer_label,confidence,evaluator_verdict,human_label,human_notes
+79,15ab9c87a97999fd38e7c42457daec08, ZYTO Corp Appoints Leading Experts to Scientific Advisory Board, ZYTO Corp Announces Expansion of Scientific Advisory Board,True,5,incorrect,,
+131,d80b701fd355826a7a225824793f1f2b,RadioShack Financial Chief Resigns,RadioShack Replaces Finance Chief Again,False,5,incorrect,,
+158,595056fe1db09a24bc60386e408c339a,TMX Group Chief Executive to Retire,TMX CEO Pushes Retirement to October,True,5,incorrect,,
+177,f280ead7d2b2b3f67c8ce923eb0a0e32,Oremex Silver Appoints Interim Chief Financial Officer,Oremex Silver Announces Q3 Financial Results and Appoints Chief Financial Officer,True,5,incorrect,,

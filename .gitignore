@@ -1,0 +1,25 @@
+# Large generated outputs
+outputs/preprocessing/NIFTY_preprocessed.csv
+outputs/topic_modelling/documents_with_topics.csv
+outputs/topic_modelling/embeddings.npy
+*.npy
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+bertopic
+gensim>=4.4
+hdbscan
+langgraph>=0.6
+matplotlib
+networkx
+numpy>=2.0
+openpyxl
+pandas>=2.3
+python-dotenv>=1.2
+requests>=2.32
+scikit-learn
+scipy>=1.13
+sentence-transformers
+spacy
+umap-learn
+wordcloud

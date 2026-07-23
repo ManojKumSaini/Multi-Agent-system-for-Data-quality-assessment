@@ -1,0 +1,56 @@
+{
+  "verdict": "FAIL",
+  "checks": [
+    {
+      "criterion": "1. Distribution Functions",
+      "status": "pass",
+      "observed": "All 10 functions defined with epsilon protection and correct use of gammainc and norm.cdf.",
+      "expected": "All 10 distributions defined exactly as guide, with epsilon protection."
+    },
+    {
+      "criterion": "2. Piecewise Bounds",
+      "status": "pass",
+      "observed": "Dynamic bounds generated via get_piecewise_bounds(t_min, t_max) and static (0, np.inf) for others.",
+      "expected": "Dynamic bounds format ([0,0,t_min+1e-3],[inf,inf,t_max-1e-3]) for Piecewise_Exp; (0, np.inf) for others."
+    },
+    {
+      "criterion": "3. Binning Method",
+      "status": "pass",
+      "observed": "Uses pd.qcut with duplicates='drop' and computes mid_bin as integer midpoint.",
+      "expected": "Quantile\u2011based binning with duplicates='drop' and integer mid_bin."
+    },
+    {
+      "criterion": "4. Train/Test Split",
+      "status": "fail",
+      "observed": "Sampling uses a global train_size = int(0.8*len(bin_df)) and drops rows using train_df.index, not per\u2011bin; does not enforce sample size int(0.2*min(bin_counts)) nor stratify by final_label within each bin.",
+      "expected": "Per\u2011bin stratified split with sample size = int(0.2 * min(mid_bin.value_counts())) and proper separation of train/test rows."
+    },
+    {
+      "criterion": "5. Evaluation Target",
+      "status": "pass",
+      "observed": "Log\u2011Loss, AUC, AIC, BIC computed on test set; predictions clipped before log_loss.",
+      "expected": "Metrics computed on test set with clipping."
+    },
+    {
+      "criterion": "6. Metric Formulas",
+      "status": "fail",
+      "observed": "AIC and BIC are computed but not included in ranking; ranking only uses log_loss and AUC.",
+      "expected": "Rank by log_loss (asc), AUC (desc), AIC (asc), BIC (asc) and combine ranks as specified."
+    },
+    {
+      "criterion": "7. Error Handling",
+      "status": "pass",
+      "observed": "curve_fit wrapped in try/except catching RuntimeError, ValueError, RuntimeWarning; outer loop catches generic Exception.",
+      "expected": "Failed fit does not crash the loop."
+    },
+    {
+      "criterion": "8. Output",
+      "status": "fail",
+      "observed": "matplotlib imported at top without guard; missing module raises ModuleNotFoundError and aborts script before CSVs are written.",
+      "expected": "If matplotlib unavailable, script should skip plotting gracefully and still produce CSV outputs and summary."
+    }
+  ],
+  "issues": "Train/test split is not per\u2011bin stratified and does not use the required sample size; ranking omits AIC and BIC; missing matplotlib causes script to crash instead of skipping plotting.",
+  "recommendation": "Fix the split logic to sample int(0.2 * min(bin_counts)) per bin and stratify by final_label; include AIC and BIC in the ranking calculation; wrap matplotlib import in try/except or move it inside the plotting block so the script continues when the library is absent.",
+  "required_actions": "1. Replace the train/test split loop with per\u2011bin stratified sampling using the specified sample size and proper row separation. 2. Extend ranking to compute ranks for AIC and BIC (ascending) and incorporate them into the composite rank as required. 3. Change the import of matplotlib to a guarded import (e.g., try: import matplotlib.pyplot as plt except ImportError: plt = None) and conditionally execute plotting only if plt is available."
+}

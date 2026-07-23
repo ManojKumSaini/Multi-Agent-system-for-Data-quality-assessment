@@ -1,0 +1,895 @@
+id1,text1,id2,text2,text_similarity_score,entity_similarity_score,date_difference,pair_id,label,confidence,needs_human_review,evaluator_verdict,final_label
+nifty_496,Boeing Commercial Deliveries Rise,nifty_836,Boeing Commercial Deliveries Rise,1.0000007,1.0,637,6ebf78287bd7faa142354fafcc2977e8,True,5,False,,True
+nifty_298,Boeing Raises India Sales Forecast,nifty_529,Boeing Raises India Sales Forecast,1.0000006,1.0,426,b8154d22128ef4c4419a03ee3d9bf580,True,5,False,,True
+nifty_496,Boeing Commercial Deliveries Rise,nifty_740,Boeing Commercial Deliveries Rise,1.0000006,1.0,455,6ebf78287bd7faa142354fafcc2977e8,True,5,False,,True
+nifty_740,Boeing Commercial Deliveries Rise,nifty_836,Boeing Commercial Deliveries Rise,1.0000006,1.0,182,6ebf78287bd7faa142354fafcc2977e8,True,5,False,,True
+nifty_187,Airbus Raises Market Forecast,nifty_339,Airbus Raises Market Forecast,1.0000005,1.0,279,7e357874cfde7418a16fca30879331d6,True,5,False,,True
+nifty_723,Ryanair Issues Profit Warning,nifty_757,Ryanair Issues Profit Warning,1.0000004,1.0,61,b0912c63165ffc3c753e9599ba321cc8,True,5,False,,True
+nifty_1091,Boeing Earnings: What to Watch,nifty_1192,Boeing Earnings: What to Watch,1.0000002,1.0,188,dfff7c496b9ffacd37c1fe1c29e26db3,True,5,False,,True
+nifty_1192,Boeing Earnings: What to Watch,nifty_1293,Boeing Earnings: What to Watch,1.0000002,1.0,183,dfff7c496b9ffacd37c1fe1c29e26db3,True,5,False,,True
+nifty_1285,Airbus Cuts A380 Production Plans,nifty_1377,Airbus Cuts A380 Production Plans,1.0000002,1.0,168,5b1d70096c98d483dcb749cb08b5dd18,True,5,False,,True
+nifty_115,Cathay Pacific Profit Soars,nifty_908,Cathay Pacific Profit Soars,1.0000001,1.0,1470,361c7d939ec0979b4a29e63e98446ead,True,5,False,,True
+nifty_318,"Air T, Inc. Reports Unaudited First Quarter Earnings",nifty_708,"Air T, Inc. Reports Unaudited First Quarter Earnings",1.0000001,1.0,728,da43a89b9802f7a54b4783314ea679fd,True,5,False,,True
+nifty_1091,Boeing Earnings: What to Watch,nifty_1293,Boeing Earnings: What to Watch,1.0000001,1.0,371,dfff7c496b9ffacd37c1fe1c29e26db3,True,5,False,,True
+nifty_1313,SpaceX Signs First Customer for Launch of Refurbished Rocket,nifty_1314,SpaceX Signs First Customer for Launch of Refurbished Rocket,1.0000001,1.0,1,12ab2640bc8a450f2bee6b8c286cd705,True,5,False,,True
+nifty_99,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,nifty_300,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,1.0,1.0,369,679eaa9bc0f96f68e29687800452d0fc,True,5,False,,True
+nifty_473,Analysis: Golden age or bubble? Plane-makers walk the line,nifty_474,Analysis: Golden age or bubble? Plane-makers walk the line,1.0,1.0,1,302ee1c295248389136b31b9b4bd7f8a,True,5,False,,True
+nifty_99,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,nifty_202,Semi-annual update on the AIR LIQUIDE liquidity contract,1.0,0.75,188,9df7461e936490cce4f6b7e374ed0244,True,5,False,,True
+nifty_99,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,nifty_889,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,0.99999994,1.0,1464,679eaa9bc0f96f68e29687800452d0fc,True,5,False,,True
+nifty_300,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,nifty_889,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,0.99999994,1.0,1095,679eaa9bc0f96f68e29687800452d0fc,True,5,False,,True
+nifty_202,Semi-annual update on the AIR LIQUIDE liquidity contract,nifty_300,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,0.99999994,0.75,181,d6bd97f69bd13360ce7b2be368d34e05,True,5,False,,True
+nifty_110,"Lockheed, L-3 Post Profit",nifty_211,"Lockheed, L-3 Post Profit",0.9999999,1.0,184,891932dea5ea8cac4bf0ba9100179db3,True,5,False,,True
+nifty_272,"Bombardier sees biz jet market recovery, slow 2011",nifty_273,"Bombardier sees biz jet market recovery, slow 2011",0.9999999,1.0,1,bb1391ca2c1c9e286730cff901d8ffb5,True,5,False,,True
+nifty_272,Caution on outlook rife at business aviation show,nifty_273,Caution on outlook rife at business aviation show,0.9999999,1.0,1,18898664a32bd247fa750c4523b7653a,True,5,False,,True
+nifty_473,Golden age or bubble? Plane-makers walk the line,nifty_474,Golden age or bubble? Plane-makers walk the line,0.9999999,1.0,1,8d44becd554215fcacc87930b3d06ceb,True,5,False,,True
+nifty_859,Malaysia Airlines Loss Widens,nifty_917,Malaysia Airlines Loss Widens,0.9999999,1.0,105,49d1aef946942fbcbc29f89b3d3b3678,True,5,False,,True
+nifty_1090,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,nifty_1091,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,0.9999999,1.0,1,d591a5a8899dc0a2dcd7f5de64e5454b,True,5,False,,True
+nifty_202,Semi-annual update on the AIR LIQUIDE liquidity contract,nifty_889,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,0.9999999,0.75,1276,d6bd97f69bd13360ce7b2be368d34e05,True,5,False,,True
+nifty_1320,SpaceX Seeks to Return Falcon 9 to Service in November,nifty_1321,SpaceX Seeks to Return Falcon 9 to Service in November,0.99999964,1.0,1,786bb8c3117ded37b67928e0fb2a68e7,True,5,False,,True
+nifty_1097,United Airlines data breached by China-backed hackers - Bloomberg,nifty_1097,United Airlines data breached by China-backed hackers: Bloomberg,0.99672574,1.0,0,36aa9c6c028a700bae59bbeb81463623,True,5,False,not_reviewed,True
+nifty_1209,China's Comac aims for first C919 flight by early 2017 -sources,nifty_1209,China's Comac aims for first C919 flight by early 2017: sources,0.995899,0.8,0,2e4c3f5362c495431c5eb9813009e529,True,5,False,not_reviewed,True
+nifty_1160,Holiday delays likely at U.S. airports as security tightens - analysts,nifty_1160,Holiday delays likely at U.S. airports as security tightens: analysts,0.9953624,0.8333333333333334,0,29f1ac83206ef0be28a01dc72b4c78e8,True,5,False,not_reviewed,True
+nifty_1038,U.S. airliners could be vulnerable to in-flight hacking -GAO,nifty_1038,U.S. airliners could be vulnerable to in-flight hacking: GAO,0.9947769,0.6,0,9e516841f6ca4e960f3d5c0d049a9323,True,5,False,not_reviewed,True
+nifty_812,"BAE Systems says US business close to ""bottoming out"" in 2014",nifty_812,BAE Systems says U.S. business close to 'bottoming out' in 2014,0.99014056,0.4285714285714285,0,bbc253ff8b6e0efe92a88eefe8209309,True,5,False,not_reviewed,True
+nifty_656,Americans eye big summer breaks as economy rebounds -Orbitz,nifty_656,Americans eye big summer breaks as economy rebounds: Orbitz,0.9900106,0.6,0,4defaee82adfad4c4db02f432f357368,True,5,False,correct,True
+nifty_724,"Boeing: China needs 5,580 new aircraft over next 20 yrs",nifty_724,"Boeing: China needs 5,580 new aircraft over next 20 years",0.98934805,0.6,0,7ab2115a4015821357fdac6d994746fe,True,5,False,not_reviewed,True
+nifty_1038,"Wilbur Ross, Stanhope launch Virgin Money share sale - bookrunners",nifty_1038,"Wilbur Ross, Stanhope launch Virgin Money share sale: bookrunners",0.988553,0.875,0,6dede005fff283ff41b68f819983d0d6,True,5,False,not_reviewed,True
+nifty_806,Virgin America picks banks for potential 2014 IPO -FT,nifty_806,Virgin America picks banks for potential 2014 IPO: FT,0.988374,0.8333333333333334,0,0a9d34b92369425bfed9ee4596355081,True,5,False,not_reviewed,True
+nifty_573,"Research and Markets: China Air Transport and Airport Industry Report, 2011-2012",nifty_812,"Research and Markets: China Air Transport and Airport Industry Report, 2013-2016",0.9869215,1.0,450,b572549db66a73eb239faa1fd858a71d,False,5,False,correct,False
+nifty_739,Delayed take-off: China cautious on large aircraft programme,nifty_739,Delayed take-off: China cautious on large aircraft program,0.9844236,0.5,0,5dc82fb8e12c5d14786d83c670bc38d2,True,5,False,not_reviewed,True
+nifty_83,Airline-Passenger Satisfaction Improves,nifty_681,Airlines' Passenger-Satisfaction Improves,0.983764,0.0,1106,038a2b555696d489f243bf89089b01d2,True,5,False,not_reviewed,True
+nifty_581,Delta CEO -new venture to have a quarter of transatlantic market,nifty_581,Delta CEO: new venture to have a quarter of transatlantic market,0.9829504,0.4285714285714285,0,ad93fcf00c13aba9dc20f789983fab24,True,5,False,not_reviewed,True
+nifty_111,Lufthansa Narrows Loss,nifty_853,Lufthansa Loss Narrows,0.981631,0.3333333333333333,1378,3f2567e5632ad8834ae148ca25de4b1a,True,5,False,not_reviewed,True
+nifty_563,INSIGHT-Boeing may take year to decide on mini-jumbo revamp,nifty_563,Insight: Boeing may take year to decide on mini-jumbo revamp,0.9814478,0.8,0,80dc0e2603db3c5d2a6c4d70b208b79e,True,5,False,not_reviewed,True
+nifty_338,Bombardier C-Series sales target at risk - analyst,nifty_338,Bombardier C-Series sales target at risk: analyst,0.9805125,0.6666666666666666,0,885e1bbce1f0484fc669933a8af19fec,True,5,False,not_reviewed,True
+nifty_473,"China to buy over 2,500 planes in 5 yrs to 2015 - Xinhua",nifty_473,"China to buy over 2,500 planes in 5 years to 2015: Xinhua",0.978597,0.6,0,c2c52c84a814b1d3c58c8c58ccade852,True,5,False,not_reviewed,True
+nifty_3,Corporate jets get some U.S. bank execs to Capitol Hill,nifty_3,Corporate jets get some bank execs to Capitol Hill,0.977543,0.5714285714285714,0,bbfdee52130b4f5f9c066968628c40c5,False,5,False,not_reviewed,False
+nifty_207,A wing and a prayer: outsourcing at Boeing,nifty_207,Special Report: A wing and a prayer: outsourcing at Boeing,0.9764765,0.5714285714285714,0,c5d5ba1f38746ed824942e1bc5b2c66b,True,5,False,not_reviewed,True
+nifty_86,Spirit Cancels Flights Through Wednesday,nifty_86,Spirit Cancels Flights Through Tuesday,0.9762591,0.5,0,5853a4cfc6a8b39996d9c0e141dc27b6,False,5,False,not_reviewed,False
+nifty_592,Alitalia investors consider possible sale,nifty_592,Alitalia investors consider possible sale: sources,0.9739336,0.75,0,2f8d9a0d7a4997a562e177a3c0db78b5,True,5,False,not_reviewed,True
+nifty_839,U.S. Navy move to 'break' multiyear deal worries industry-Sikorsky,nifty_839,Navy move to 'break' multiyear deal worries industry: Sikorsky,0.9728977,0.375,0,d32a7571c981a6ea1539398fc558bc6e,True,5,False,not_reviewed,True
+nifty_1148,Virgin America’s Profit Jumps on Lower Fuel Costs,nifty_1206,Virgin America’s Profit Rises on Lower Fuel Costs,0.9720185,1.0,112,8254e5fec720e148327b34cfb618ed5d,True,5,False,not_reviewed,True
+nifty_746,Some key Alitalia investors will join cash call-source,nifty_746,Some key Alitalia investors will join cash call: source,0.97167784,0.5,0,79922fc521edf7077e90020520480d0b,True,5,False,not_reviewed,True
+nifty_325,AirAsia Profit Falls 48%,nifty_423,AirAsia's Profit Falls 56%,0.9671759,0.3333333333333333,183,558f69ec84ae8482c83d43d2591f5dbe,False,5,False,not_reviewed,False
+nifty_815,UPDATE 1-Boeing Black: This smartphone will self-destruct...,nifty_815,Boeing Black: This smartphone will self-destruct..,0.9669107,0.6,0,3ebe9a0261798a92c5aa46d3971f0245,True,5,False,not_reviewed,True
+nifty_202,Semi-annual update on the AIR LIQUIDE liquidity contract,nifty_499,AIR LIQUIDE : Semi-annual update on the AIR LIQUIDE liquidity contract,0.96563536,0.8,547,4bd6ad3ca0d19be588652aa558995f97,True,5,False,not_reviewed,True
+nifty_99,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,nifty_499,AIR LIQUIDE : Semi-annual update on the AIR LIQUIDE liquidity contract,0.96563536,0.6,735,ea05ad7e42782db18f3d12bc0eaf8bc8,True,5,False,not_reviewed,True
+nifty_300,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,nifty_499,AIR LIQUIDE : Semi-annual update on the AIR LIQUIDE liquidity contract,0.96563524,0.6,366,ea05ad7e42782db18f3d12bc0eaf8bc8,True,5,False,not_reviewed,True
+nifty_499,AIR LIQUIDE : Semi-annual update on the AIR LIQUIDE liquidity contract,nifty_889,Semi-Annual Update on the AIR LIQUIDE Liquidity Contract,0.9656352,0.6,729,498ed8af1a8a460c5117764ad869ecfa,True,5,False,not_reviewed,True
+nifty_956,U.S. Airlines Expect Rise in Thanksgiving Air Travelers,nifty_1349,U.S. Airlines Expect Slight Rise in Thanksgiving Air Travel,0.96516675,0.4285714285714285,727,97229be859b5b1dfe678f19560cbadff,True,5,False,not_reviewed,True
+nifty_424,India: No Plans to Cancel Kingfisher License,nifty_548,India May Cancel Kingfisher License,0.9640964,0.5,228,34500e85ec4d5e80e6b87c2a4dd83e31,False,5,False,correct,False
+nifty_447,US Airways Pushes Merger,nifty_462,US Airways Makes Push for Potential Merger,0.9638343,0.5,28,c028834f09f91b6a5eb573455c10a109,True,5,False,not_reviewed,True
+nifty_413,Singapore Airlines Net Profit Falls 53%,nifty_900,Singapore Airlines Net Profit Falls 71%,0.9631058,1.0,909,b9e9bd649e430043ae095732eb08ab31,False,5,False,correct,False
+nifty_544,EADS-BAE deal risks collapse due to govts-sources,nifty_544,EADS-BAE deal risks collapse due to governments: sources,0.96301305,0.6666666666666666,0,f6cda346d656658be5d950a810f222af,True,5,False,not_reviewed,True
+nifty_645,Liberty Global's $15.8 bln Virgin Media deal cleared in EU,nifty_645,Liberty Global's $15.8 billion Virgin Media deal cleared in EU,0.9600549,0.7142857142857143,0,d6f03ad1be719832508d95f5f9dc1fa3,True,5,False,not_reviewed,True
+nifty_1146,JetBlue Profit Rises on Low Fuel Costs,nifty_1293,Low Fuel Costs Help JetBlue’s Profit Rise,0.95905715,0.5,273,b8bf4cfa903e2ad5122de21a41ac1628,True,5,False,not_reviewed,True
+nifty_803,Boeing May Boost 737 Production,nifty_936,Boeing Will Boost 737 Production,0.95840544,1.0,240,dad72bad04fb08b6bf8d43af254dace3,True,5,False,not_reviewed,True
+nifty_391,TEXT-Fitch:Aircraft funding sources adequate to support 2012 growth,nifty_391,Fitch: Aircraft Funding Sources Adequate to Support 2012 Growth,0.9559657,0.6,0,827f835c8c563d3547771d20cc67ae38,True,5,False,not_reviewed,True
+nifty_889,Lockheed says F-35 investments will save $1.8 bln by 2019,nifty_889,Lockheed says F-35 investments will save $1.8 billion by 2019,0.95354915,1.0,0,5e7b7aa8157e7f6bf83c5e0de5ed8485,True,5,False,not_reviewed,True
+nifty_633,EADS CEO sees more defence industry consolidation,nifty_633,EADS CEO predicts more defense industry consolidation,0.95292467,0.5,0,3c59afa1b56e0740e73e3a8403c5354f,True,5,False,not_reviewed,True
+nifty_531,Strike Forces Lufthansa to Cancel Flights,nifty_633,Lufthansa Cancels Flights Amid Strike,0.95278966,1.0,196,1f2ab95ffc44a2207ce1664cb0e3c2af,True,5,False,not_reviewed,True
+nifty_333,"China to need 5,000 jets worth $600 bln over 20 yrs -Boeing exec",nifty_333,China to need $600 bln worth of jets over 20 yrs -Boeing exec,0.95268047,0.5,0,18d1618427e9423e195b6ba89e3add1d,True,5,False,not_reviewed,True
+nifty_438,Air India Will Take Delivery of All Dreamliners,nifty_531,Air India Gets Delivery of Dreamliner,0.95122933,0.6666666666666666,170,60278a1272db4288e5b73de85307c92d,True,5,False,not_reviewed,True
+nifty_581,TEXT - Fitch says strategic value upside clear in Delta's Virgin stake,nifty_581,Fitch: Strategic Value Upside Clear in Delta's Virgin Stake,0.94968504,0.8333333333333334,0,0b4041341477d5fe6626ac00b2e2ac75,True,5,False,not_reviewed,True
+nifty_45,UPDATE 1-Airlines climbing out of recession - IATA,nifty_45,Airlines climbing out of recession: IATA,0.94939804,0.75,0,52dac7b2cc4ed5db3f8adf98171f2389,True,5,False,not_reviewed,True
+nifty_1221,UPDATE 1-Lockheed Martin to invest more in hypersonic aircraft -CEO,nifty_1221,Lockheed Martin to invest more in hypersonic aircraft: CEO,0.9493067,0.5714285714285714,0,12d7b02238c14b78973666a3c26a0cf3,True,5,False,not_reviewed,True
+nifty_468,Air India Cancels 24 Flights,nifty_469,Air India Cancels 36 Flights,0.949215,0.6,1,ff075681d8dfc5c5f7152b71d25385f4,False,5,False,not_reviewed,False
+nifty_873,European shares retreat as Lufthansa's woes hit travel stocks,nifty_873,European shares retreat as Lufthansa drags down travel stocks,0.9482588,0.75,0,2e45d249bb38201a8d3e7c0604a14de4,True,5,False,not_reviewed,True
+nifty_134,Airgas Rejects Air Products' Bid,nifty_192,Airgas Board Rejects Air Products' Bid,0.94737005,0.3333333333333333,105,74bc51ae4990f521797820c88cce8561,True,5,False,not_reviewed,True
+nifty_1091,Lockheed sees positive Pentagon view on Sikorsky buy,nifty_1091,UPDATE 1-Lockheed expects positive Pentagon view on Sikorsky buy,0.94727397,0.8333333333333334,0,4a7887b20e9859c5ead97034ae6f28d3,True,5,False,not_reviewed,True
+nifty_219,UPDATE 2-Air France-KLM slumps after profit warning,nifty_219,Air France-KLM profit warning slump,0.94619507,0.4285714285714285,0,679156eaa1eafc3fbd4962efe0043404,True,5,False,correct,True
+nifty_103,Research and Markets: the Boeing Company: a Comprehensive Corporate Analysis on the Company,nifty_496,Research and Markets: Boeing: Company Profile,0.94568825,0.3333333333333333,722,0210f098a2cfe62bcb94921566afb3cf,True,5,False,not_reviewed,True
+nifty_633,EADS CEO predicts more defense industry consolidation,nifty_633,UPDATE 2-EADS CEO predicts more defence industry consolidation,0.94566095,0.5,0,6b3ba0e606d21539d69485eabc583627,True,5,False,correct,True
+nifty_263,Strong Currency Lifts Korean Air's Profit,nifty_901,Currency Lifts Korean Air to Profit,0.94300497,0.0,1185,23645bac664dea397e00f18eb95b038b,True,5,False,not_reviewed,True
+nifty_74,Jet Airways Profit Rises 11%,nifty_214,Jet Airways Net Profit Up 11%,0.9425756,0.5,258,7c8391bba4d3f929abec0fe3e0d4e496,True,5,False,not_reviewed,True
+nifty_83,Airline-Passenger Satisfaction Improves,nifty_283,Airline Satisfaction Improves,0.94237006,0.0,365,98f5dec96ad3b94c7d2f588966540389,True,5,False,not_reviewed,True
+nifty_633,EADS CEO sees more defence industry consolidation,nifty_633,UPDATE 2-EADS CEO predicts more defence industry consolidation,0.9416913,1.0,0,963b8e63098f32fea45847bae5dce6f0,True,5,False,not_reviewed,True
+nifty_855,Singapore Airlines Profit Falls 60%,nifty_900,Singapore Airlines Net Profit Falls 71%,0.9415157,0.5,83,c59881ff6bc3ad494c7faa0362ab39a0,False,5,False,not_reviewed,False
+nifty_413,Singapore Airlines Net Profit Falls 53%,nifty_855,Singapore Airlines Profit Falls 60%,0.9413565,0.5,826,171d37d0bd7614646674ebbc6c52313b,False,5,False,not_reviewed,False
+nifty_281,JetBlue Pilots Seek Union Vote,nifty_845,JetBlue Pilots Vote to Unionize,0.9409316,0.6666666666666666,1051,5b8c5ba58122ba53c926e84a3fe2b15e,True,5,False,not_reviewed,True
+nifty_824,UPDATE 2-Lufthansa restores dividend as revamp bears fruit,nifty_824,RPT-UPDATE 2-Lufthansa restores dividend as revamp bears fruit,0.93992025,0.8,0,0d3e947170c58f74d423fb3331e6b372,True,5,False,correct,True
+nifty_764,"Lockheed Martin to Cut 4,000 Jobs",nifty_1216,"Lockheed Martin Seeks to Cut 1,000 Jobs",0.93827075,0.6,845,ebf00447e261418fe9cea8bf0bbeee39,False,5,False,not_reviewed,False
+nifty_458,Boeing's Profit Jumps,nifty_463,Boeing Supplier's Profit Jumps,0.9369766,0.0,8,d9835618a89d5884c3dfe6db7354d874,False,5,False,not_reviewed,False
+nifty_381,Kingfisher Chairman: Expect to Meet Lenders This Week,nifty_530,Kingfisher Lenders Seek Meeting With Chairman,0.9355798,0.1666666666666666,275,98e7a7b4adfd4ff929ce568673634135,True,5,False,not_reviewed,True
+nifty_670,Pratt & Whitney Aims for More F-35 Engine Deals,nifty_925,Pratt & Whitney Close to F-35 Engine Deal,0.9324911,0.6,474,9c0356a5b0fe3d7ac231d7125b3db22a,True,5,False,not_reviewed,True
+nifty_966,"Research and Markets: Global Business Jet Market Outlook, 2020: Bombardier, Gulfstream, Cessna, Dassault & Embraer Dominate the $33 Billion industry",nifty_1043,"Research and Markets: Global Business Jet Market 2015-2019 with Bombardier, Cessna, Dassault Aviation, Embraer & Gulfstream Dominating",0.9322749,0.5882352941176471,149,3edd5781c2646e3b7ad14f2d72fab472,True,5,False,not_reviewed,True
+nifty_403,"Airbus, Boeing Rivalry Intensifies",nifty_874,"Airbus, Boeing Enter New Rivalry",0.9320305,0.5,877,9c8b3b0828c78ba90ee9c0fd090d37ef,True,5,False,not_reviewed,True
+nifty_859,Air Canada Loss Widens,nifty_1004,Air Canada Quarterly Loss Widens,0.93013453,0.5,272,3db654806c1cf32e3ce2db758e1ce614,True,5,False,not_reviewed,True
+nifty_217,UPDATE 1-AIRSHOW-Gulfstream says business jet market recovering,nifty_217,Gulfstream says business jet market recovering,0.9285223,0.6666666666666666,0,9ea41d6fd149f0f12ea87c6951793145,True,5,False,not_reviewed,True
+nifty_909,Boeing Plans Further 737 Production Boost,nifty_936,Boeing Will Boost 737 Production,0.9283729,0.3333333333333333,49,258096d8a9a22d811a3cdbeb29de2d33,True,5,False,correct,True
+nifty_1195,JetBlue Profit Doubles on Cheap Fuel,nifty_1243,JetBlue Profit Soars on Cheap Fuel,0.927839,1.0,89,3b7154f65c739d5cfd128fee5aba656e,True,5,False,not_reviewed,True
+nifty_1199,Flight control: China banks pilot jet leasing firms in chase for $228 billion market,nifty_1199,REFILE-Flight control: China banks pilot jet leasing firms in chase for $228 bln market,0.92665464,0.5714285714285714,0,f45753409a424e60af267efdc2e302af,True,5,False,not_reviewed,True
+nifty_48,"US Airways, United in Talks",nifty_51,United-US Airways Talks Intensify,0.9264005,0.8,6,94c3f918ac644aa4ec52a6c65670165e,True,5,False,not_reviewed,True
+nifty_1204,Boeing sees new aircraft demand worth $550 bln in SE Asia in 20 yrs,nifty_1204,AIRSHOW-Boeing sees new aircraft demand worth $550 bln in SE Asia over 20 yrs,0.92570144,0.75,0,52008d2c7cc2e8be20b485cafec3c4db,True,5,False,not_reviewed,True
+nifty_546,American Airlines Finds Seat Problems,nifty_547,American Airlines Finds More Problems With Seats,0.9256301,0.3333333333333333,1,9d9e5a57dd8625fb2448223f8a7a620e,True,5,False,not_reviewed,True
+nifty_860,Unipol would sell its 0.3 pct stake in Alitalia if asked - CEO,nifty_860,Unipol would sell its 0.3 percent stake in Alitalia if asked: CEO,0.92405206,0.6,0,4b4b67a8695957b61b9ff05c9adbe5fa,True,5,False,not_reviewed,True
+nifty_583,"INTERVIEW-Lockheed well-placed amid global insecurities, CEO says",nifty_583,"Lockheed well-placed amid global insecurities, CEO says",0.92404515,1.0,0,bc8f4a0e8a710884809aaf917e36a271,True,5,False,not_reviewed,True
+nifty_1204,Boeing sees new aircraft demand worth $550 bln in SE Asia in 20 yrs,nifty_1204,Boeing sees new aircraft demand worth $550 billion in Southeast Asia over 20 years,0.92242587,0.3333333333333333,0,10fa67410b91337c8e56639c9b85448d,True,5,False,not_reviewed,True
+nifty_1062,Etihad Airways says it will add $6.2 bln to U.S. economy by 2020,nifty_1062,Etihad Airways says it will add $6.2 billion to U.S. economy by 2020 ,0.9224193,1.0,0,2fcd964ab3ad9afb96aec843d4695250,True,5,False,not_reviewed,True
+nifty_128,Philippine Airlines See Cancellations,nifty_344,Philippine Airlines Cancels Flights,0.9209723,0.2,397,399b29bb4a3e796087c2c0876578bba3,True,5,False,not_reviewed,True
+nifty_147,Boeing Delays Jet's Delivery,nifty_739,Boeing Faces Possible Jet-Delivery Delays,0.91897625,0.3333333333333333,1098,272765eaee2b340c84d7a55d75c5bad8,False,1,True,not_returned,False
+nifty_206,India Likely to Give Order for 126 Fighter Jets by December,nifty_219,India to Order 126 Fighter Jets by September,0.9188907,0.4,22,96379b266b529c57001bc9961c416a7a,False,1,True,not_returned,False
+nifty_1146,JetBlue Profit Rises on Low Fuel Costs,nifty_1243,JetBlue Profit Soars on Cheap Fuel,0.9188064,0.5,182,cf9f7d94cdc1e8cfbbac49afb6f3b3a0,False,1,True,not_returned,False
+nifty_283,Airline Satisfaction Improves,nifty_681,Airlines' Passenger-Satisfaction Improves,0.9187134,0.0,741,354958d0c41bcf6c751967c36bfffee8,False,1,True,not_returned,False
+nifty_932,Pilots Union Plans New Lufthansa Strikes,nifty_1021,Lufthansa Pilots Union Calls for Strike,0.91810054,0.4285714285714285,172,a742d2ee431278d2cd31b735b853f06a,False,1,True,not_returned,False
+nifty_189,"UPDATE 1-Fujitsu, Boeing in aircraft supply chain deal - Nikkei",nifty_189,"Fujitsu, Boeing in aircraft supply chain deal: Nikkei",0.91571486,0.8,0,92b4bd46d66db5cf77adc6cd98e74bdd,False,1,True,not_returned,True
+nifty_275,Flights Seen Resuming as Ash Clouds Clear,nifty_276,Flights Seen Resuming as Ash Clears,0.91495067,0.3333333333333333,1,9c5229ba292757703608a3b9a724b29a,False,1,True,not_returned,True
+nifty_1243,JetBlue Profit Soars on Cheap Fuel,nifty_1293,Low Fuel Costs Help JetBlue’s Profit Rise,0.91451955,0.2,91,d278b050f6754c8e4a0218d616c9fb07,False,1,True,not_returned,True
+nifty_1146,JetBlue Profit Rises on Low Fuel Costs,nifty_1195,JetBlue Profit Doubles on Cheap Fuel,0.91414076,0.5,93,5b1f905b93bc41413baa0407ceaefdbf,False,1,True,not_returned,False
+nifty_731,Air France Plans More Cost Cuts,nifty_1148,Air France Seeks Cost Cuts Despite Higher Profit,0.91405404,0.5,771,eae93b10dac041f81c2c1fd5b36de3b2,False,1,True,not_returned,False
+nifty_281,IATA Cuts Airline Profit Forecast,nifty_383,IATA Cuts Airline Forecast,0.91388184,0.3333333333333333,184,7cb4c267525c53280e12cee07b09aa1d,False,1,True,not_returned,False
+nifty_603,Ryanair Raises Forecasts,nifty_932,Ryanair Raises Passenger Forecast,0.9122545,0.3333333333333333,605,7b72f0c4da21e056bc32bbade1a06435,False,1,True,not_returned,False
+nifty_60,Boeing Delays 787 Fuselage Shipments,nifty_206,Boeing Delays 787 Deliveries,0.91091645,0.3333333333333333,267,53b3067204fe9bce79bca919d2df7c07,False,1,True,not_returned,False
+nifty_553,Etihad would be interested in govt's Aer Lingus stake,nifty_553,Etihad would be interested in Irish government's Aer Lingus stake,0.91026366,0.6,0,a6aa877bf232d23208f1aa55967a5230,False,1,True,not_returned,True
+nifty_409,EasyJet Soars as Revenue Grows,nifty_797,Easyjet Revenue on the Rise,0.90902644,0.0,728,6501b8c57be61b34bbd9abce73567fa2,False,1,True,not_returned,False
+nifty_932,Pilots Union Plans New Lufthansa Strikes,nifty_933,Lufthansa Pilots Plan New Strike,0.90784836,0.1428571428571428,4,c70d0aa619fc4f4f37a5ff918c1a74d1,False,1,True,not_returned,False
+nifty_756,Boeing to Increase 737 Production,nifty_936,Boeing Will Boost 737 Production,0.90763396,1.0,336,ce0080132824187a63add87939a4de98,False,1,True,not_returned,True
+nifty_803,Boeing May Boost 737 Production,nifty_909,Boeing Plans Further 737 Production Boost,0.9074295,0.3333333333333333,191,ddb7c09c8778f3a0242d2e6fe145a3f2,False,1,True,not_returned,True
+nifty_805,Singapore Airlines Profit Falls Sharply,nifty_900,Singapore Airlines Net Profit Falls 71%,0.90742624,0.25,174,bf86f15940ede57f83f676bac92346e0,False,1,True,not_returned,False
+nifty_413,Singapore Airlines Net Profit Falls 53%,nifty_805,Singapore Airlines Profit Falls Sharply,0.90731573,0.25,735,161afa44ce75a481ca688484dc2f35a5,False,1,True,not_returned,False
+nifty_151,EasyJet Raises Profit Forecast,nifty_897,EasyJet Profit Forecast Disappoints,0.9059224,0.3333333333333333,1386,765c306d36011efa00c20a3d424c0402,False,1,True,not_returned,False
+nifty_805,Singapore Airlines Profit Falls Sharply,nifty_855,Singapore Airlines Profit Falls 60%,0.9054049,0.6666666666666666,91,6af30248bd1a12b973b1689cb72ea944,False,1,True,not_returned,False
+nifty_475,Jet Airways' Loss Widens,nifty_752,Jet Airways Posts Wider Loss,0.90522933,0.4,518,a2a86f7300b2b7565a48dd1a3e027a5f,False,1,True,not_returned,False
+nifty_515,Air Canada Posts Wider Loss,nifty_859,Air Canada Loss Widens,0.903806,0.4,645,55e9ca911db9e858045bbc8457c8d2cb,False,1,True,not_returned,False
+nifty_481,Air India to Get Three Dreamliners in June,nifty_525,Air India to Get Dreamliner This Week,0.90290517,0.5,82,c88504b6cef3f598a0c364992a78c2b0,False,1,True,not_returned,False
+nifty_206,Boeing Delays 787 Deliveries,nifty_311,Boeing Slows 787 Deliveries,0.90260273,1.0,190,b5d95db26d1b2c30384e3bfa27b65752,False,1,True,not_returned,True
+nifty_756,Boeing to Increase 737 Production,nifty_803,Boeing May Boost 737 Production,0.9022897,1.0,96,d53c05503b81796dbb758aa28cefe125,False,1,True,not_returned,True
+nifty_997,JetBlue’s Profits Rise as Fuel Drops,nifty_1293,Low Fuel Costs Help JetBlue’s Profit Rise,0.9013793,0.2,544,45010ba2c61271e0f4388886a75589e8,False,1,True,not_returned,True
+nifty_219,Eurofighter sees strong demand for fighter jet market,nifty_219,AIRSHOW-Eurofighter sees strong demand for fighter jet market,0.9010123,0.5,0,0dad2190cf99270760a158d3ea1275fb,False,1,True,not_returned,True
+nifty_40,Lufthansa Pilots Call New Strike,nifty_933,Lufthansa Pilots Plan New Strike,0.9002798,1.0,1652,6a92b6934221c995925ee6dd2ecd8cb7,False,1,True,not_returned,False
+nifty_600,The Science Behind Dreamliner's Batteries,nifty_607,Dreamliner-Like Batteries  Raised Concerns,0.89836353,0.0,13,8f94604e423e5170d5b76a0f35dc303d,False,1,True,not_returned,False
+nifty_536,Boeing Engineers' Union Recommends Rejection of Contract,nifty_764,Boeing Union Rejects Contract,0.8979629,0.2857142857142857,423,84f368b7db23606eb55199c1deb705e8,False,1,True,not_returned,False
+nifty_173,EasyJet Profit Soars,nifty_1356,EasyJet Profit Dives,0.8969955,0.3333333333333333,2191,c154439307ca03bd44171ffb50783619,False,1,True,not_returned,False
+nifty_318,UPDATE 1-Acquisitions key for EADS' U.S. growth - CFO,nifty_318,Acquisitions key for EADS' U.S. growth: CFO,0.8967216,0.4285714285714285,0,8a6f6272eed4a68709eb2c6aa7c64b08,False,1,True,not_returned,True
+nifty_775,Chinaâs air zone announcement was just the beginning,nifty_775,COLUMN-China's air zone announcement was just the beginning,0.8963266,0.25,0,095e0215a8d724011eae5fa78d04d3d1,False,1,True,not_returned,True
+nifty_422,Frankfurt Airport Strike to Continue,nifty_423,Frankfurt Airport Strike Halted,0.896129,1.0,1,1f880328ac6898414bffbac7fa3c2c2e,False,1,True,not_returned,False
+nifty_40,Lufthansa Pilots Call New Strike,nifty_925,Lufthansa Pilots Call Off Strike,0.89583224,0.5,1638,21420fb77e6a41ae181272d1a7452b07,False,1,True,not_returned,False
+nifty_366,Singapore Airlines Net Falls 49%,nifty_413,Singapore Airlines Net Profit Falls 53%,0.89550745,0.5,91,8a7e2172cecac96987c7879d7239ca49,False,1,True,not_returned,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1243,JetBlue Profit Soars on Cheap Fuel,0.8953051,0.5,818,f08ed08ae6252b2b980d0404b6f44a34,False,1,True,not_returned,False
+nifty_333,Ireland considering sale of Aer Lingus stake,nifty_338,UPDATE 1-Ireland to value Aer Lingus stake as sale looms,0.8950909,0.8333333333333334,8,6bf9bfc66ec233a1619b3674970dd6a7,False,1,True,not_returned,False
+nifty_873,"UPDATE 3-Lufthansa warns on profit, shares plunge",nifty_1291,Lufthansa Shares Plunge on Profit- Warning,0.8949691,0.2,771,2c335b9263bf0d11406655b8cb094c41,True,5,False,not_reviewed,True
+nifty_583,UPDATE 1-Airline industry raises profit forecasts,nifty_672,Airline Profits Forecast to Rise,0.8949338,0.0,172,ae79c7b77a49d91e55468b83dfec7be5,True,5,False,not_reviewed,True
+nifty_933,Lufthansa Pilots Plan New Strike,nifty_945,Lufthansa Pilots to Expand Strike,0.89456165,0.5,21,e60f3dd454f4e3992f11c2421ced25fa,True,5,True,incorrect,False
+nifty_549,EADS-BAE deal talks collapse,nifty_550,Deal's Collapse Leaves Challenges for BAE and EADS,0.89454806,0.4,1,33dbf9a474a99e7f005b89b83a839aad,True,5,False,not_reviewed,True
+nifty_932,"UPDATE 1-Airbus raises jet demand forecast, sees China growth",nifty_932,"RPT-UPDATE 1-Airbus raises jet demand forecast, sees China growth",0.89427465,0.5714285714285714,0,65d1220af5e6beb6382b6e9f6d64e47e,True,5,False,not_reviewed,True
+nifty_684,Ryanair May Buy 200 More Boeing Jetliners,nifty_921,Ryanair to Buy Up to 200 Jets From Boeing,0.8915004,0.5,441,a44dd6f3fad6a53f159e9bef212473a9,True,5,False,not_reviewed,True
+nifty_756,Boeing to Increase 737 Production,nifty_909,Boeing Plans Further 737 Production Boost,0.8910012,0.3333333333333333,287,291fec2ae1c9e297baff36e3db2ecfe0,True,5,False,not_reviewed,True
+nifty_44,Boeing Dreamliner Passes Test,nifty_646,Boeing Completes Dreamliner Tests,0.8898509,0.4,1114,0db54fb866f9a4bbfdcf33e58aed9878,True,5,False,not_reviewed,True
+nifty_997,JetBlue’s Profits Rise as Fuel Drops,nifty_1146,JetBlue Profit Rises on Low Fuel Costs,0.8895915,0.2,271,85c357ac80dc2819b25dfaf0a665aa0c,True,5,False,not_reviewed,True
+nifty_289,Air Lease to Place Big Boeing Order,nifty_497,Air Lease Places Boeing Order,0.8893474,0.5,385,b9a7e48eb63601ea5e2d373282217b63,True,5,False,not_reviewed,True
+nifty_456,AFA's Next Mitchell Hour Puts Focus on Chinese Air Force and Space Program,nifty_644,AFA's Next Mitchell Hour Covers China's Air and Space Revolution,0.88925374,0.1818181818181818,353,de5e93df2f9d2e8e2e0a9bd292596fb4,True,5,False,not_reviewed,True
+nifty_337,Air India to Discuss Dreamliner Order,nifty_349,Ministerial Panel to Discuss Air India Dreamliner Order,0.88887686,0.3333333333333333,21,60f5e52b0a48e25d69e3c43e66a3e886,True,5,False,not_reviewed,True
+nifty_333,Ireland considering sale of Aer Lingus stake,nifty_338,Irish govt to move on Aer Lingus stake sale -report,0.88768524,0.25,8,1e3b4a04eabad50adffd7fd9f59969ad,True,5,False,not_reviewed,True
+nifty_1195,JetBlue Profit Doubles on Cheap Fuel,nifty_1293,Low Fuel Costs Help JetBlue’s Profit Rise,0.8875227,0.2,180,eb03a6344e312683daac4df7c3584a04,True,5,True,incorrect,True
+nifty_142,Airline Profit Forecast Makes a Sharp Ascent,nifty_672,Airline Profits Forecast to Rise,0.8855498,0.0,985,1000865714b5a527e81d9aafebfb111e,True,5,False,not_reviewed,True
+nifty_173,EasyJet Profit Soars,nifty_409,EasyJet Soars as Revenue Grows,0.8848829,0.3333333333333333,436,582438698760245b5ce92e1cf4b5d650,True,5,True,incorrect,False
+nifty_134,Airgas Rejects Air Products' Bid,nifty_1164,Air Products Won’t Pursue Airgas Bid,0.8844895,0.0,1910,6abf6cd3329a93c67aa52badba6bb879,True,5,False,not_reviewed,True
+nifty_797,Easyjet Revenue on the Rise,nifty_995,EasyJet Sales Rise,0.8843085,0.0,369,446dfa15b2b3b5c01865f275a26ffbdb,True,5,False,not_reviewed,True
+nifty_275,"AirAsia Profit Falls, Revenue Rises",nifty_325,AirAsia Profit Falls 48%,0.88391376,0.6666666666666666,91,8ce0576fecac833d42f9a134d8eb8093,True,5,False,not_reviewed,False
+nifty_610,Singapore Airlines Profit Rises,nifty_805,Singapore Airlines Profit Falls Sharply,0.8837462,1.0,364,b5d49bf1b30b8ec9de9458eca7b133fd,False,5,False,correct,False
+nifty_318,REFILE-Acquisitions key for EADS' U.S. growth - CFO,nifty_318,Acquisitions key for EADS' U.S. growth: CFO,0.8836022,0.5,0,62cbde457492d06895e106505181e7ac,True,5,False,not_reviewed,True
+nifty_83,Airline-Passenger Satisfaction Improves,nifty_663,"Air Passenger Satisfaction Improves, Survey Says",0.881311,0.0,1072,f844eb8951e25967c60a7567cd2a4642,True,5,False,not_reviewed,True
+nifty_489,Ryanair Bids for Aer Lingus,nifty_699,Ryanair Vows to Sell Aer Lingus,0.88060373,0.6,398,36ecfd1560473aa9b6baebebc4327342,False,5,False,not_reviewed,False
+nifty_731,Air France Plans More Cost Cuts,nifty_1132,Air France to Unveil Drastic Cost-Cutting Plan,0.8804649,0.6,743,e146b69d147a4a907df9a49c7343b8f3,True,5,False,not_reviewed,True
+nifty_1158,EasyJet Sees Short-Term Terror Impact,nifty_1251,EasyJet Swings to Loss on Terrorism Fears,0.88010657,0.25,175,2b69359fee781a01454eb12c953be807,True,5,False,not_reviewed,False
+nifty_206,Delta Air Lines Posts Profit,nifty_622,Delta Air Lines Projects Profit,0.87910116,1.0,775,17f5cffa90d8cbd00ca3f19218779041,True,5,False,not_reviewed,True
+nifty_366,Singapore Airlines Net Falls 49%,nifty_900,Singapore Airlines Net Profit Falls 71%,0.87859523,0.5,1000,da7bbe2ad07aaa1c420c58df6045c4f9,False,5,False,not_reviewed,False
+nifty_1139,Delta Profit Soars on Lower Fuel Costs,nifty_1189,Delta Swings to Profit on Lower Fuel Costs,0.878132,0.6666666666666666,97,6d0d455d9916bc9753d641cc339c3aff,True,5,False,not_reviewed,True
+nifty_110,"Research and Markets: Ryanair Holdings Plc - Examining the Company Shares, Financial Performance, Marketing Strategies, Challenges & Future Prospects",nifty_478,"Research and Markets: Ryanair Holdings plc - Strategy and SWOT Report - 2012 - News about Ryanair Holdings Plc, Such As Business Expansion, Restructuring and Contract Wins",0.87780887,0.3157894736842105,674,9f9802292bd5b0c85cde6292c6f0e6cb,True,4,False,not_reviewed,True
+nifty_515,Kingfisher Cancels 31 Flights,nifty_545,Kingfisher Cancels Flights Amid Strikes,0.8765503,0.25,55,cf1336e2d032660583b6384d65352b64,True,5,False,not_reviewed,True
+nifty_973,Boeing sees aircraft funding market remaining strong,nifty_973,UPDATE 1-Boeing sees funding for aircraft buyers remaining strong,0.87604296,0.25,0,68447ee19bc36231a494e45b2de17528,True,5,False,not_reviewed,True
+nifty_40,Lufthansa Pilots Call New Strike,nifty_1021,Lufthansa Pilots Union Calls for Strike,0.87514496,0.1428571428571428,1820,3811ff2d698c9eede81fb310e600a532,True,5,False,not_reviewed,True
+nifty_663,"Air Passenger Satisfaction Improves, Survey Says",nifty_681,Airlines' Passenger-Satisfaction Improves,0.875127,0.0,34,6d21cc6e45e1cc139c66583b439442f0,True,5,False,not_reviewed,True
+nifty_473,Analysis: Golden age or bubble? Plane-makers walk the line,nifty_473,Golden age or bubble? Plane-makers walk the line,0.87508845,0.8,0,d6f9265638e4ac4f9a44a24b962ff4a4,True,5,False,not_reviewed,True
+nifty_473,Golden age or bubble? Plane-makers walk the line,nifty_474,Analysis: Golden age or bubble? Plane-makers walk the line,0.8750884,0.8,1,9dcc8676c6db2a2712d04791c8babf38,True,5,False,not_reviewed,True
+nifty_474,Analysis: Golden age or bubble? Plane-makers walk the line,nifty_474,Golden age or bubble? Plane-makers walk the line,0.8750883,0.8,0,d6f9265638e4ac4f9a44a24b962ff4a4,True,5,False,not_reviewed,True
+nifty_473,Analysis: Golden age or bubble? Plane-makers walk the line,nifty_474,Golden age or bubble? Plane-makers walk the line,0.8750882,0.8,1,d6f9265638e4ac4f9a44a24b962ff4a4,True,5,False,not_reviewed,True
+nifty_1148,U.N. Panel Urges Strictest Rules for Lithium Batteries as Air Cargo,nifty_1194,U.N. Panel Recommends Ban on Lithium Batteries as Passenger Plane Cargo,0.8750788,0.4285714285714285,90,6e631a5f70ebd6dd7e4c9396efcc1f77,False,5,False,not_reviewed,False
+nifty_646,Boeing Completes Dreamliner Tests,nifty_650,Boeing Had Say on Dreamliner Tests,0.8748241,0.75,7,7d33a73fdf94242e698cc98d248b0b92,False,5,False,not_reviewed,False
+nifty_165,Boeing expects to maintain 50-52 pct China market share -exec,nifty_165,UPDATE 1-Boeing expects to keep 50-52 pct China market share,0.8742643,0.75,0,cba84fd00a678ee407b17e50081b326d,True,5,False,not_reviewed,True
+nifty_333,Boeing Boosts New Airplane Demand Forecast in China,nifty_724,UPDATE 1-Boeing bumps up forecast for long-term China plane demand,0.87327933,0.4,729,3cd7a631ccf3661ddd42aa7b9fb292d3,True,5,False,not_reviewed,True
+nifty_633,Lufthansa Cancels Flights Amid Strike,nifty_1361,"Lufthansa Pilots Extend Strike; Airline Cancels 1,700 Flights",0.8731356,0.3333333333333333,1348,df8e283d305179b13cdfa366945b72a1,True,5,False,not_reviewed,False
+nifty_318,Fuel Retailers Halt Supplies to Air India,nifty_413,Fuel Supplies to Air India Halted,0.8722656,0.5,176,350d95d19625ef31b1fdb772005b7798,True,5,False,not_reviewed,True
+nifty_408,"Boeing Posts Higher Profit, Revenue",nifty_458,Boeing's Profit Jumps,0.87199104,0.25,91,dbb223fab59252b18a24549adecdbf49,True,5,False,not_reviewed,True
+nifty_49,BA Talks With Union Break Down,nifty_88,"BA, Union Talks Collapse",0.87168884,0.25,70,9d5ee2b2c7933e5acab4ce07075ee95f,True,5,False,not_reviewed,True
+nifty_1078,UPDATE 1-China to invest $80 bln in 193 aviation projects this year,nifty_1078,China to invest $80 billion in 193 aviation projects this year,0.8716752,0.6666666666666666,0,ed99fabc72a1b347cef6a6714db9f990,True,5,False,not_reviewed,True
+nifty_925,Lufthansa Pilots Call Off Strike,nifty_1021,Lufthansa Pilots Union Calls for Strike,0.8711843,0.3333333333333333,182,c4c049dd8f9950e69ea3fe4cba197a5d,False,5,False,not_reviewed,False
+nifty_275,"AirAsia Profit Falls, Revenue Rises",nifty_423,AirAsia's Profit Falls 56%,0.87089676,0.25,274,bbfa7e32c73d518b4b99fc1d03b7fc7e,True,5,False,not_reviewed,True
+nifty_119,Research and Markets: US Airlines Industry: Sector Report,nifty_1092,Research and Markets: Global Airlines Industry Report 2015 - Analysis and Forecast 2010 - 2019,0.870549,0.25,1806,cfd72dac6c295c7ffb9474083079e481,False,5,False,not_reviewed,False
+nifty_1206,Virgin America’s Profit Rises on Lower Fuel Costs,nifty_1245,Virgin America Results Boosted by Lower Fuel Costs,0.8705374,0.6,70,d93660932c48bc3ca1f42f92d2231be3,True,5,False,not_reviewed,True
+nifty_534,Research and Markets: Airlines in China,nifty_573,"Research and Markets: China Air Transport and Airport Industry Report, 2011-2012",0.87004024,0.3,76,f6d910e6953e95cda2ca1edf36ba01b6,False,5,False,correct,False
+nifty_841,"Spirit AeroSystems, Boeing in Tentative Supply Deal",nifty_1048,Boeing Pursues Fresh Deal With Spirit AeroSystems,0.8699028,0.6666666666666666,385,5477ce7716a9908ee400b6f8bb46d3e1,True,5,False,not_reviewed,True
+nifty_275,"AirAsia Profit Falls, Revenue Rises",nifty_1062,"AirAsia’s Profit Rises, But Challenges Remain",0.86959445,0.2,1465,4fef4f3a779f8a9dd40563ccda80f2dd,False,5,False,not_reviewed,False
+nifty_948,"Airlines Post Strong Profits, Offer Bullish Outlooks",nifty_1241,Airlines Post Strong Profits,0.8693549,0.6666666666666666,546,f5cfa61164a521796c52470e55d46055,True,5,False,not_reviewed,True
+nifty_836,Air Canada forecasts higher first quarter earnings as traffic rises,nifty_836,UPDATE 1-Air Canada forecasts higher Q1 earnings as traffic rises,0.8692637,0.5,0,499304328569a08faeff1083a66bc636,True,5,False,not_reviewed,True
+nifty_925,Lufthansa Pilots Call Off Strike,nifty_943,Lufthansa’s Germanwings Pilots Call Strike,0.8690873,0.4,30,d893de2031951a89de0528eccaa8c1b6,False,5,False,not_reviewed,False
+nifty_1179,Helicopter Industry Slow to Make Safety Changes,nifty_1179,Helicopter Industry Moves to Improve Safety,0.8690077,0.3333333333333333,0,249207f3fac7efad9666e9f931e71d40,False,5,False,not_reviewed,False
+nifty_208,Virgin Blue Warns of Profit Drop,nifty_225,Virgin Blue Profit Drops 62%,0.86896074,0.4,30,dea09c39874881dcdb565d3cbce3fd53,True,5,False,not_reviewed,False
+nifty_805,Norwegian Airline Expects to Get Irish License,nifty_808,Norwegian Air Shuttle Gets Irish License,0.86881554,0.3333333333333333,6,f29e6e2857c1765936149af24669e7dc,False,5,False,not_reviewed,False
+nifty_1090,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,nifty_1090,Lockheed Martin to Buy Sikorsky for $9 Billion,0.867952,0.2857142857142857,0,54a1f7b4f8357c908d476aee02030220,False,5,False,not_reviewed,False
+nifty_1090,Lockheed Martin to Buy Sikorsky for $9 Billion,nifty_1091,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,0.867952,0.2857142857142857,1,9a14152c665778ea039bf3f20de30f3a,False,5,False,correct,False
+nifty_1204,AIRSHOW-Boeing sees new aircraft demand worth $550 bln in SE Asia over 20 yrs,nifty_1204,Boeing sees new aircraft demand worth $550 billion in Southeast Asia over 20 years,0.86767447,0.2727272727272727,0,2a2bbae47b417dc4782e39118846fa51,True,5,False,not_reviewed,True
+nifty_1008,"Research and Markets: Opportunities in the $33 Billion Global Business Jets Market 2015 Featuring Gulfstream Aerospace Corp., Bombardier Inc., Cessna Aircraft, Honeywell International Inc. & Embraer S.A.",nifty_1043,"Research and Markets: Global Business Jet Market 2015-2019 with Bombardier, Cessna, Dassault Aviation, Embraer & Gulfstream Dominating",0.8668832,0.3103448275862069,63,ab876bd20fc61d35fc37e2ca1f5c32c8,False,5,False,not_reviewed,False
+nifty_111,Lufthansa Narrows Loss,nifty_431,Lufthansa Swings to Full-Year Loss,0.8658011,0.3333333333333333,588,aeaf764a3f5e90b9171b12a8e52b4fe4,False,5,False,correct,False
+nifty_613,Boeing Looks at Interim 787 Fixes,nifty_616,Boeing to Propose 787 Fixes,0.865769,0.3333333333333333,7,abdf56b2cb135dc48a30cae678a206a8,False,5,False,not_reviewed,False
+nifty_956,U.S. Airlines Expect Rise in Thanksgiving Air Travelers,nifty_1152,U.S. Airlines Expect 3% Increase in Passengers Over Thanksgiving Period,0.86572134,0.375,364,f571e62d6e530dbc9b7778b19a10efe4,True,5,False,not_reviewed,False
+nifty_490,"Air France to Cut Over 5,000 Jobs",nifty_704,Air France Cuts More Jobs,0.8654807,0.6,405,35784dd2f2cd05c12a552c66e11a3db4,True,5,False,not_reviewed,False
+nifty_173,EasyJet Profit Soars,nifty_962,EasyJet Profit Jumps,0.86523724,1.0,1463,ed7ca67f2d154c4225f40178c1402481,True,5,False,not_reviewed,False
+nifty_945,"Toyota Recalling 247,000 Vehicles for Air Bags",nifty_1279,Toyota Recalls 1.4 Million Cars for  New Air-Bag Defect,0.86518854,0.2,618,7cf9a8ed190b9d3f2a6f1c5ca241cdb7,False,5,False,not_reviewed,False
+nifty_525,Air India to Get Dreamliner This Week,nifty_531,Air India Gets Delivery of Dreamliner,0.8650619,0.8,10,70219a70ec4aecedc0b704a0c9fd8b35,True,5,False,not_reviewed,False
+nifty_534,Research and Markets: Airlines in China,nifty_812,"Research and Markets: China Air Transport and Airport Industry Report, 2013-2016",0.8650021,0.3,526,5bdf133e78ee2c27d128439df4dd4c9f,False,5,False,not_reviewed,False
+nifty_377,"Air India May Sell Dreamliner Plane on Delivery, Lease Back",nifty_378,Air India to Sell and Lease Back Dreamliners,0.8649392,0.5,1,3926da4fa1fce32588252570e46f88f2,True,5,False,not_reviewed,True
+nifty_529,Lufthansa Faces New Strike,nifty_1153,Lufthansa Strike Continues,0.8648189,0.3333333333333333,1161,f9643dab80ca52de7eb109655a71471a,False,5,False,not_reviewed,False
+nifty_337,Air India to Discuss Dreamliner Order,nifty_531,Air India Gets Delivery of Dreamliner,0.86462533,0.5,358,71c77714e04a305c3fcc276c2099817a,False,5,False,not_reviewed,False
+nifty_1152,U.S. Airlines Expect 3% Increase in Passengers Over Thanksgiving Period,nifty_1349,U.S. Airlines Expect Slight Rise in Thanksgiving Air Travel,0.86449146,0.375,363,adb935a06b55d80d3902c5889b28d903,True,5,False,not_reviewed,False
+nifty_422,Kingfisher Airlines Cuts More Flights,nifty_433,Kingfisher to Cut Flights,0.8637631,0.2,20,612a703b4e68abd74d9ea1454f8bb976,True,5,False,not_reviewed,False
+nifty_438,Air India Will Take Delivery of All Dreamliners,nifty_525,Air India to Get Dreamliner This Week,0.86357534,0.5,160,e90a5964757b836857019a7a9a62b0dc,True,5,True,incorrect,False
+nifty_68,EasyJet Cuts Outlook,nifty_441,EasyJet Raises Outlook,0.86339444,1.0,685,77286bd33d4f66a973617a4cfe4e9c5f,False,5,False,not_reviewed,False
+nifty_458,Boeing's Profit Jumps,nifty_896,"Boeing's Profits, Concerns Rise",0.8633454,0.0,819,202f62f9c14e0571e2b2e22037410314,True,5,False,not_reviewed,False
+nifty_238,Lufthansa Returns to Profit,nifty_1097,Lufthansa Profit Rebounds,0.86324924,1.0,1596,cfed4b2850e60cb61afb2d8ac153e8f9,True,5,False,not_reviewed,False
+nifty_438,Air India Will Take Delivery of All Dreamliners,nifty_481,Air India to Get Three Dreamliners in June,0.8624838,0.4285714285714285,78,6cf0a98605df28750e3e396f8671df4c,True,5,False,not_reviewed,False
+nifty_289,Air Lease to Place Big Boeing Order,nifty_460,Air Lease Near Boeing Deal,0.8623255,0.5,315,7bac7881523c1d9a6980ff0a8551a72a,True,5,False,not_reviewed,True
+nifty_966,"Research and Markets: Global Business Jet Market Outlook, 2020: Bombardier, Gulfstream, Cessna, Dassault & Embraer Dominate the $33 Billion industry",nifty_1008,"Research and Markets: Opportunities in the $33 Billion Global Business Jets Market 2015 Featuring Gulfstream Aerospace Corp., Bombardier Inc., Cessna Aircraft, Honeywell International Inc. & Embraer S.A.",0.8621008,0.3214285714285714,86,4cdc3ad29cabfb9b435e070e1efd7a9e,False,1,True,not_returned,False
+nifty_89,Air India Outlines Debt Plan,nifty_442,Panel to Discuss Air India Debt Plan,0.86167395,0.3333333333333333,649,0d5e84689dc4b669ad306f31d5bb0d0a,False,1,True,not_returned,False
+nifty_123,AirAsia Posts 43% Profit Rise,nifty_325,AirAsia Profit Falls 48%,0.8615966,0.3333333333333333,370,afb795d22a9f4a3d54c54a66a7ebee9a,False,1,True,not_returned,False
+nifty_291,Norwegian Airline in $1.2 Billion Boeing Order,nifty_408,Norwegian Airline in Huge Jet Order,0.8613286,0.1666666666666666,217,d8c73515fd8f0b90bf8b3612a7b6609d,False,1,True,not_returned,False
+nifty_226,AirAsia Net Profit Soars,nifty_1062,"AirAsia’s Profit Rises, But Challenges Remain",0.8612536,0.25,1554,c0dddfe79d23f13a3c761e360bda987b,False,1,True,not_returned,False
+nifty_19,"Delta, US Airways May Drop Slot Swap",nifty_353,"US Air, Delta Get OK to Swap Slots",0.86095595,0.2857142857142857,609,6494e9dc1c6bd90a880a005c3452f621,False,1,True,not_returned,False
+nifty_1007,Post-Earnings Briefing - Lockheed Martin,nifty_1192,Lockheed Martin Earnings: What to Watch,0.86092573,0.3333333333333333,341,c637d031c3d7444a7d9e8995664364eb,False,1,True,not_returned,False
+nifty_148,"Boeing, Airlines Face Off  Over Aircraft Subsidies",nifty_151,Airlines Oppose Plane Subsidies,0.8607139,0.25,3,f23aa21a5b36fb9409b239bb889f9ea8,False,1,True,not_returned,False
+nifty_455,Southwest Profit Soars,nifty_1191,Southwest Profit Soars on Cheap Fuel,0.8606926,0.6666666666666666,1372,806a7b8cb22e913b7ccc4876a9ca99b2,False,1,True,not_returned,False
+nifty_1148,Virgin America’s Profit Jumps on Lower Fuel Costs,nifty_1245,Virgin America Results Boosted by Lower Fuel Costs,0.8605895,0.6,182,bad7d1dd2b01ca2ff489ab8c0d801224,False,1,True,not_returned,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_847,JetBlue Profit Plunges,0.8600798,0.6666666666666666,85,ef05f026b481eab6e94d774508579390,False,1,True,not_returned,False
+nifty_506,Lockheed Raises Profit Forecast,nifty_845,Lockheed Raises Profit Guidance,0.86004204,0.3333333333333333,637,fab7127a8ce792f86142f8ef35addb2b,False,1,True,not_returned,False
+nifty_190,Boeing Plans to Boost 777 Production,nifty_1119,Boeing Plans Further Boost to 767 Output,0.86002624,0.25,1724,b7970d5fad26b34bc29d052a0e5a0f95,False,1,True,not_returned,False
+nifty_893,Brazil's Embraer Gets Order for 60 Planes,nifty_1088,Brazil’s Embraer Delivers 60 Planes in Second Quarter,0.8600012,0.3333333333333333,363,a30d34a6155cc439b9e60e82695b81e1,False,1,True,not_returned,False
+nifty_762,"Virgin America Posts Profit, Eyes IPO",nifty_831,"With Sights on IPO, Virgin America Posts First Yearly Profit",0.8599793,0.5714285714285714,134,ad22f649cea8c5f06384f837822993ac,False,1,True,not_returned,False
+nifty_337,Air India to Discuss Dreamliner Order,nifty_525,Air India to Get Dreamliner This Week,0.8599509,0.6,348,79cc0e7c1b2bcf5832fc8dbe9ce93681,False,1,True,not_returned,False
+nifty_366,Singapore Airlines Net Falls 49%,nifty_855,Singapore Airlines Profit Falls 60%,0.85988367,0.5,917,4444f394107fdaa1b9bdd641af27bae8,False,1,True,not_returned,False
+nifty_531,Strike Forces Lufthansa to Cancel Flights,nifty_1361,"Lufthansa Pilots Extend Strike; Airline Cancels 1,700 Flights",0.85941577,0.3333333333333333,1544,38d389ae5fbf6248e389778d6f8242c3,False,1,True,not_returned,False
+nifty_847,Southwest Airlines Earnings Jump on Lower Fuel Costs,nifty_993,Southwest Earnings Helped by Lower Fuel,0.8582861,0.1666666666666666,273,adbed061139fc3d904d9b84fb3d04914,False,1,True,not_returned,False
+nifty_192,Airgas Board Rejects Air Products' Bid,nifty_1164,Air Products Won’t Pursue Airgas Bid,0.8580565,0.0,1805,aa9aac7d475f6c64c7ca026031e38a77,False,1,True,not_returned,False
+nifty_622,JetBlue Aims to Expand Partnership With American,nifty_821,"American, JetBlue End Partnership",0.857965,0.6,371,986d838c15aa96589fc906d721864eac,False,1,True,not_returned,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1095,JetBlue’s Revenue Grows on Strong Demand,0.8571356,0.2,545,b8092427c3fcde87b397939cb5a2d3a3,False,1,True,not_returned,False
+nifty_431,Lufthansa Swings to Full-Year Loss,nifty_853,Lufthansa Loss Narrows,0.8570104,0.3333333333333333,790,2fa7a6e420a0137595f4f9aabf1fc9f0,False,1,True,not_returned,False
+nifty_1132,Jet-Engine Maker Pratt Shores Up Weak Link in Supply Chain,nifty_1266,Pratt Struggles With Supply Chain for Jet Engine,0.85665023,0.4,250,f4006498ca677c25446999e158f2c78b,False,1,True,not_returned,False
+nifty_76,Air India Workers Strike,nifty_466,Air India Strike Continues,0.8562662,0.5,715,faf0ed21ed61c7bdc595cf790a4f10dc,False,1,True,not_returned,False
+nifty_610,Singapore Airlines Profit Rises,nifty_900,Singapore Airlines Net Profit Falls 71%,0.85609776,0.25,538,cb50664831e5484bb0c4c71de3fb1b55,False,1,True,not_returned,False
+nifty_45,Aer Lingus's Net Loss Widens,nifty_126,Aer Lingus's First-Half Loss Narrows,0.855877,0.5,147,c8f19fa9a3101141a76627fe20e5c3eb,False,1,True,not_returned,False
+nifty_997,JetBlue’s Profits Rise as Fuel Drops,nifty_1243,JetBlue Profit Soars on Cheap Fuel,0.85577947,0.2,453,6b27385547b5d4d3b2a64f3f50bf7dae,False,1,True,not_returned,True
+nifty_847,American Airlines Profit Soars,nifty_897,American Airlines Profit Climbs,0.8557063,1.0,91,822ce6593d3932f65fd6d20c22766b22,False,1,True,not_returned,True
+nifty_963,JetBlue to Add Bag Fees,nifty_1080,"JetBlue Sets New Fare Classes, Bag Fees",0.8556719,0.6666666666666666,223,9dcda5e359daf423aa4434e5610ea38c,False,1,True,not_returned,False
+nifty_456,United Nears Deal to Buy Boeing Jets,nifty_991,United Nears Deal to Convert Boeing Order to Larger Jets,0.85541457,0.3333333333333333,1002,ae5e9daf18094fd883e155e10178b1f3,False,1,True,not_returned,False
+nifty_1112,Boeing Settles Suit Over Its 401(k) Plan,nifty_1152,Boeing Agrees to Pay $57 Million to Settle 401(k) Lawsuit,0.855329,0.25,71,d583551144f2e2dbd26e78101c4f78de,False,1,True,not_returned,False
+nifty_262,"Air India Strike Continues, 88% of Flights Cancelled",nifty_466,Air India Strike Continues,0.85508657,0.6,373,d4dae41df0a9642671e9c3ace75cea95,False,1,True,not_returned,True
+nifty_98,Research and Markets: UK Airlines Sector: Industry Profile - Gain an Insight into the Evolution of the Industry and Competitive Dynamics,nifty_985,Research and Markets: The Future of Airlines in the United Kingdom to 2018,0.8549116,0.2142857142857142,1646,5516d42cbe711f1a9c8157bcdf8a7661,False,1,True,not_returned,False
+nifty_962,EasyJet Profit Jumps,nifty_1356,EasyJet Profit Dives,0.8548186,0.3333333333333333,728,ab92011f4778da68afc1717561818b11,False,1,True,not_returned,False
+nifty_835,Lufthansa Pilots on Three-Day Strike,nifty_933,Lufthansa Pilots Plan New Strike,0.85471267,0.5,180,d9c91b9ce32a0b9f1fa52db72a71de53,False,1,True,not_returned,False
+nifty_447,US Airways Pushes Merger,nifty_631,"American, US Airways Executives Defend Merger",0.8545697,0.5,349,cd791ab944e097b03f44a5676cdba594,False,1,True,not_returned,False
+nifty_791,Airbus Posts Record Jet Orders,nifty_943,Airbus Gains Record Jet Order,0.85426867,0.3333333333333333,275,4505e50240787751a6ecf0a2e92de0ab,False,1,True,not_returned,False
+nifty_261,"Air India Cancels 71 Flights, Suspends Bookings",nifty_469,Air India Cancels 36 Flights,0.8541476,0.5,383,4ca482b48f5666bc14000cbf4b37b000,False,1,True,not_returned,False
+nifty_558,"WRAPUP 1-Lockheed, Northrop and Boeing beat forecasts, GD misses",nifty_558,"Lockheed, Northrop and Boeing beat forecasts, General Dynamics misses",0.85371107,0.5,0,9e2518a2cb0f9237ff8b9c1004411df0,False,1,True,not_returned,True
+nifty_1170,Airlines Set to Deliver Higher Profit,nifty_1241,Airlines Post Strong Profits,0.8536872,0.3333333333333333,133,c5d465e8df2b0e12a89da87942ac2386,False,5,False,not_reviewed,False
+nifty_318,"UPDATE 1-Cathay Pacific H1 net profit down 59 pct, beats forecasts",nifty_318,"Cathay Pacific H1 net profit down 59 percent, beats forecasts",0.85311836,0.8333333333333334,0,fab2f013cd2c645efe64e5b80b1e7357,True,5,False,not_reviewed,True
+nifty_835,Lufthansa Pilots on Three-Day Strike,nifty_945,Lufthansa Pilots to Expand Strike,0.8526214,0.5,201,b94f61ef9d1822530f4236ad7adc9208,False,5,False,correct,False
+nifty_423,AirAsia's Profit Falls 56%,nifty_1062,"AirAsia’s Profit Rises, But Challenges Remain",0.85249305,0.25,1191,58cbd0003e383cafba07e2acdbcd08d6,False,5,False,not_reviewed,False
+nifty_98,Lockheed Offers Buyouts  to Executives,nifty_134,Lockheed Says More Than 600 Executives Seek Buyouts,0.8522141,0.5,64,a8574f44eb920dd5fbfa0960a01a2d8a,False,5,False,not_reviewed,False
+nifty_337,Air India to Discuss Dreamliner Order,nifty_438,Air India Will Take Delivery of All Dreamliners,0.85215527,0.5,188,663c1745eb4d75b2af4272714b9662c0,False,5,False,not_reviewed,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1146,JetBlue Profit Rises on Low Fuel Costs,0.85210526,0.5,636,9102582e54d9553201d13afd45975d1c,True,4,False,not_reviewed,False
+nifty_344,Dreamliner Makes Its Way to Japan,nifty_505,Dreamliners Are Grounded in Japan,0.85163957,0.25,300,223eaf1a9dab14ca071c0ff0018389df,False,5,False,not_reviewed,False
+nifty_173,EasyJet Profit Soars,nifty_797,Easyjet Revenue on the Rise,0.85162354,0.0,1164,35f50f77f01cd9085b50ed1e6c238e57,False,5,False,not_reviewed,False
+nifty_55,Sikorsky's Business Heads Up,nifty_1071,Energy Business Hits Sikorsky,0.85157293,0.3333333333333333,1883,8dc27a53620e21542e7e55c524b56932,False,5,False,correct,False
+nifty_836,Boeing Commercial Deliveries Rise,nifty_1133,Boeing Commercial Deliveries Rise 7%,0.85130286,1.0,550,7bde66487e4501a50626da645b0945f1,True,5,False,not_reviewed,False
+nifty_496,Boeing Commercial Deliveries Rise,nifty_1133,Boeing Commercial Deliveries Rise 7%,0.8513028,1.0,1187,7bde66487e4501a50626da645b0945f1,True,5,False,not_reviewed,False
+nifty_740,Boeing Commercial Deliveries Rise,nifty_1133,Boeing Commercial Deliveries Rise 7%,0.8513026,1.0,732,7bde66487e4501a50626da645b0945f1,True,5,False,not_reviewed,False
+nifty_402,Air France-KLM Starts Cost Cuts,nifty_509,Costs Hit Air France-KLM,0.85127026,0.6666666666666666,200,db8a01f5546a2af588e3574d783585e1,False,5,False,not_reviewed,False
+nifty_1194,U.N. Panel Recommends Ban on Lithium Batteries as Passenger Plane Cargo,nifty_1208,Lithium-Battery Cargo Temporarily Banned From Planes,0.85114855,0.0,27,6e9442f6884e3b12613c8174c5ee106d,False,5,False,not_reviewed,False
+nifty_480,Etihad Invests in Virgin Australia,nifty_481,Etihad Raises Virgin Australia Stake,0.85097766,0.6,1,5d535c36e70f1dcc4dfbd96e5a7b7c25,False,5,False,not_reviewed,False
+nifty_873,UPDATE 1-Etihad to invest up to 1.25 bln euros in Alitalia - Italian minister,nifty_873,Etihad to invest up to 1.25 billion euros in Alitalia: Italian minister,0.85031325,0.4,0,51097895f10c7ae96f7d45cf1457389c,True,5,False,not_reviewed,True
+nifty_215,Delta Says Higher Fares Will Offset Fuel Costs,nifty_919,Delta Warns on Higher Fuel Prices,0.85005766,0.25,1308,3e93bf76cb286ac8286e0e6bcb0ba19e,False,5,False,not_reviewed,False
+nifty_973,Airline Profit Outlook Rises,nifty_1067,Airlines’ Global Profit Outlook Gets Lift,0.84973437,0.0,180,759cb1d1920f57d4113690a164642ddc,True,5,False,not_reviewed,True
+nifty_592,UPDATE 2-Alitalia investors consider possible sale -sources,nifty_592,Alitalia investors consider possible sale: sources,0.84915835,0.5,0,613e04aaf1677140bef0745b19694a04,True,5,False,not_reviewed,True
+nifty_328,Cathay to Offer Premium Economy,nifty_385,Cathay to Launch Premium Economy Class,0.84908575,0.3333333333333333,105,db964dad019bb2af5ce8e142b651f68a,False,5,False,not_reviewed,False
+nifty_238,Lufthansa Returns to Profit,nifty_362,Lufthansa's Profit Drops 21%,0.8489302,0.3333333333333333,224,c73b9f923fee63d736ac53442d9a1c05,False,5,False,not_reviewed,False
+nifty_238,Lufthansa Returns to Profit,nifty_873,Lufthansa Warns on Profit,0.8486786,1.0,1182,6559efcd5f1bf52fa3c83acab77086b1,False,5,False,not_reviewed,False
+nifty_797,Easyjet Revenue on the Rise,nifty_962,EasyJet Profit Jumps,0.8486542,0.0,299,7f047e9dde7f886eb916d807084c5ff9,False,5,False,not_reviewed,False
+nifty_159,Airline Profits Take Off,nifty_341,Airline Profits Hit the Brakes,0.8479083,0.5,335,abe87808ccb88d272567059b54644fdc,False,5,False,not_reviewed,False
+nifty_558,US STOCKS-Boeing rises in otherwise flat day on Wall Street,nifty_558,US STOCKS-Boeing boosts Dow in otherwise flat day on Wall Street,0.8475295,0.8571428571428571,0,cdb7641e0bdb0dc8342dc1b84029f10c,False,5,False,not_reviewed,True
+nifty_515,Air Canada Posts Wider Loss,nifty_1004,Air Canada Quarterly Loss Widens,0.8471932,0.4,917,30408fcb54449399878bb102967a5a51,True,5,False,not_reviewed,True
+nifty_288,Ash Cloud Disrupts Air Travel,nifty_290,Ash Cloud Continues to Ground Flights,0.847003,0.25,5,498a08eff3fba5f737180b02842ab6ca,True,5,False,not_reviewed,True
+nifty_366,Profit Sinks at Emirates Air,nifty_467,Emirates Profit Drops,0.8464643,0.0,189,a68712ae98565cbf2e7f28c8ee029cb7,True,5,False,not_reviewed,True
+nifty_985,Research and Markets: The Future of Airlines in the United Kingdom to 2018,nifty_1092,Research and Markets: Global Airlines Industry Report 2015 - Analysis and Forecast 2010 - 2019,0.84599817,0.2307692307692307,196,8c06ddd98e06d8bbff85c6fcafd0d05b,False,5,False,not_reviewed,False
+nifty_305,Kingfisher Airlines Flights Back to Normal,nifty_422,Kingfisher Airlines Cuts More Flights,0.84596515,0.4,217,5431728fc264e69712b16d6aab324d57,False,5,False,correct,False
+nifty_610,Singapore Airlines Profit Rises,nifty_855,Singapore Airlines Profit Falls 60%,0.84530413,0.6666666666666666,455,8d71714352c404a1a27d8594a2491d04,False,5,False,not_reviewed,False
+nifty_337,Air India to Discuss Dreamliner Order,nifty_481,Air India to Get Three Dreamliners in June,0.8451235,0.5,266,743ef5621d8a5d736b3c55b6f78b197c,False,5,False,not_reviewed,False
+nifty_447,US Airways Pushes Merger,nifty_455,American Airlines Unions Support US Airways Merger,0.84500456,0.25,15,5054be722c346544eccfefcf2f576fde,False,5,False,not_reviewed,False
+nifty_985,Research and Markets: The Future of Airlines in the United Kingdom to 2018,nifty_985,Research and Markets: The Future of Airlines in South Africa to 2018,0.8449747,0.4,0,4d95ec968af32875ddc17609977590ac,False,5,False,correct,False
+nifty_37,Union Is Ready to Meet With BA,nifty_49,BA Talks With Union Break Down,0.8449461,0.6666666666666666,22,e0ceb33c0963f60166484dd68e52e5f0,False,5,False,not_reviewed,False
+nifty_40,Lufthansa Pilots Call New Strike,nifty_943,Lufthansa’s Germanwings Pilots Call Strike,0.8446279,0.1666666666666666,1668,3ecad550e6cf9b8b98ce381e7c27bdb2,False,5,False,not_reviewed,False
+nifty_592,Alitalia investors consider possible sale,nifty_592,UPDATE 2-Alitalia investors consider possible sale -sources,0.8445526,0.6,0,48f0c25da990478f1fe481371f3dbda3,True,5,False,not_reviewed,True
+nifty_274,Ryanair Warns on Fuel Costs,nifty_702,Ryanair Hit by Fuel Costs,0.84454685,1.0,798,0254aa9ad33dfecbee29b1b4764baa05,True,5,False,not_reviewed,True
+nifty_933,Lufthansa Pilots Plan New Strike,nifty_1021,Lufthansa Pilots Union Calls for Strike,0.8442191,0.1428571428571428,168,209965b1aa9d1b7dc584a712fc506124,True,5,False,not_reviewed,False
+nifty_339,Virgin America Loss Widens,nifty_391,Virgin America Swings to Loss,0.84419996,0.4,93,1634788379cea13d00a8d9cb85cea8d1,True,5,False,not_reviewed,True
+nifty_777,Union Offers Boeing New Contract Proposal,nifty_1206,Boeing Engineers’ Union Approves Contract Deal,0.84407604,0.1666666666666666,799,fcc73d4b3881efdd181307e840da8912,False,5,False,not_reviewed,False
+nifty_462,US Airways Makes Push for Potential Merger,nifty_631,"American, US Airways Executives Defend Merger",0.8438902,0.25,321,16c0f909e8475e84a35741e79cfe14be,False,5,False,not_reviewed,False
+nifty_333,China to need $600 bln worth of jets over 20 yrs -Boeing exec,nifty_333,UPDATE 2-China to need $600 bln of jets over 20 yrs -Boeing,0.8438257,0.6666666666666666,0,49be56929ad36d4a7b5e363c4c3d65c2,True,5,False,not_reviewed,True
+nifty_460,Air Lease Near Boeing Deal,nifty_497,Air Lease Places Boeing Order,0.8436323,0.5,70,0769097cd22a38eae09ef09790fb4a3d,False,5,False,not_reviewed,False
+nifty_210,Boeing Upbeat on 787s,nifty_640,Boeing Shows Optimism on 787s,0.8436058,0.6666666666666666,799,c73a4777a20c7e3e3bde06a819166c0a,True,5,False,not_reviewed,True
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_219,Air France-KLM profit warning slump,0.8435861,0.5,84,4fb180598c91cfaa60ffa186997e5082,False,5,False,not_reviewed,False
+nifty_318,REFILE-Acquisitions key for EADS' U.S. growth - CFO,nifty_318,UPDATE 1-Acquisitions key for EADS' U.S. growth - CFO,0.8434904,0.375,0,57d0dd08b37b7edea46bd4a467497f29,True,5,False,not_reviewed,True
+nifty_19,"Delta, US Airways May Drop Slot Swap",nifty_274,"Delta, US Airways Agree to Revised Slot-Swap Plan",0.84335196,0.6666666666666666,467,5ff1f3627791ad76d60bfb58bb35a167,False,5,False,not_reviewed,False
+nifty_413,Singapore Airlines Net Profit Falls 53%,nifty_610,Singapore Airlines Profit Rises,0.8432578,0.25,371,c0264e85c9d6297fb1bdf35c26ecab63,False,5,False,not_reviewed,False
+nifty_670,Pratt & Whitney Aims for More F-35 Engine Deals,nifty_1044,Pratt & Whitney Rebuts F-35 Engine Criticism,0.8432111,0.6,698,fa9a811b7dcf3ac0a784483871b9d426,False,5,False,not_reviewed,False
+nifty_1168,Air France-KLM Revenue Slides After Paris Attacks,nifty_1295,UPDATE 2-Air France-KLM says attacks hitting revenue,0.8426772,0.3,233,2b1bdefbe3a46f30ab7dcd794312d9c5,True,5,False,correct,True
+nifty_123,AirAsia Posts 43% Profit Rise,nifty_423,AirAsia's Profit Falls 56%,0.8424122,0.3333333333333333,553,395d259321aa76f8428dfabc36b37eef,False,5,False,correct,False
+nifty_60,Cabin Crew Told to Reject BA Offer,nifty_106,BA Crew Reject Latest Offer,0.8423524,0.2,84,d584a1b0c9446333cfd55e91e4b7b691,True,5,False,correct,False
+nifty_109,Singapore Airlines Gains,nifty_610,Singapore Airlines Profit Rises,0.84197384,0.25,927,b20c8af2cfc07cca5419c3cfad893be5,True,5,False,not_reviewed,True
+nifty_857,Airbus Profit Almost Doubles,nifty_1047,Airbus Reports Higher Profit,0.84188336,0.0,352,3303a8524b6348b92ffdf7cdafac32ae,True,5,False,not_reviewed,False
+nifty_947,Boeing Posts Strong Results,nifty_996,Boeing Posts Strong Quarterly Results,0.84184444,0.3333333333333333,98,b0ed911e46cc22be79e61e9f2f48fb8d,True,5,False,not_reviewed,False
+nifty_489,Ryanair Bids for Aer Lingus,nifty_607,Ryanair Offers New Concessions for Aer Lingus,0.84171647,0.5,229,bde9703f68213ee362813235ea2a7fa9,False,5,False,not_reviewed,False
+nifty_325,Air India Expects First Dreamliners in November-March,nifty_481,Air India to Get Three Dreamliners in June,0.84158957,0.375,288,c049e831e79ccf15852bc97ac1e5f620,False,5,False,not_reviewed,False
+nifty_879,Delta Chief Softens Stance on Ex-Im Bank,nifty_880,Delta CEO Reiterates Ex-Im Bank Objections,0.84141076,0.1,1,40ecc70c57d219f34849389091f8dd6f,False,5,False,not_reviewed,False
+nifty_496,Research and Markets: Boeing: Company Profile,nifty_500,Research and Markets: Boeing Case Study: The 787 Dreamliner,0.84135234,0.375,7,12e524ffe4c60ceee4b6601c12698e1a,False,5,False,not_reviewed,False
+nifty_837,NetJetsÂ® Gearing Up for Launch in China,nifty_930,NetJets Launches Limited China Service,0.841288,0.2,169,ef631352d77b40bb2c394d43d51b19ff,True,5,False,not_reviewed,True
+nifty_831,"With Sights on IPO, Virgin America Posts First Yearly Profit",nifty_953,Virgin America Unveils Estimated Terms of IPO; Profit Rises 24%,0.8412143,0.5,222,258108896bbf56553de9ed3e57bd75c3,True,5,False,not_reviewed,False
+nifty_731,Boeing to End C-17 Production in 2015,nifty_837,Boeing to End C-17 Airlifter Production in Mid-2015,0.84092396,0.4,201,43ef3a2e3a900a77cd87bee0fa9e803c,True,5,False,not_reviewed,False
+nifty_159,Boeing Swings to Profit,nifty_458,Boeing's Profit Jumps,0.8404303,0.5,552,74b8825b26011b1ffa1c1c7c272d0cfb,True,5,False,not_reviewed,True
+nifty_509,Costs Hit Air France-KLM,nifty_1185,Air France-KLM Counts Cost of Paris Attacks,0.8401893,0.5,1260,ccbf8eb9abf52019f632a748aba203bd,True,5,False,not_reviewed,False
+nifty_835,Lufthansa Pilots on Three-Day Strike,nifty_925,Lufthansa Pilots Call Off Strike,0.8398081,0.5,166,e637a2a936acc5111ea31b07b16a0a1c,False,5,False,not_reviewed,False
+nifty_123,AirAsia Posts 43% Profit Rise,nifty_275,"AirAsia Profit Falls, Revenue Rises",0.83941776,0.25,279,5f175555ab789433045cddc6974878b4,False,5,False,not_reviewed,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1344,JetBlue Profit Essentially Flat,0.83888334,0.6666666666666666,1000,10a7e1d7fac9f50b343d6769e6101867,False,5,False,not_reviewed,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_369,Air France-KLM Profit Tumbles,0.83885056,0.5,356,2be37e443fbedd85ff33e8ff8b908a62,False,5,False,not_reviewed,False
+nifty_985,Research and Markets: The Future of Airlines in the United Kingdom to 2018,nifty_985,Research and Markets: The Future of Airlines in France to 2018,0.8388254,0.5,0,dfd4fcf070f961c4691bd895150b378e,False,5,False,not_reviewed,False
+nifty_128,Delta Lloyd Groep: Announcement exchange ratio stock dividend Delta Lloyd,nifty_874,Delta Lloyd announces exchange ratio stock dividend,0.83867997,0.4285714285714285,1386,eb03366ea45bd13b8576bdd10214a240,True,5,False,not_reviewed,True
+nifty_82,IATA Sees Airline Profits in '10,nifty_341,IATA Sees Higher 2011 Airline Profit,0.8384819,0.5,471,1c48ca7f712b4b5b489304af54d7131e,False,5,False,correct,False
+nifty_458,Boeing's Profit Jumps,nifty_1392,Boeing’s Quarterly Profit Climbs,0.83830494,0.3333333333333333,1736,5ba2c6bee0e1aa3174b92907ee2f92d8,True,5,False,not_reviewed,False
+nifty_1226,"JetBlue, Alaska Air Bidding for Virgin America",nifty_1227,"BRIEF-Virgin America gets takeover bids from Jetblue and Alaska Air- Bloomberg, citing sources",0.8381873,0.3846153846153846,1,9a8eb552690bc646e8dbca6d7e3515ff,True,5,False,not_reviewed,True
+nifty_40,Lufthansa Pilots Call New Strike,nifty_932,Pilots Union Plans New Lufthansa Strikes,0.8379786,0.1428571428571428,1648,05957ccb7b6c705ed92473813a2d7c81,True,5,False,not_reviewed,False
+nifty_661,"CEO Sees Profit, IPO for Virgin America",nifty_953,Virgin America Unveils Estimated Terms of IPO; Profit Rises 24%,0.83771396,0.7142857142857143,539,423cd2badacfaa3e535f483a17bd1edf,True,5,False,not_reviewed,False
+nifty_956,Air Canada Profit Beats Expectations,nifty_1104,Air Canada Profit Climbs 33%,0.8375893,0.75,279,35a87abc963421ebf995ce740d98e9e6,True,5,False,not_reviewed,False
+nifty_421,Kingfisher Air Loss Widens,nifty_565,Kingfisher's Loss Widens,0.8375236,0.0,266,0679e389440b707baa0373c5779d1035,True,5,False,not_reviewed,True
+nifty_997,JetBlue’s Profits Rise as Fuel Drops,nifty_1195,JetBlue Profit Doubles on Cheap Fuel,0.8372089,0.2,364,1e7ac3b3ed5e3e2215dc3b333e240253,True,5,False,not_reviewed,False
+nifty_527,United Says Computer Glitch Delayed 580 Flights,nifty_569,Computer Outage Delays United Flights,0.83718425,0.0,78,c69b2002321fed87ebbe8cdff1edafe8,True,5,False,not_reviewed,True
+nifty_544,Kingfisher Cancels Flights Due to Labor Unrest,nifty_545,Kingfisher Cancels Flights Amid Strikes,0.83697426,0.5,1,53886fda2d9e50555f7b674df576dfb1,True,5,False,not_reviewed,True
+nifty_338,Irish govt to move on Aer Lingus stake sale -report,nifty_338,UPDATE 1-Ireland to value Aer Lingus stake as sale looms,0.8368916,0.2222222222222222,0,88b681925736a2e551223bebe85f7359,False,3,True,incorrect,True
+nifty_343,Boeing Delivers First Dreamliner,nifty_883,Boeing Delivers First 787-9 Dreamliner,0.8368676,0.25,1008,1057ce94b1601a687f118b1fb154b6cd,True,5,False,not_reviewed,False
+nifty_408,"Boeing Posts Higher Profit, Revenue",nifty_463,Boeing Supplier's Profit Jumps,0.83685476,0.0,99,1dd6ac4ffbe93ce4fdfab7935b5329fd,False,5,False,correct,False
+nifty_281,IATA Cuts Airline Profit Forecast,nifty_733,Airline Profit Forecast Drops,0.8368186,0.5,840,9c21526d6c27c0371d5dbb491cfbcb03,False,5,False,not_reviewed,False
+nifty_422,Kingfisher Airlines Cuts More Flights,nifty_515,Kingfisher Cancels 31 Flights,0.83670413,0.2,169,1a89040a248ddc921191dbbb4f653c67,True,4,False,not_reviewed,False
+nifty_414,China Bans Airlines From EU Carbon Scheme,nifty_469,"UPDATE 2-India, China airlines violate EU carbon law",0.8366877,0.2857142857142857,99,11c79c160a07cb1bd88207ebe0e3a82a,False,5,False,not_reviewed,False
+nifty_1327,Alaska Air Agrees Not to Close Virgin America Merger Before Oct. 17,nifty_1371,Alaska Air Closes Virgin America Acquisition,0.8366677,0.625,79,48801ffa8b226fcd8f46421b1e0ce9a3,False,5,False,not_reviewed,False
+nifty_925,Lufthansa Pilots Call Off Strike,nifty_933,Lufthansa Pilots Plan New Strike,0.8364291,0.5,14,c8b3c4985ffc6f1faec92a394162c0e2,False,5,False,not_reviewed,False
+nifty_1358,Republic Airways Proposes Plan to Exit Bankruptcy Next Year,nifty_1434,Republic Airways Moves Closer to Exit From Bankruptcy,0.83615416,0.6666666666666666,145,0cc389d0296576af945699f6f2907746,True,5,False,not_reviewed,False
+nifty_672,Airline Profits Forecast to Rise,nifty_733,Airline Profit Forecast Drops,0.83610904,0.0,112,309ac9c5de1f03c12d3ff19b879ad1c8,False,5,False,not_reviewed,False
+nifty_533,Daimler's EADS Stake to Stay German,nifty_534,Daimler still intends to reduce EADS stake by end-2012,0.83573735,0.0,1,43bdd14fd7ac65144ab5904a810a96f7,False,5,False,not_reviewed,False
+nifty_69,Emirates Airline's Net Profit Takes Off,nifty_164,Emirates Airline's Profit Soars,0.8355739,0.5,173,4e6abce4a7fbe7a63d99b85456da19a3,True,5,False,not_reviewed,True
+nifty_40,Lufthansa Pilots Call New Strike,nifty_529,Lufthansa Faces New Strike,0.8353784,0.6666666666666666,897,11fcad9b878ed2920240a779abcda39a,True,5,False,not_reviewed,True
+nifty_260,"Air India Sacks 6 Pilots, Cancels 26 Flights",nifty_469,Air India Cancels 36 Flights,0.8351083,0.5,384,0e50757b6383bb533400cade2c99b50f,True,4,True,incorrect,False
+nifty_105,Delta Swings to Profit,nifty_1189,Delta Swings to Profit on Lower Fuel Costs,0.83506906,0.3333333333333333,2010,073ceb3079ac465ffbc8305a771d35d0,True,5,False,not_reviewed,False
+nifty_159,More Airline Profits Fly High,nifty_1241,Airlines Post Strong Profits,0.8350202,0.0,2009,ac2c8de25cc87e02cfa365229b4bc938,True,5,False,not_reviewed,False
+nifty_873,Lufthansa says to review investment plans after profit warning,nifty_873,Lufthansa Warns on Profit,0.8350201,0.25,0,892a1519b56e8b18a65c3dbf84661206,False,5,False,not_reviewed,False
+nifty_1254,Southwest Pilots Union Alleges Breach of Contract,nifty_1312,Southwest Pilots Union Has a Tentative Agreement on Contract,0.8349517,0.5714285714285714,105,fb7c01f658705a5656b403a3ce51bfaa,False,5,False,not_reviewed,False
+nifty_1202,"Boeing to Cut Jobs, Starting With Management",nifty_1228,"Boeing to Cut More Than 4,500 Jobs",0.8348336,0.25,49,a899ddee77e5761a0af267269e0177d1,True,4,False,not_reviewed,True
+nifty_1283,U.S. to Allow Eight Airlines to Fly to Havana,nifty_1361,Airlines Launch Flights From U.S. to Havana,0.8348026,0.4,144,25aa7054dc3aa9bfded220455ff91b45,True,5,False,not_reviewed,False
+nifty_709,Jet Airways Posts Loss,nifty_752,Jet Airways Posts Wider Loss,0.8346834,0.6,77,cc209016c6331d908a035a2230afe19f,True,5,True,incorrect,True
+nifty_515,Kingfisher Cancels 31 Flights,nifty_547,Kingfisher Halts Flights Through Next Week,0.8343551,0.25,57,55f252ecdbbb51d9e220a34ac7a8ca76,True,4,False,not_reviewed,False
+nifty_290,Airlines' Consumer Rating Falls Further,nifty_485,Customer Ratings Rise for Low-Cost Airlines,0.83407557,0.0,358,d162a354acd86fac8a7a2ebcd988c3a7,False,5,False,not_reviewed,False
+nifty_847,JetBlue Profit Plunges,nifty_997,JetBlue’s Profits Rise as Fuel Drops,0.8338689,0.25,280,a85830ec31e5a7e4b49381433e9883c7,False,5,False,not_reviewed,False
+nifty_515,Kingfisher Cancels 31 Flights,nifty_544,Kingfisher Cancels Flights Due to Labor Unrest,0.83342654,0.25,54,e4c109534e756bf60b45ec464bc6f3f2,True,4,False,not_reviewed,False
+nifty_787,Boeing Jet Deliveries Rise Nearly 8%,nifty_1133,Boeing Commercial Deliveries Rise 7%,0.83312184,0.3333333333333333,637,4b62ceb5c278b4f6e1a654c8642e9ff7,True,4,False,not_reviewed,False
+nifty_411,Korean Air Swings to Full-Year Loss,nifty_504,Korean Air Lines Swings to Loss,0.8329881,0.0,170,faeab2b210e42d08d553450b05c25c0b,True,5,False,not_reviewed,True
+nifty_290,Panel to Discuss Air India Plan Wednesday,nifty_442,Panel to Discuss Air India Debt Plan,0.8329696,0.5,280,94b7a4932656eca5fda72f0b19e8f5da,True,4,False,not_reviewed,False
+nifty_310,Delta Profit Falls 58%,nifty_750,Delta Profit Climbs 31%,0.8324417,1.0,818,2607ffeb2804d6991a57c1127ec8ecd6,False,5,False,not_reviewed,False
+nifty_1245,Bombardier Confirms Large Delta CSeries Order,nifty_1264,Bombardier confident of other big CSeries deals after Delta,0.83242965,0.6,35,240aac7bbe0d4b29931da454748ab9ab,True,4,False,not_reviewed,False
+nifty_516,President of American Pilot Union Resigns,nifty_1133,Union President at American Airlines Resigns,0.83233714,0.125,1152,a8d75d0f2f3d0d0f6d73e3f0b8682843,True,5,False,not_reviewed,True
+nifty_847,JetBlue Profit Plunges,nifty_1344,JetBlue Profit Essentially Flat,0.8321739,1.0,915,c6b5b1f8d1d9e152aa6c0985a4160aaf,False,5,False,not_reviewed,False
+nifty_333,Ireland considering sale of Aer Lingus stake,nifty_553,Etihad would be interested in Irish government's Aer Lingus stake,0.83194155,0.2857142857142857,405,8af6b41957c7a27695ad5e46b01a23a3,False,5,False,not_reviewed,False
+nifty_608,Liberty Global to buy Virgin Media for $15.75 billion,nifty_645,Liberty Global's $15.8 billion Virgin Media deal cleared in EU,0.8316883,0.5,69,594293e1caaf27698ee7b851ff492073,True,4,False,not_reviewed,False
+nifty_458,Delta Shows Strong Revenue Growth,nifty_1338,Delta Expects Revenue Trend to Improve,0.8315975,0.3333333333333333,1632,d6c89b914199e80654e14193c7aa9148,True,4,False,not_reviewed,False
+nifty_226,AirAsia Net Profit Soars,nifty_275,"AirAsia Profit Falls, Revenue Rises",0.8314256,0.25,89,a94c6ed440e0a945b5a90d3ea2a365c9,False,5,False,correct,False
+nifty_1201,Spirit Airlines Profit Up on Cheap Fuel,nifty_1238,Spirit Airlines’ Revenue Better Than Expected,0.8312235,0.4,69,783498b89e338c8b079df84759032552,True,4,False,not_reviewed,False
+nifty_182,Air India Plans to Lease 57 Planes,nifty_183,"Air India, Jet Airways to Lease 35 Airbus Planes",0.8311078,0.3333333333333333,1,7fd2ef49511e6c8e67644de8cbba0ee0,False,5,False,not_reviewed,False
+nifty_245,Regulator Stands By U.K. Airports Ruling,nifty_305,U.K. Stands by Airport Ruling,0.8309688,0.25,111,9cccdbabacb0bcabb28e348a6fc32324,True,5,False,not_reviewed,False
+nifty_283,Airline Satisfaction Improves,nifty_663,"Air Passenger Satisfaction Improves, Survey Says",0.8307112,0.0,707,5929a1768f6a1eb0dbea5e0270a531da,True,5,False,not_reviewed,True
+nifty_932,Pilots Union Plans New Lufthansa Strikes,nifty_945,Lufthansa Pilots to Expand Strike,0.83029294,0.1428571428571428,25,cc858b80b51d75a1f9afb07176330506,False,1,True,not_returned,False
+nifty_421,Kingfisher Air Loss Widens,nifty_478,Kingfisher Airlines' Loss Widens,0.8302776,0.0,105,7ec514a84733e6cccbfbe3524c64e807,False,1,True,not_returned,True
+nifty_309,JetBlue Profits Fall Despite Record Revenue,nifty_847,JetBlue Profit Plunges,0.8299314,0.25,1003,89a6540eacc1dce573af655caac087ae,False,1,True,not_returned,False
+nifty_1132,Air France to Unveil Drastic Cost-Cutting Plan,nifty_1148,Air France Seeks Cost Cuts Despite Higher Profit,0.8295714,0.5,28,23b6833dbb33236ce590e38417baf25e,False,1,True,not_returned,False
+nifty_985,Research and Markets: The Future of Airlines in South Africa to 2018,nifty_1092,Research and Markets: Global Airlines Industry Report 2015 - Analysis and Forecast 2010 - 2019,0.82953626,0.2307692307692307,196,9ca825356813cbaad9fe28d53c65fd07,False,1,True,not_returned,False
+nifty_531,Strike Forces Lufthansa to Cancel Flights,nifty_925,Lufthansa Pilots Call Off Strike,0.82935137,0.5,739,9fe14955ac9efc767f64dcc7e55a375c,False,1,True,not_returned,False
+nifty_619,Research and Markets: Analysis of Japan Airlines,nifty_619,Research and Markets: Analysis of Singapore Airlines,0.8290345,0.5,0,3ea892cd2beaa33f0ee75c204de3b9f1,False,1,True,not_returned,False
+nifty_142,Airline Profit Forecast Makes a Sharp Ascent,nifty_583,UPDATE 1-Airline industry raises profit forecasts,0.8289795,0.0,813,37c4d828988d1abddb84e460090badec,False,1,True,not_returned,False
+nifty_123,AirAsia Posts 43% Profit Rise,nifty_1062,"AirAsia’s Profit Rises, But Challenges Remain",0.82883656,0.25,1744,7641c191570707ed3ba1069a446a23e9,False,1,True,not_returned,False
+nifty_40,Lufthansa Pilots Call New Strike,nifty_945,Lufthansa Pilots to Expand Strike,0.82867616,0.5,1673,5b67d567b15ea5f5eb9a5a176ddb0878,False,1,True,not_returned,False
+nifty_603,Ryanair Raises Forecasts,nifty_1119,Ryanair Raises Earnings Forecast on Better Fares,0.82866746,0.25,954,6c6113a2a0312268950113f624206436,False,1,True,not_returned,False
+nifty_962,EasyJet Profit Jumps,nifty_995,EasyJet Sales Rise,0.82865393,0.0,70,69a0f4e20ad8e48b56f2b001981e0963,False,1,True,not_returned,False
+nifty_787,Research and Markets: Commercial Aircraft Market in China 2014-2018,nifty_812,"Research and Markets: China Air Transport and Airport Industry Report, 2013-2016",0.8284568,0.3,45,7c35e1e3d5c6b5cc4ee7cb13a47f146e,False,1,True,not_returned,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1293,Low Fuel Costs Help JetBlue’s Profit Rise,0.8282953,0.2,909,6156b656fae509d8b917209b8aaf39be,False,1,True,not_returned,False
+nifty_918,"Research and Markets: Assessment of China's Business Jets Market 2014: Initiatives and Performance of Key Players Including Bombardier, Gulfstream",nifty_1043,"Research and Markets: Global Business Jet Market 2015-2019 with Bombardier, Cessna, Dassault Aviation, Embraer & Gulfstream Dominating",0.8281126,0.2272727272727272,233,f40867136fe88c32eef8493ece2d6920,False,1,True,not_returned,False
+nifty_79,Research and Markets: US Airlines Industry - Porter's Five Forces Strategy Analysis,nifty_119,Research and Markets: US Airlines Industry: Sector Report,0.8278535,0.5555555555555556,71,73ae0e310d9eac8729791b16fc5cfa69,False,1,True,not_returned,False
+nifty_410,Ryanair Swings to a Profit,nifty_1460,Ryanair Profit Edges Up,0.8278409,0.3333333333333333,1947,0a828c76398ee6dc12674b1d5439ee65,False,1,True,not_returned,False
+nifty_52,China Eastern to Join SkyTeam Alliance,nifty_138,China Airlines to Join SkyTeam,0.82777923,0.25,155,6b3d14f8cc74b77f80a33476b56dfe38,False,1,True,not_returned,False
+nifty_402,Air France-KLM Starts Cost Cuts,nifty_731,Air France Plans More Cost Cuts,0.8277409,0.2857142857142857,615,4be31cee8d1abf8edd069cfecfe3b01c,False,1,True,not_returned,False
+nifty_847,Southwest Airlines Earnings Jump on Lower Fuel Costs,nifty_1093,Southwest Airlines Profit Up,0.8275559,0.4,455,53b38892a2cef38ae1c4561724746bc8,False,1,True,not_returned,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1195,JetBlue Profit Doubles on Cheap Fuel,0.8275534,0.5,729,04d74c2a3e73849933fdca3544b0076d,False,1,True,not_returned,False
+nifty_325,AirAsia Profit Falls 48%,nifty_1062,"AirAsia’s Profit Rises, But Challenges Remain",0.8272441,0.25,1374,3c66ef4d56ae2127721a6545b634415a,False,1,True,not_returned,False
+nifty_119,Research and Markets: US Airlines Industry: Sector Report,nifty_985,Research and Markets: The Future of Airlines in the United Kingdom to 2018,0.82689565,0.3,1610,47f5eefc48b189b2b10219529e6d1a09,False,1,True,not_returned,False
+nifty_764,Boeing Union Rejects Contract,nifty_1206,Boeing Engineers’ Union Approves Contract Deal,0.82624197,0.1428571428571428,826,b6dae8da51d428692d874f9165d34683,False,1,True,not_returned,False
+nifty_455,American Airlines Unions Support US Airways Merger,nifty_631,"American, US Airways Executives Defend Merger",0.8261988,0.375,334,bf17289a0c0d7b86b9e5cb0cdaba4da9,False,1,True,not_returned,False
+nifty_166,Boeing Sees China Becoming World's No. 2 Jet Market,nifty_1111,Boeing Expects China’s Jet Market to Remain Strong,0.8261126,0.5,1756,6354975495ec75342124a7b8bf7b2675,False,1,True,not_returned,False
+nifty_208,Virgin Blue Warns of Profit Drop,nifty_241,Virgin Blue Warns of Loss,0.8256943,0.6,58,dd7009a4b51993d37804d5c4a26e061d,False,1,True,not_returned,False
+nifty_1416,Emirates Airline Bookings Plunge 35% After Trump Travel Ban,nifty_1451,Emirates Airline Battered by Trump Travel Ban,0.82569134,0.6,63,3854a96b19275860e16d831a5ce4fa33,False,1,True,not_returned,False
+nifty_925,Pratt & Whitney Close to F-35 Engine Deal,nifty_1044,Pratt & Whitney Rebuts F-35 Engine Criticism,0.82567054,0.6,224,a9325164f11cc6483710244031322615,False,1,True,not_returned,False
+nifty_540,U.S.: Complied With WTO on Boeing,nifty_1361,WTO Rules Against Boeing in U.S.-EU Trade Battle,0.82557356,0.4,1526,8c4667ee1a4b7aa44963b11115c15096,False,1,True,not_returned,False
+nifty_57,Lockheed Martin's Profit Falls,nifty_309,Lockheed Martin Posts Profit,0.8255369,0.4,461,2581962c823fbc4e034699b9766d4ea7,False,1,True,not_returned,False
+nifty_275,UPDATE 1-Lockheed CEO is confident about F-35 challenges,nifty_361,Lockheed Faces F-35 Funding Challenge,0.8253683,0.2857142857142857,155,fa2bd1450209daf7bed5ab7a5d14cef3,False,1,True,not_returned,False
+nifty_166,Boeing Raises China Outlook for Airplane Demand,nifty_333,Boeing Boosts New Airplane Demand Forecast in China,0.8252051,0.4,308,e84b5e098863e63bce6f81a19b1140d3,False,1,True,not_returned,False
+nifty_468,Qatar Airways May Delay A380 Deliveries,nifty_1068,Qatar Airways Expects Slight Delay In Airbus A320neo Delivery,0.82487583,0.25,1121,930832d4c86a0f9e948cb26ec1135d53,False,1,True,not_returned,False
+nifty_631,Ryanair Sets Deal to Buy Boeing Jets,nifty_921,Ryanair to Buy Up to 200 Jets From Boeing,0.8248114,0.4,538,4b7be330805287b9cd5b783fe1f2fb4d,False,1,True,not_returned,False
+nifty_98,Lockheed Offers Buyouts  to Executives,nifty_134,Lockheed sees savings from buyout,0.8247393,0.2,64,3cf1353a4d63a4b639bdafb77dacce0f,False,1,True,not_returned,False
+nifty_343,Boeing Delivers First Dreamliner,nifty_632,Boeing Works to Redeem Dreamliner,0.8247045,0.3333333333333333,541,20908488ee52bd314c91ec6c1c8f1306,False,1,True,not_returned,False
+nifty_874,"Airbus, Boeing Enter New Rivalry",nifty_1471,Boeing Launches New Plane as Rivalry With Airbus Continues,0.8246822,0.4,1103,12ace5542107a6368ef965c67995f762,False,1,True,not_returned,False
+nifty_481,Air India to Get Three Dreamliners in June,nifty_531,Air India Gets Delivery of Dreamliner,0.8244383,0.4285714285714285,92,712a4e5d30b986662f59ea052fcd29a5,False,1,True,not_returned,False
+nifty_1247,Lufthansa Shares Plunge as Pricing Pressure Bites,nifty_1291,Lufthansa Shares Plunge on Profit- Warning,0.8243541,0.5,79,b5cd250274008145c6ea00f2faf8823f,False,1,True,not_returned,False
+nifty_238,Lufthansa Returns to Profit,nifty_750,Lufthansa Profit Forecast Disappoints,0.8243076,0.3333333333333333,950,65adda3647edff746bb79cfdecb3564c,False,1,True,not_returned,False
+nifty_993,Southwest Earnings Helped by Lower Fuel,nifty_1191,Southwest Profit Soars on Cheap Fuel,0.8240704,0.2,364,4368be057acfaebcb2fc8cf3c9e6b3c9,False,1,True,not_returned,False
+nifty_945,REFILE-The $40 bln jet buying spree - IndiGo's big bet,nifty_945,The $40 billion jet buying spree - IndiGo's big bet,0.82383287,0.4,0,a203b653173a78262e9bef74750233cb,False,1,True,not_returned,True
+nifty_165,Ryanair Lifts Full-Year Forecast,nifty_368,Ryanair Lifts Profit Forecast,0.82377464,0.3333333333333333,371,353951a7488ae4b1ef7fbabb112fe63c,False,1,True,not_returned,False
+nifty_717,U.S. Airlines Add Service as Profits Rise,nifty_897,American Airlines Profit Climbs,0.82368684,0.0,336,44016bbcf63e35d14b06ff78af91841c,False,1,True,not_returned,False
+nifty_408,"Boeing Posts Higher Profit, Revenue",nifty_896,"Boeing's Profits, Concerns Rise",0.8235374,0.0,910,6fa57b96e2c96fdd60e3c081d8f16ad9,False,1,True,not_returned,False
+nifty_159,More Airline Profits Fly High,nifty_159,Airline Profits Take Off,0.8235119,0.0,0,d92a5f80babbba7df86398eb1863d26e,False,1,True,not_returned,True
+nifty_159,Airline Profits Take Off,nifty_1241,Airlines Post Strong Profits,0.82345647,0.0,2009,c548218db2b44ef61a5e200f3d8e5080,False,1,True,not_returned,False
+nifty_383,IATA Cuts Airline Forecast,nifty_778,IATA Raises Airline Forecasts,0.823267,0.3333333333333333,736,e4c3900b3fd3d27fd7683616ae95b331,False,1,True,not_returned,False
+nifty_169,EU Fines 11 Airlines in Cartel Case,nifty_1173,EU Court Overturns Decision to Fine Airlines in Cartel Case,0.82326055,0.3333333333333333,1863,b17a201f5307f8d1e599c090465568e9,False,1,True,not_returned,False
+nifty_151,EasyJet Raises Profit Forecast,nifty_962,EasyJet Profit Jumps,0.82324886,0.3333333333333333,1503,d01ec822da24305405199779d3872ca9,False,1,True,not_returned,False
+nifty_281,IATA Cuts Airline Profit Forecast,nifty_823,IATA Downgrades Profit Forecast,0.823092,0.3333333333333333,1010,d8838e754f3a636cd9604431fc457194,False,1,True,not_returned,False
+nifty_997,JetBlue’s Profits Rise as Fuel Drops,nifty_1095,JetBlue’s Revenue Grows on Strong Demand,0.8229119,0.2,180,1b4eccb8c3958e39fe73c627737671e2,False,1,True,not_returned,False
+nifty_610,Air Canada Posts Profit,nifty_956,Air Canada Profit Beats Expectations,0.8229,0.3333333333333333,637,a3604b08b1b16d20a216fa6f10254424,False,1,True,not_returned,False
+nifty_995,American Airlines Lifted by Fuel Prices,nifty_1052,American Airlines Raises Fuel Cost Outlook,0.8228433,0.4,104,1f71d95092ba41150a17f955d80a042f,False,1,True,not_returned,False
+nifty_915,"Lufthansa, Pilots Union to Meet Thursday",nifty_932,Pilots Union Plans New Lufthansa Strikes,0.8227726,0.4285714285714285,30,2df76a45a732d671bf8f80e0efe6c63e,False,1,True,not_returned,False
+nifty_1263,Bombardier Hopes Deal With Delta Will Boost CSeries Jets,nifty_1264,Bombardier confident of other big CSeries deals after Delta,0.8227124,0.5,1,1528e9786c92e88e706e09fc2f7d64f7,False,1,True,not_returned,False
+nifty_40,Lufthansa Pilots Call New Strike,nifty_835,Lufthansa Pilots on Three-Day Strike,0.8225248,0.5,1472,1d5c4e497f66d362a536847854e3497f,False,1,True,not_returned,False
+nifty_309,JetBlue Profits Fall Despite Record Revenue,nifty_997,JetBlue’s Profits Rise as Fuel Drops,0.82251287,0.2,1283,7da00eccc8c6f2c83b572a656f35c500,False,1,True,not_returned,False
+nifty_1024,Pentagon’s Rocket Plan Runs Into Challenges,nifty_1194,Pentagon Questions Future of Rocket Venture,0.8220328,0.2,314,d18af74a8636c86b387ba36465cbff35,False,1,True,not_returned,False
+nifty_661,"CEO Sees Profit, IPO for Virgin America",nifty_831,"With Sights on IPO, Virgin America Posts First Yearly Profit",0.82192445,0.5,317,addee6b5b4edbedd3409b240ed992ecb,False,1,True,not_returned,False
+nifty_402,Air France-KLM Starts Cost Cuts,nifty_1148,Air France Seeks Cost Cuts Despite Higher Profit,0.8213278,0.4285714285714285,1386,a6ac6a4df2856e11fb9ed6288f44c633,False,1,True,not_returned,False
+nifty_738,Indigo to Acquire Frontier Airlines,nifty_738,Bill Franke's Indigo to Acquire Frontier Airlines,0.8210862,0.5714285714285714,0,bbd338dd03025c60792a7b451e6174db,False,1,True,not_returned,True
+nifty_1090,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,nifty_1091,"With Sikorsky sale done, United Technologies eyes acquisitions",0.8209023,0.2222222222222222,1,112f6a446d9cc032bf5fce03923a171e,False,1,True,not_returned,False
+nifty_1091,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,nifty_1091,"With Sikorsky sale done, United Technologies eyes acquisitions",0.8209023,0.2222222222222222,0,112f6a446d9cc032bf5fce03923a171e,False,1,True,not_returned,False
+nifty_418,Asia to Drive Growth for Boeing,nifty_806,Boeing: Asian-Pacific to Drive Air-Traffic Growth,0.8207744,0.1428571428571428,728,c23eaf6ffbd34376a74828e65debe715,False,1,True,not_returned,False
+nifty_325,Air India Expects First Dreamliners in November-March,nifty_438,Air India Will Take Delivery of All Dreamliners,0.82076365,0.375,210,391c068f0c32d32d42660fc5381d2531,False,1,True,not_returned,False
+nifty_325,Air India Expects First Dreamliners in November-March,nifty_525,Air India to Get Dreamliner This Week,0.8207523,0.4285714285714285,370,28d7dd401d410cb1d3165cb44526286f,False,1,True,not_returned,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_898,Virgin America Files for IPO,0.8206835,1.0,872,82eb7af07860f697c53e0a705e58e45c,False,1,True,not_returned,False
+nifty_871,U.S. Lawmakers Move to Block Norwegian Air Expansion Plan,nifty_1136,Norwegian Air Plans U.S. Expansion Even If Blocked By Regulators,0.8206213,0.125,486,2b5c627715ea328c9a623bf999f109da,False,1,True,not_returned,False
+nifty_573,"Research and Markets: China Air Transport and Airport Industry Report, 2011-2012",nifty_787,Research and Markets: Commercial Aircraft Market in China 2014-2018,0.82054377,0.3,405,90c2756b98a7d7ecb5e3478a3f46fa24,False,1,True,not_returned,False
+nifty_1057,United Technologies Talking to Possible Buyers for Sikorsky,nifty_1091,"With Sikorsky sale done, United Technologies eyes acquisitions",0.8202249,0.5714285714285714,63,998b2b82e2d4b9c05f5529f4529e0597,False,1,True,not_returned,False
+nifty_805,Irish Approval Boosts Norwegian Air's U.S. Plans,nifty_847,Ireland Calls on U.S. to Speed Norwegian Air Approval,0.81994903,0.1428571428571428,77,f9a326261ec352dd6a0b4440c94acdc2,False,1,True,not_returned,False
+nifty_1168,Air France-KLM Revenue Slides After Paris Attacks,nifty_1185,Air France-KLM Counts Cost of Paris Attacks,0.81983066,0.625,34,af7da06f23812370fe252ec645411545,False,1,True,not_returned,False
+nifty_578,EADS shareholders reach outlines of deal - sources,nifty_578,UPDATE 2-Shareholders reach deal to shake up EADS - sources,0.81963676,0.4,0,4abb62d375a859b1cbb7ecf82b18f34f,False,1,True,not_returned,True
+nifty_142,Airline Profit Forecast Makes a Sharp Ascent,nifty_733,Airline Profit Forecast Drops,0.81938255,0.5,1097,ea6259021bb2e0ee4b5495e996ab778e,False,1,True,not_returned,False
+nifty_55,Sikorsky's Business Heads Up,nifty_1020,United Technologies CEO’s Exit Put Focus on Sikorsky,0.8192681,0.1666666666666666,1788,f6a2e67ee88dd153ceaebf2c6c4231bd,False,1,True,not_returned,False
+nifty_362,Lufthansa's Profit Drops 21%,nifty_1097,Lufthansa Profit Rebounds,0.8192369,0.3333333333333333,1372,15d8a556d1f572b1728600404248a139,False,1,True,not_returned,False
+nifty_206,Boeing Delays 787 Deliveries,nifty_662,Boeing Resumes 787 Deliveries,0.8190236,1.0,846,863ae4bf68f45819f7a140c4488e51b3,False,1,True,not_returned,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_1350,Air France-KLM Profit Up Despite Strikes,0.81845814,0.4285714285714285,2177,7f7d17b213b12c2448f289f0c0684e78,False,1,True,not_returned,False
+nifty_421,BAE Sees Modest Earnings Rise,nifty_659,"BAE sees modest earnings growth, U.S. remains uncertain",0.8182051,0.25,447,154a08a2cd6114b9ce49100725405224,False,1,True,not_returned,False
+nifty_119,Research and Markets: US Airlines Industry: Sector Report,nifty_652,Research and Markets: Airlines in the BRICS - A Rapidly Expanding Industry,0.81804967,0.3333333333333333,988,55a054d27ceb695e08ee215e69b1fbf2,False,1,True,not_returned,False
+nifty_461,Etihad Buys Aer Lingus Stake,nifty_553,Etihad would be interested in govt's Aer Lingus stake,0.8180402,0.6,168,e779e75a36f709e0b4e7a91250aa9dca,False,1,True,not_returned,False
+nifty_57,Lockheed Martin's Profit Falls,nifty_157,Lockheed Profit Declines,0.8179849,0.25,181,fe8b4c8fc096b632c2b7f959e0948d4a,False,1,True,not_returned,False
+nifty_985,Research and Markets: The Future of Airlines in South Africa to 2018,nifty_985,Research and Markets: The Future of Airlines in France to 2018,0.8177269,0.5,0,2da8260efc34307430e89463c95a6bd8,False,1,True,not_returned,False
+nifty_366,Singapore Airlines Net Falls 49%,nifty_805,Singapore Airlines Profit Falls Sharply,0.8176414,0.25,826,fd4ee831c5be0bf880e42b40c99c8a1f,False,1,True,not_returned,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_218,Air France-KLM Lowers Year's Operating-Profit Guidance,0.8175754,0.6666666666666666,83,6a57c8e7d2e14e8c9bf44a49936502e6,False,1,True,not_returned,False
+nifty_98,Research and Markets: UK Airlines Sector: Industry Profile - Gain an Insight into the Evolution of the Industry and Competitive Dynamics,nifty_119,Research and Markets: US Airlines Industry: Sector Report,0.8174309,0.2307692307692307,36,76bcc9444fc78ea4a273762401862b78,False,1,True,not_returned,False
+nifty_1061,"Lockheed Martin Open to Deals, Mum On Sikorsky",nifty_1090,Lockheed Martin to Buy Sikorsky for $9 Billion,0.8171722,0.8,54,6eed641d2f91dfcdfd861f2e87d05f9f,False,1,True,not_returned,False
+nifty_478,Kingfisher Airlines' Loss Widens,nifty_565,Kingfisher's Loss Widens,0.81713444,0.25,161,576db9b180c5e703b9948949b177924e,False,1,True,not_returned,False
+nifty_106,"Airbus, Boeing Reel In Orders",nifty_765,"Boeing, Airbus Reel In Persian Gulf Orders",0.8171141,0.3333333333333333,1217,4efbdc619bc41576164e3412b9ec1a57,False,1,True,not_returned,False
+nifty_252,REG - Aviva PLC - Aviva - Financial Impact of Delta Lloyd Sell Down,nifty_252,Aviva Announces Financial Impact of the Partial Disposal of Delta Lloyd Shares,0.8170844,0.3333333333333333,0,fec3225783dd2bef55e545066aef7adc,False,1,True,not_returned,True
+nifty_729,New Bombardier Jet Takes Flight,nifty_1010,New Bombardier Jet Due to Fly Thursday,0.8170258,0.5,526,f7a85061c3d468aed2dcd952505fa0a5,False,1,True,not_returned,False
+nifty_1061,Mental-Health Screenings for Pilots Under Review,nifty_1268,More Mental-Health Support Recommended for U.S. Pilots,0.8168391,0.0,379,e845dde4fb61d455380e661eb6d722f4,False,1,True,not_returned,False
+nifty_260,"Air India Sacks 6 Pilots, Cancels 26 Flights",nifty_468,Air India Cancels 24 Flights,0.8165091,0.5,383,81b7f8f9772a9a0e65867631fc45c1ef,False,1,True,not_returned,False
+nifty_506,Lockheed Raises Profit Forecast,nifty_558,"Lockheed Martin raises forecast, earnings beat view again",0.8162541,0.1428571428571428,92,081eb541a65b7922ad0896228728c17d,False,1,True,not_returned,False
+nifty_112,Southwest Profit Jumps,nifty_455,Southwest Profit Soars,0.81614554,1.0,630,b56630e5092f523704b876066ddc54a0,False,1,True,not_returned,True
+nifty_138,Boeing Likely to Lose WTO Ruling,nifty_433,WTO Panel Upholds Boeing Ruling,0.8159285,0.4,544,6ec4d38679669543d20842364667e27b,False,1,True,not_returned,False
+nifty_983,Delta Air’s Passenger Unit Revenue Fell 4.5% in December,nifty_1332,Delta Air Unit Revenue Decline Slowed in September,0.8156485,0.2857142857142857,638,b3b6b292ac3c66797cd81942b2a5d947,False,1,True,not_returned,False
+nifty_164,Emirates Airline's Profit Soars,nifty_366,Profit Sinks at Emirates Air,0.81555915,0.1666666666666666,367,1f9585aaa4be059e3048c8c61490f6aa,False,1,True,not_returned,False
+nifty_599,Boeing Engineers Union Negotiators to Seek Authorization For Strike,nifty_606,Boeing Engineers to Vote on Strike Authorization,0.8154475,0.125,14,af48ac2dba78845da52be6a9b1d54f60,False,1,True,not_returned,False
+nifty_343,Boeing Delivers First Dreamliner,nifty_639,Boeing Lands Dreamliner Order,0.8150365,0.25,555,e832c2a46dcaa9dfa6e2f99dd4872949,False,1,True,not_returned,False
+nifty_39,Continental Offers Pilots a Pact,nifty_147,Continental Reaches Pact With Flight Attendants,0.8149448,0.2,196,402733363901a6b3b4f574941479ab05,False,1,True,not_returned,False
+nifty_206,Delta Air Lines Posts Profit,nifty_896,Delta Air Lines Profit Rises 17%,0.8145707,0.5,1281,4085beda81db8c452fcce983c945408e,False,1,True,not_returned,False
+nifty_943,Lufthansa’s Germanwings Pilots Call Strike,nifty_1021,Lufthansa Pilots Union Calls for Strike,0.8144683,0.2857142857142857,152,244ce1facee018b1145ac669043db9ef,False,1,True,not_returned,False
+nifty_218,Boeing to Deliver Dreamliner to Air India by December,nifty_531,Air India Gets Delivery of Dreamliner,0.81444854,0.5714285714285714,575,c5bc77e2ca75afbf34e1d0ac8aa83be1,False,1,True,not_returned,False
+nifty_305,Kingfisher Airlines Flights Back to Normal,nifty_515,Kingfisher Cancels 31 Flights,0.81442636,0.25,386,c860fb011c93109fef10eff7f80e2b1d,False,1,True,not_returned,False
+nifty_797,Easyjet Revenue on the Rise,nifty_1356,EasyJet Profit Dives,0.8143682,0.0,1027,dcacd7ac8e76b236d42a2eb3284bd656,False,1,True,not_returned,False
+nifty_69,Emirates Airline's Net Profit Takes Off,nifty_366,Profit Sinks at Emirates Air,0.81417483,0.1666666666666666,540,7517a7dc0e3567be3272b36c1c971bf2,False,1,True,not_returned,False
+nifty_672,Airline Profits Forecast to Rise,nifty_973,Airline Profit Outlook Rises,0.81412673,0.0,555,e535e2672f13b7f8f48e9a8d4ae122df,False,1,True,not_returned,False
+nifty_887,Etihad Takes Off as Passenger Numbers Grow,nifty_942,Etihad Airways Boosts Passenger Numbers,0.81411767,0.5,98,bcff01f283803db3a4e840e84e42e331,False,1,True,not_returned,False
+nifty_607,Air Lease Corp. Orders 25 Airbus Jets,nifty_891,Air Lease Said to Order 26 Boeings,0.8140022,0.0,526,e5bc3c44f5f682ed7600d9650611eade,False,1,True,not_returned,False
+nifty_289,Boeing Lands Qatar Order,nifty_372,Qatar Places Airbus Order,0.8139851,0.25,148,cfdbb67dfe491785aec7e9af07b6c43a,False,1,True,not_returned,False
+nifty_184,JetBlue Cuts Revenue Targets,nifty_847,JetBlue Profit Plunges,0.8137128,0.3333333333333333,1233,9e50ff8e373a12a8235c8da544025294,False,1,True,not_returned,False
+nifty_898,Ryanair Quarterly Profit Soars,nifty_1460,Ryanair Profit Edges Up,0.8136773,0.3333333333333333,1037,535f8a78bc091d92d49ebf668ea067f8,False,1,True,not_returned,False
+nifty_226,AirAsia Net Profit Soars,nifty_325,AirAsia Profit Falls 48%,0.8134878,0.3333333333333333,180,542aebfbfe83a86a255ea85ad938f888,False,1,True,not_returned,False
+nifty_261,"Air India Cancels 71 Flights, Suspends Bookings",nifty_468,Air India Cancels 24 Flights,0.8134353,0.5,382,040da9598cd99e55ad9eddbd2fdad727,False,1,True,not_returned,False
+nifty_622,Delta Air Lines Projects Profit,nifty_896,Delta Air Lines Profit Rises 17%,0.8134265,0.5,506,66f0781d6538208c9da5a5908928e2a0,False,1,True,not_returned,False
+nifty_361,"Delta's Profit, Sales Rise",nifty_458,Delta Shows Strong Revenue Growth,0.8132758,0.3333333333333333,182,b3e4e7912ea0cc9c0777ddd34b17b777,False,1,True,not_returned,False
+nifty_110,KLM : Air France - KLM: Financial Year 2010-11,nifty_175,Air France-KLM Swings Back to Profitability,0.81324196,0.3333333333333333,114,ab63713c85e6f499a9eb97eda15ea246,False,1,True,not_returned,False
+nifty_463,Boeing Supplier's Profit Jumps,nifty_896,"Boeing's Profits, Concerns Rise",0.8132159,0.0,811,83b07878775f6343339135d5173c304f,False,1,True,not_returned,False
+nifty_358,Alaska Air's Profit Falls 37%,nifty_1241,Alaska Air Profit Tops Expectations,0.8126532,0.2,1645,07e7092079fa3646de9d3ac9adeda8ca,False,5,False,not_reviewed,False
+nifty_659,Boeing warns against U.S. Ex-Im Bank closure,nifty_836,Boeing exec warns of risks if U.S. Ex-Im bank scrapped,0.8122843,0.4444444444444444,330,b3e2c1fe34e99eaf0232b27b4b7c97dc,False,5,False,not_reviewed,False
+nifty_60,Boeing Delays 787 Fuselage Shipments,nifty_311,Boeing Slows 787 Deliveries,0.8117475,0.3333333333333333,457,c07e0a7e614682653929b73b6d79cd48,True,5,False,not_reviewed,True
+nifty_455,American Airlines Unions Support US Airways Merger,nifty_462,US Airways Makes Push for Potential Merger,0.81168056,0.2222222222222222,13,c3d8d3b5af1ad41c8fabcf1be61d8488,False,5,False,not_reviewed,False
+nifty_896,"Boeing's Profits, Concerns Rise",nifty_1392,Boeing’s Quarterly Profit Climbs,0.8115547,0.0,917,e9278f528cf1f8d97c8fe1a162e6ad64,False,5,False,not_reviewed,False
+nifty_378,Air India to Sell and Lease Back Dreamliners,nifty_438,Air India Will Take Delivery of All Dreamliners,0.8113121,0.5,112,2c11ebec41e2a19bf7fd89a02faecaa3,False,5,False,not_reviewed,False
+nifty_39,"American Airlines Hit With $300,000 Proposed Fine",nifty_1106,"FAA Hits Southwest Airlines With Proposed $325,000 Fine",0.81121427,0.0,1978,f31a96fc76b421c5998d3ee1931f2c0b,False,5,False,not_reviewed,False
+nifty_139,Boeing to Boost 737 Output,nifty_936,Boeing Will Boost 737 Production,0.81121206,0.3333333333333333,1477,39ec157ee943a8e707b8cbd1e28646f8,True,5,False,not_reviewed,True
+nifty_744,UPS Crash Raises Pilot-Rest Concerns,nifty_862,Pilot Fatigue Revisited in Filings About UPS Crash,0.8110001,0.25,223,9616752cd9278df2517861bb51b5da73,True,5,False,not_reviewed,True
+nifty_545,Kingfisher Cancels Flights Amid Strikes,nifty_547,Kingfisher Halts Flights Through Next Week,0.81068885,0.5,2,743632e81cfdb08ace84c3626b8b8f63,True,5,False,correct,True
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_997,JetBlue’s Profits Rise as Fuel Drops,0.8106884,0.2,365,138b75ed12a7321ef45bf21976bb66f7,False,5,False,not_reviewed,False
+nifty_281,IATA Cuts Airline Profit Forecast,nifty_867,IATA Lowers Airlines' Profit Outlook,0.8106625,0.3333333333333333,1092,360a4c5146f6c7057a15a854b6ff5799,True,5,False,not_reviewed,True
+nifty_422,Kingfisher Airlines Cuts More Flights,nifty_478,Kingfisher Airlines' Loss Widens,0.8102592,0.4,100,380fa959f4a10b566ae40ebb237f47c9,False,5,False,correct,False
+nifty_750,Lufthansa Profit Forecast Disappoints,nifty_873,Lufthansa Warns on Profit,0.80992526,0.3333333333333333,232,120b873d70e099912058d0bdad0706af,False,5,False,not_reviewed,False
+nifty_391,Virgin America Swings to Loss,nifty_1047,Virgin America Swings to Profit,0.8097884,0.75,1226,bdee6c70f29bfa6daf3a769dcd1d29e2,False,5,False,not_reviewed,False
+nifty_847,JetBlue Profit Plunges,nifty_1095,JetBlue’s Revenue Grows on Strong Demand,0.8094759,0.25,460,2979b4dd9f2e4161c59379901bc21ddd,False,5,False,correct,False
+nifty_478,REFILE-UPDATE 2-India's Kingfisher posts worst-ever quarter; no funding in sight,nifty_478,India's Kingfisher posts worst-ever quarter; no funding in sight,0.80945307,0.8333333333333334,0,66454761788536042d67c7ea33e12840,True,5,False,not_reviewed,True
+nifty_1243,JetBlue Profit Soars on Cheap Fuel,nifty_1344,JetBlue Profit Essentially Flat,0.80942,0.6666666666666666,182,84b993ed3c2f080017386442d315969d,False,5,False,not_reviewed,False
+nifty_800,JetBlue Profit Soars on Improved Demand,nifty_1393,JetBlue Profit Pressured by Sagging Fares,0.8092952,0.5,1093,5d98bb0230938b763f78e96473c1ea0a,False,5,False,not_reviewed,False
+nifty_218,Boeing to Deliver Dreamliner to Air India by December,nifty_438,Air India Will Take Delivery of All Dreamliners,0.8092899,0.375,405,825dd003cd89e6b7c1a6bd0e2982ae19,True,5,False,not_reviewed,False
+nifty_184,JetBlue Cuts Revenue Targets,nifty_1095,JetBlue’s Revenue Grows on Strong Demand,0.80921507,0.25,1693,965091fd49e145797ec1004bd21df5fa,False,5,False,not_reviewed,False
+nifty_815,Delta to Revamp Frequent-Flier Plan,nifty_820,Delta Details Revamped Frequent-Flier Program,0.8091117,0.25,8,fc6dbcdce098b6fbed71b7923a308ded,True,5,False,not_reviewed,True
+nifty_226,AirAsia Net Profit Soars,nifty_423,AirAsia's Profit Falls 56%,0.8089631,0.3333333333333333,363,2ce606ed186c0d1740d40ff4da0c3821,False,5,False,not_reviewed,False
+nifty_205,Airbus Raises Plane Prices,nifty_405,Airbus Raises Price of A320,0.80890423,0.3333333333333333,366,20c901206cd8793ae6244b15c41097cd,False,5,False,not_reviewed,False
+nifty_112,Southwest Profit Jumps,nifty_1093,Southwest Airlines Profit Up,0.80889195,0.25,1820,bb123f403dfcf2cefcf4535dec0335c1,True,5,False,not_reviewed,True
+nifty_318,Kingfisher's Loss Widens on Fuel Costs,nifty_565,Kingfisher's Loss Widens,0.8085382,0.6666666666666666,456,56dd92cd54021228f66cfb16804baceb,True,5,False,not_reviewed,False
+nifty_951,Air France Profit Hurt by Strike,nifty_1350,Air France-KLM Profit Up Despite Strikes,0.80844355,0.2857142857142857,736,0b26982f2bf8f3fdd746a3b3545967ab,False,5,False,not_reviewed,False
+nifty_428,Air France-KLM Raises $622 Million,nifty_509,Costs Hit Air France-KLM,0.80839926,0.8,151,47b9db92d0f3f5e211eb68cba8d8e311,False,5,False,not_reviewed,False
+nifty_886,Airbus to Sell 123 Helicopters to China,nifty_1269,Airbus to Assemble Helicopters in China,0.808387,0.5,707,800e609827d91d4b90bd21729febb087,False,5,False,not_reviewed,False
+nifty_103,Research and Markets: the Boeing Company: a Comprehensive Corporate Analysis on the Company,nifty_500,Research and Markets: Boeing Case Study: The 787 Dreamliner,0.8078612,0.3,729,7d99bbc40cccff470e4782b67765afcc,False,5,False,not_reviewed,False
+nifty_966,"Research and Markets: Global Business Jet Market Outlook, 2020: Bombardier, Gulfstream, Cessna, Dassault & Embraer Dominate the $33 Billion industry",nifty_1164,Research and Markets: Global Business Jets Market Worth USD 33.8 Billion by 2020: Competitive Landscape & Opportunities Report 2015-2020,0.8078391,0.15,371,d52296c7f91918f749605f2bbb71e071,False,5,False,not_reviewed,False
+nifty_1148,U.N. Panel Urges Strictest Rules for Lithium Batteries as Air Cargo,nifty_1202,New Warnings on Lithium Batteries in Air Cargo,0.8078213,0.3333333333333333,104,98db3adbffbc74efc7fde78e134c1170,False,5,False,not_reviewed,False
+nifty_289,Boeing Lands Qatar Order,nifty_765,"Qatar, Emirates Joined Forces on Boeing Order",0.807599,0.3333333333333333,882,ce42ce48b9abfe46c179cecb651d4e60,False,5,False,correct,False
+nifty_873,Lufthansa Warns on Profit,nifty_1291,Lufthansa Shares Plunge on Profit- Warning,0.80757123,0.25,771,cb0090c27f4379a282f5887c89ca697b,True,5,False,not_reviewed,True
+nifty_167,Delta Flight Attendants Reject Union,nifty_988,Delta Flight Attendants Request Union Vote,0.80731416,0.25,1531,62307d938e7eed250d5a525fedb014ed,False,5,False,not_reviewed,False
+nifty_159,More Airline Profits Fly High,nifty_1170,Airlines Set to Deliver Higher Profit,0.8071295,0.0,1876,10210be686ba4db2d3ccd43575acc142,True,5,False,not_reviewed,False
+nifty_320,Panel Seeks Upgrade in Airline Pilot Training,nifty_768,"FAA, Airlines to Craft Pilot-Training Upgrades",0.80678475,0.0,829,70ad742f7204266fc47085c65b89cc29,True,5,False,not_reviewed,False
+nifty_1202,"Boeing to Cut Jobs, Starting With Management",nifty_1356,Boeing to Cut Defense Jobs,0.8066706,0.25,279,1cffba0a1463fae73ca6c08a7a0b7232,False,5,False,not_reviewed,False
+nifty_1102,Addressing Dangers of Airborne Shipments of Lithium Batteries,nifty_1202,New Warnings on Lithium Batteries in Air Cargo,0.80664396,0.2,184,7132c4596e862a915772cbd138a82ba7,True,5,False,not_reviewed,True
+nifty_529,Lufthansa Faces New Strike,nifty_933,Lufthansa Pilots Plan New Strike,0.80661434,0.6666666666666666,755,bcf6fc660c58986f43f861d3d2a1bc48,True,5,False,not_reviewed,True
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_219,UPDATE 2-Air France-KLM slumps after profit warning,0.80644447,0.5714285714285714,84,c6c3b54664981a1d97a070995616d891,False,5,False,not_reviewed,False
+nifty_362,Dreamliner Lifts Off,nifty_730,New Dreamliner Model Takes Off,0.80642456,0.5,691,a4739c086a1b57491df98248b3624c17,True,4,False,not_reviewed,False
+nifty_847,American Airlines Profit Soars,nifty_1241,Airlines Post Strong Profits,0.80633783,0.25,728,adc057d78ef82bd236a460f7c4cdfe22,False,5,False,not_reviewed,False
+nifty_97,WTO Condemns Airbus Subsidies,nifty_1326,"EU Failed to Cut Off Illegal Subsidies to Airbus, WTO Rules",0.8062898,0.4,2275,0dd4895ad60a464060a29f3358ab3316,True,4,False,not_reviewed,False
+nifty_534,Research and Markets: Airlines in China,nifty_787,Research and Markets: Commercial Aircraft Market in China 2014-2018,0.80610746,0.6,481,467718a1f1816e41504c466cd28d1777,False,5,False,not_reviewed,False
+nifty_305,Lockheed Looks For More Job Cuts,nifty_650,Lockheed Sees Cuts Affecting Sales,0.8058672,0.25,644,0abbb43c27ce4ca8db72fc6bf498ceac,False,5,False,not_reviewed,False
+nifty_44,Boeing Dreamliner Passes Test,nifty_650,Boeing Had Say on Dreamliner Tests,0.8058164,0.3333333333333333,1121,86bee554957b665e49b2c4d6b2d5c508,False,5,False,not_reviewed,False
+nifty_409,EasyJet Soars as Revenue Grows,nifty_995,EasyJet Sales Rise,0.8054299,0.0,1097,4313d39e9940b0445723bfb63265c922,True,4,False,not_reviewed,False
+nifty_847,JetBlue Profit Plunges,nifty_1146,JetBlue Profit Rises on Low Fuel Costs,0.8053648,0.6666666666666666,551,b09e4927788b1aa6afbc83b68715f750,False,5,False,not_reviewed,False
+nifty_544,EADS-BAE deal risks collapse due to governments: sources,nifty_550,Deal's Collapse Leaves Challenges for BAE and EADS,0.80527437,0.2857142857142857,9,fd56690c1730d9c6fbebe69adc141a36,False,5,False,not_reviewed,False
+nifty_159,Boeing Swings to Profit,nifty_896,"Boeing's Profits, Concerns Rise",0.80526584,0.0,1371,a8f17ae1dea9c5e4369e3ed189896c71,False,5,False,not_reviewed,False
+nifty_897,American Airlines Profit Climbs,nifty_1241,Airlines Post Strong Profits,0.80520254,0.25,637,f4ce094f09238bb32e17983153ccf9bd,False,5,False,not_reviewed,False
+nifty_262,Air France Jet's Black Box Found,nifty_470,Black Box From Russian Jet Found,0.80517477,0.0,380,08d3aeb26846b5412fdd3daa7f32f59d,False,5,False,not_reviewed,False
+nifty_985,Research and Markets: The Future of Airlines in France to 2018,nifty_1092,Research and Markets: Global Airlines Industry Report 2015 - Analysis and Forecast 2010 - 2019,0.8049054,0.2727272727272727,196,8130874ea3adf3c55d78dd7267bc7849,False,5,False,not_reviewed,False
+nifty_333,"China to need 5,000 jets worth $600 bln over 20 yrs -Boeing exec",nifty_333,UPDATE 2-China to need $600 bln of jets over 20 yrs -Boeing,0.8046249,0.5,0,376114dd1b5ee6095b03c5f31b8621a2,True,5,False,not_reviewed,True
+nifty_781,Etihad Airways May Take Stake in Alitalia,nifty_793,Etihad Sets Demands for Alitalia Stake,0.80454344,0.2857142857142857,28,e1c5951d99071050a3f8bc104f65f39f,False,5,False,not_reviewed,False
+nifty_102,EU Likely to Clear Airline Alliance,nifty_706,EU Clears U.S. Airlines' Merger,0.80453914,0.25,1119,b40f602a0d5492d56c4bcc9d2881226a,False,5,False,not_reviewed,False
+nifty_123,AirAsia Posts 43% Profit Rise,nifty_226,AirAsia Net Profit Soars,0.804425,0.3333333333333333,190,86c2a798878bbf625f2143c8c0c84888,True,5,True,incorrect,False
+nifty_793,Etihad Sets Demands for Alitalia Stake,nifty_881,Etihad to Buy 49% Alitalia Stake,0.8042761,0.4,161,86800f7757011cb9b143dfba58809c83,False,5,False,not_reviewed,False
+nifty_1026,Lockheed Likely to Lose Part of F-35 Fee,nifty_1391,Lockheed Martin Maintains F-35 Pricing Plan,0.80420136,0.2857142857142857,672,ec157e3034fbbcec3888e91a5551639d,False,5,False,not_reviewed,False
+nifty_835,Lufthansa Pilots on Three-Day Strike,nifty_943,Lufthansa’s Germanwings Pilots Call Strike,0.80418736,0.1666666666666666,196,666bd04201b662c628508c622e0c0d27,False,5,False,not_reviewed,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_509,Costs Hit Air France-KLM,0.8040259,0.6666666666666666,620,5d842ddb84ac9708c00d54fe2c5a91dd,False,5,False,not_reviewed,False
+nifty_325,Air India Expects First Dreamliners in November-March,nifty_337,Air India to Discuss Dreamliner Order,0.8040233,0.4285714285714285,22,3167042c43dcbde3f6dbd5cd6a972832,False,5,False,not_reviewed,False
+nifty_544,EADS-BAE deal risks collapse due to governments: sources,nifty_549,EADS-BAE deal talks collapse,0.80401987,0.3333333333333333,8,34f3e2e3de33705a37d6f62ac2616d13,False,5,False,not_reviewed,False
+nifty_686,Bombardier Delays Maiden Voyage for CSeries,nifty_794,Bombardier Delays CSeries Jets,0.8039548,0.5,204,7d0e1cbaa55d6fe30a7cebe012a7b521,True,5,False,not_reviewed,True
+nifty_835,Lufthansa Pilots on Three-Day Strike,nifty_932,Pilots Union Plans New Lufthansa Strikes,0.80392903,0.1428571428571428,176,95cb667f38c0ea2231ca0d993ad94732,True,4,False,not_reviewed,False
+nifty_1090,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,nifty_1143,"Lockheed, United Tech say close to finalizing Sikorsky deal",0.8036473,0.5714285714285714,93,ff6e1c08b427eac93b126250d3c04545,True,4,False,not_reviewed,False
+nifty_1091,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,nifty_1143,"Lockheed, United Tech say close to finalizing Sikorsky deal",0.8036473,0.5714285714285714,92,ff6e1c08b427eac93b126250d3c04545,True,4,False,not_reviewed,False
+nifty_1057,United Technologies Talking to Possible Buyers for Sikorsky,nifty_1090,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,0.8036113,0.25,62,f8a1b1f76516afc63748447ab906a71c,False,5,False,correct,False
+nifty_1057,United Technologies Talking to Possible Buyers for Sikorsky,nifty_1091,Exclusive: Lockheed to buy United Tech's Sikorsky for over $8 billion,0.8036113,0.25,63,f8a1b1f76516afc63748447ab906a71c,False,5,False,correct,False
+nifty_362,Lufthansa's Profit Drops 21%,nifty_873,Lufthansa Warns on Profit,0.80334854,0.3333333333333333,958,ab82554e016255d4afff719197fd326d,False,5,False,not_reviewed,False
+nifty_925,Lufthansa Pilots Call Off Strike,nifty_945,Lufthansa Pilots to Expand Strike,0.80328035,1.0,35,9a9b5194efa05f13bc5fb9a0a642582e,False,5,False,not_reviewed,False
+nifty_289,Air Lease to Place Big Boeing Order,nifty_497,Boeing Gets $7.2 Billion Air Lease Order,0.8032459,0.25,385,273cb2d51fa909ae7e96bceda6dc773f,True,5,False,not_reviewed,True
+nifty_1088,Pentagon says 'closely monitoring' potential Sikorsky sale,nifty_1091,Lockheed sees positive Pentagon view on Sikorsky buy,0.8032403,0.3333333333333333,6,63aa2dcadcb86f4d73b667e7fc96adc7,True,4,False,not_reviewed,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_806,Virgin America picks banks for potential 2014 IPO: FT,0.8028137,0.4285714285714285,704,6ebcd27a7cbe3f2abcbf6e3c204a82a1,False,5,False,not_reviewed,False
+nifty_338,Irish govt to move on Aer Lingus stake sale -report,nifty_553,Etihad would be interested in Irish government's Aer Lingus stake,0.80262405,0.2857142857142857,397,87d67c563e541954767f46bc1f526188,False,5,False,not_reviewed,False
+nifty_925,"United Continental, Flight Attendants Reach Buyout Deal",nifty_1279,United Continental Flight Attendant Leaders Endorse Tentative Deal,0.80242395,0.2857142857142857,653,b0db5223f2a37078139a64ca1fda96e0,False,5,True,incorrect,False
+nifty_712,Boeing to Review C-17 Production Rate,nifty_731,Boeing to End C-17 Production in 2015,0.802338,0.25,35,be850eec215d342fa33bb6c16cddf22f,False,5,False,not_reviewed,False
+nifty_602,"Research and Markets: United States Defense Industry Report to 2017 Featuring Lockheed Martin, Raytheon, Boeing, L-3 Comms, General Dynamics and Northrop",nifty_810,"Research and Markets: United States Homeland Security Market 2014-2018: BAE, Boeing, General Dynamics, Lockheed Martin, Raytheon & NG Dominate the Market",0.80226946,0.4615384615384615,390,d198e437852f78c7af23a9b19da234c5,False,5,False,correct,False
+nifty_1151,Southwest Pilots Reject New Contract,nifty_1312,Southwest Pilots Union Has a Tentative Agreement on Contract,0.8020413,0.125,299,b2cfd0080376df76b41fee2f22af5634,False,5,False,not_reviewed,False
+nifty_272, EBACE 2011: Bombardier Aerospace Releases Annual Aircraft Market Forecasts,nifty_1260,BRIEF-Bombardier Business Aircraft releases 10-year forecast for private aviation market,0.8019608,0.0909090909090909,1834,d8053059a7e86a306eec019ff51428c0,False,5,False,not_reviewed,False
+nifty_661,"CEO Sees Profit, IPO for Virgin America",nifty_762,"Virgin America Posts Profit, Eyes IPO",0.8017983,0.8333333333333334,183,fe08e0aaf60457b5e8a7f7c67bec5d63,True,5,False,not_reviewed,False
+nifty_159,Boeing Swings to Profit,nifty_408,"Boeing Posts Higher Profit, Revenue",0.8016996,0.3333333333333333,461,740b08b64ffcbd1cd1769453a4d1c75f,True,5,False,not_reviewed,False
+nifty_121,Airlines Post Mixed Results,nifty_409,Airlines Post Strong Results,0.80169636,0.3333333333333333,528,e8371336362cb4fd413f6d48f8d46c3c,False,5,False,not_reviewed,False
+nifty_173,Airlines Criticize Proposed Pilot-Fatigue Rules,nifty_390,FAA Set to Release Pilot-Fatigue Rules,0.8014363,0.0,399,28fa3cf99df7b0d469947cd7273c5c50,False,5,False,correct,False
+nifty_159,Boeing Swings to Profit,nifty_804,Boeing Striving to Improve Profit Margins,0.80142105,0.5,1203,a5f8a5213f2e4c3da90039cb15b99181,False,5,False,correct,False
+nifty_534,Research and Markets: Airlines in China,nifty_619,Research and Markets: Analysis of Japan Airlines,0.8011788,0.4285714285714285,167,b4d68c82c125162d8c7017a61714bc90,False,5,False,not_reviewed,False
+nifty_1151,Southwest Pilots Reject New Contract,nifty_1254,Southwest Pilots Union Alleges Breach of Contract,0.8009432,0.1428571428571428,194,57b0d73c317b959da7f689cc3e4d80f2,False,5,False,not_reviewed,False
+nifty_40,Cabin Crews At BA Persist With Walkout,nifty_76,BA Crews Begin Walkout,0.8008689,0.5,64,f0287d656e7d94f1f075a4d71e9ebcdf,True,4,False,not_reviewed,False
+nifty_277,AirAsia's Growth Plan,nifty_1062,"AirAsia’s Profit Rises, But Challenges Remain",0.80080867,0.25,1463,ec12f7e292ee730e4ee0eb8a7f2f11c7,False,5,False,not_reviewed,False
+nifty_157,Lockheed Profit Declines,nifty_259,Lockheed Profit Edges Lower,0.8006757,1.0,189,a6429a7b18b16ea40335dbc16f968c7d,True,5,False,not_reviewed,True
+nifty_873,"UPDATE 3-Lufthansa warns on profit, shares plunge",nifty_873,Lufthansa Warns on Profit,0.80037934,0.6666666666666666,0,4e49593975b36ac2db8eff07c1f6416a,True,5,False,not_reviewed,True
+nifty_704,Air France Cuts More Jobs,nifty_731,Air France Plans More Cost Cuts,0.80027413,0.6,49,83507f8829c8b8bbd132e0a74c0015f6,False,5,False,not_reviewed,False
+nifty_607,Ryanair Offers New Concessions for Aer Lingus,nifty_699,Ryanair Vows to Sell Aer Lingus,0.80026233,0.8,169,bdf715cada3c5a9d77f24eb4dba80bf6,False,5,False,not_reviewed,False
+nifty_303,Dreamliner Put Through Paces,nifty_364,Dreamliner's Here: Now Learn to Fly It,0.80009556,0.5,110,b196a5d100a85098e05ed94d432de8c9,False,5,False,not_reviewed,False
+nifty_805,Airbus May Sell A380 Jet with New Engines,nifty_1017,Airbus Considering New Engines for A380,0.8000122,0.6666666666666666,396,e9a3f80a43cab1c7b84daafb2aecada3,False,5,False,not_reviewed,False
+nifty_1344,Pentagon Is Expected to Split Lockheed’s Next F-35 Order,nifty_1386,"Pentagon, Lockheed Martin Meet to Discuss F-35",0.7999347,0.5,79,f3735dbaf6d8f51db1ce9ec93f1ccf15,False,5,False,not_reviewed,False
+nifty_377,"Air India May Sell Dreamliner Plane on Delivery, Lease Back",nifty_531,Air India Gets Delivery of Dreamliner,0.7994785,0.6666666666666666,283,b2ef507d07ec52a61521f6ed1dee5e81,False,5,False,not_reviewed,False
+nifty_847,JetBlue Profit Plunges,nifty_1243,JetBlue Profit Soars on Cheap Fuel,0.79927254,0.6666666666666666,733,721ef038645252526653723989a7ad0d,False,5,False,correct,False
+nifty_633,Lufthansa Cancels Flights Amid Strike,nifty_925,Lufthansa Pilots Call Off Strike,0.7992492,0.5,543,4aaa9fee958886b86cf506c70fe5d642,False,5,False,not_reviewed,False
+nifty_708,Virgin America Lands Rare Profit,nifty_1047,Virgin America Swings to Profit,0.7980077,0.75,631,2aae77541f83dc2c5eb2f9b37514db2b,True,5,False,not_reviewed,True
+nifty_275,UPDATE 1-Lockheed CEO is confident about F-35 challenges,nifty_662,Lockheed CEO Backs F-35,0.7978637,0.5,721,baa09cd956059552fab0f232e03444b9,False,5,False,not_reviewed,False
+nifty_1191,Boeing to Cut Production of 747s,nifty_1294,Boeing Considers Ending Production of 747,0.7969823,0.6666666666666666,188,d3c1a2c74eb7286c4156d3e8ffdc3512,False,5,False,not_reviewed,False
+nifty_706,Virgin Australia Warns of Steep Loss,nifty_917,Virgin Australia Posts Deep Loss,0.79697734,0.6,388,851d9971b049fbb83e43e6c647d15102,False,5,False,correct,False
+nifty_40,Air India Plans to Raise Funds,nifty_480,Air India Set for More Taxpayer Money,0.7968783,0.6,806,8cae1ad29048f9a8399f037253b7bbd2,False,5,False,not_reviewed,False
+nifty_86,Spirit Cancels Flights Through Wednesday,nifty_89,Spirit Sees Flights Resuming on Friday,0.79665375,0.5,3,7e668f7146e21c80913e3cc20716cc25,False,5,False,not_reviewed,False
+nifty_608,Liberty Global to buy Virgin Media for $15.75 billion,nifty_645,Liberty Global's $15.8 bln Virgin Media deal cleared in EU,0.7964316,0.5,69,3bfe4ce925d733a17a6ea77b045607df,False,5,False,not_reviewed,False
+nifty_1210,Republic Airways Files for Bankruptcy,nifty_1358,Republic Airways Proposes Plan to Exit Bankruptcy Next Year,0.79641426,0.8,266,6c0731c233777500d45b50b9d82d9133,False,5,False,not_reviewed,False
+nifty_219,Air France-KLM profit warning slump,nifty_369,Air France-KLM Profit Tumbles,0.7957523,0.6,272,bc61df159c2f2561aac6bff7e6abaafc,True,5,False,not_reviewed,True
+nifty_238,Lufthansa Returns to Profit,nifty_901,Lufthansa Posts Decline in Profit,0.7955254,0.6666666666666666,1232,833301a8523c1e0c555cf145b16f1543,False,5,False,not_reviewed,False
+nifty_73,Air France-KLM Net Loss Widens,nifty_408,Air France-KLM Expects Deep Loss,0.7951679,0.5,616,65712b96d41ceb9e2d476f8e68b0ea2a,False,5,False,not_reviewed,False
+nifty_217,Boeing Plans More India Tie-Ups,nifty_435,India Tussles With Boeing,0.7948666,0.6666666666666666,400,a6ed6de7cdce95773c6d8ff8d5b36c64,False,5,False,not_reviewed,False
+nifty_1226,"JetBlue, Alaska Air Bidding for Virgin America",nifty_1230,Alaska Air Wins Bidding War for Virgin America,0.7944938,0.625,7,3a606c9e18002c8cd6ec25863498e777,False,5,False,not_reviewed,False
+nifty_378,Air India to Sell and Lease Back Dreamliners,nifty_531,Air India Gets Delivery of Dreamliner,0.7929913,0.5,282,da258447b031562c324ca8153bfbecf6,False,5,False,not_reviewed,False
+nifty_1062,IAG says will not increase Aer Lingus share price offer,nifty_1089,IAG Extends Offer for Aer Lingus,0.79205453,0.5,49,0d7aa8996583be6cd17d7b688b0e8b30,False,5,False,not_reviewed,False
+nifty_145,Southwest to Buy AirTran,nifty_392,Southwest's Integration of AirTran Continues,0.7916281,0.6666666666666666,450,8454ff71df113da4ee42b21c8c18e3f2,False,5,False,not_reviewed,False
+nifty_1434,Republic Moves Closer to Exit From Bankruptcy,nifty_1434,Republic Airways Moves Closer to Exit From Bankruptcy,0.7906865,0.6,0,cab7a44708370757b3e32aafc5359f28,True,5,False,not_reviewed,True
+nifty_106,Ryanair Profit Falls 24%,nifty_1460,Ryanair Profit Edges Up,0.79020315,1.0,2506,b256f684d9bb7ffe6d11f71d65316e49,False,5,False,not_reviewed,False
+nifty_305,Kingfisher Airlines Flights Back to Normal,nifty_478,Kingfisher Airlines' Loss Widens,0.79014224,0.5,317,3694cc9311d14a9878cde128d5f34494,False,5,False,not_reviewed,False
+nifty_1204,United Continental Mechanics Reject Tentative Labor Contract,nifty_1365,United Continental Mechanics Approve New Labor Deal,0.78930306,0.5,293,f36a314018d3c700f55254c59e4a87c7,False,5,False,not_reviewed,False
+nifty_319,Oil Companies Resume Fuel Supplies to Air India,nifty_413,Fuel Supplies to Air India Halted,0.7888201,0.6,175,6c0fdaad8e65bfe3b41e94361c8908e2,False,5,False,not_reviewed,False
+nifty_610,Air Canada Posts Profit,nifty_905,Air Canada Swings to Profit,0.78880745,0.75,546,3f70b55c70d04a012cecbd08b7cf63ba,True,5,False,not_reviewed,True
+nifty_368,Republic Makes Plans to Separate Frontier Airlines,nifty_415,Republic Moves Closer to Shedding Frontier Airlines,0.78824556,0.8,91,6366e17ee3944e86fccaa56b980cd0ab,False,1,True,not_returned,False
+nifty_1195,JetBlue Profit Doubles on Cheap Fuel,nifty_1344,JetBlue Profit Essentially Flat,0.78796244,0.6666666666666666,271,37b32e4f1ac164163e88ae9d34e45d66,False,1,True,not_returned,False
+nifty_1146,JetBlue Profit Rises on Low Fuel Costs,nifty_1393,JetBlue Profit Pressured by Sagging Fares,0.787079,0.5,457,5faff5d99873f4b9281c0b9f04a3d5d0,False,1,True,not_returned,False
+nifty_823,Cathay Pacific 2013 Net Profit Jumps,nifty_908,Cathay Pacific Profit Soars,0.7868142,0.5,154,961f2dcc21df5459ccfb9fa62994f11a,False,1,True,not_returned,False
+nifty_115,Cathay Pacific Profit Soars,nifty_823,Cathay Pacific 2013 Net Profit Jumps,0.7868141,0.5,1316,7e427494d62efae452b1f8728770717e,False,1,True,not_returned,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_806,Virgin America picks banks for potential 2014 IPO -FT,0.7867083,0.5,704,d40ba7aef51a4bb37a9c8266bb469913,False,1,True,not_returned,False
+nifty_1344,Pentagon Is Expected to Split Lockheed’s Next F-35 Order,nifty_1349,"Lockheed, Pentagon Spar Over F-35 Contract",0.7865563,0.6,8,ab24272b8a83117369fa6eafa6ec7755,False,1,True,not_returned,False
+nifty_937,Lufthansa Pilots to Strike Cargo Flights,nifty_945,Lufthansa Pilots to Expand Strike,0.78626686,0.5,14,18908a50e87591ad6e5899a7293697e5,False,1,True,not_returned,False
+nifty_1146,JetBlue Profit Rises on Low Fuel Costs,nifty_1344,JetBlue Profit Essentially Flat,0.78562725,0.6666666666666666,364,8ad0cb2475aee3cb55ad213a93b9496f,False,1,True,not_returned,False
+nifty_515,Air Canada Posts Wider Loss,nifty_808,Air Canada Posts 4th-Quarter Loss,0.7849211,0.6,553,de9f197a56357206357f25149ca18265,False,1,True,not_returned,False
+nifty_835,Lufthansa Pilots on Three-Day Strike,nifty_937,Lufthansa Pilots to Strike Cargo Flights,0.7847061,0.5,187,0866a09b7b190bf306adfc4f42de0e9b,False,1,True,not_returned,False
+nifty_608,Liberty Global to buy Virgin Media for $15.75 billion,nifty_609,Cable consolidates: Liberty Global buys Virgin Media in massive $23.3B deal,0.7844874,0.75,1,58b860f86ac550bff46f1f1c5507a9d4,False,1,True,not_returned,False
+nifty_433,Kingfisher to Cut Flights,nifty_547,Kingfisher Halts Flights Through Next Week,0.78421044,0.6666666666666666,206,b4175e3fa29f99e4789e227c4ab1231a,False,1,True,not_returned,False
+nifty_1241,Alaska Air Profit Tops Expectations,nifty_1342,Alaska Air Profit Hit by Merger Costs,0.7838092,0.5,182,4aad0804b379ba063d3cbefa5725b5fd,False,1,True,not_returned,False
+nifty_11,UPDATE 4-Boeing profit tops forecasts; shares up on outlook,nifty_558,UPDATE 4-Boeing profit beats forecasts; aims to return cash,0.78373283,0.5714285714285714,1001,90d0fab2b5e2af23b0d648062bf38418,False,1,True,not_returned,False
+nifty_873,Lufthansa Warns on Profit,nifty_1097,Lufthansa Profit Rebounds,0.7835062,1.0,414,a31f670effd41c6a7ed1f2494f2001fd,False,1,True,not_returned,False
+nifty_578,EADS shareholders reach outlines of deal - sources,nifty_578,EADS shareholders reach deal on new capital structure,0.78323233,0.6,0,b759873c7b09268453d8f614abaab873,False,1,True,not_returned,False
+nifty_1283,Lockheed Martin Says New F-35 Contract Talks in Final Stages,nifty_1289,Lockheed Martin Says F-35 Contract Talks Weigh on Cash,0.7811611,0.5,12,c2f0a8ff584cda434a67737feabe4637,False,1,True,not_returned,False
+nifty_565,Boeing Is on Track to Outsell Airbus,nifty_1186,"Airbus Outsells Boeing With 1,036 Net Jetliner Orders",0.7806342,0.5,1160,ea2a459a40b9c7e300bb01963a5c70d9,False,1,True,not_returned,False
+nifty_847,JetBlue Profit Plunges,nifty_1393,JetBlue Profit Pressured by Sagging Fares,0.7804299,0.6666666666666666,1008,3fb2e75ea49a7ce51cdbd751489197ed,False,1,True,not_returned,False
+nifty_288,New Bombardier Jet Struggles,nifty_729,New Bombardier Jet Takes Flight,0.78024805,0.6666666666666666,823,386c2a7de8042b16c644ebe7945b420b,False,1,True,not_returned,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_831,"With Sights on IPO, Virgin America Posts First Yearly Profit",0.7801968,0.6666666666666666,748,da44d2c90b71fb727c985ebe1f366512,False,1,True,not_returned,False
+nifty_1243,JetBlue Profit Soars on Cheap Fuel,nifty_1393,JetBlue Profit Pressured by Sagging Fares,0.77947634,0.5,275,cf5351294411dd324768ef4665e6b0db,False,1,True,not_returned,False
+nifty_378,Air India to Sell and Lease Back Dreamliners,nifty_525,Air India to Get Dreamliner This Week,0.7792998,0.6,272,6159521291555e160aa112e0339c9130,False,1,True,not_returned,False
+nifty_166,Boeing Sees China Becoming World's No. 2 Jet Market,nifty_334,Boeing Sees China on the Rise,0.77905566,0.5,309,f673c2c3f36ecf20ff2af773cf002de9,False,1,True,not_returned,False
+nifty_946,Air Bag Recalls Go Unheeded,nifty_947,Air Bag Recalls Trigger New Scrutiny,0.7788046,0.5,1,8a8ab150c8ec3c6d603b178e9e262ed3,False,1,True,not_returned,False
+nifty_925,Lufthansa Pilots Call Off Strike,nifty_1361,"Lufthansa Pilots Extend Strike; Airline Cancels 1,700 Flights",0.7785826,0.6,805,e144bfa98ec3b0b685ed9dba308450bd,False,1,True,not_returned,False
+nifty_337,Air India to Discuss Dreamliner Order,nifty_378,Air India to Sell and Lease Back Dreamliners,0.7781757,0.6,76,07d44af91dd010347f71eb4a738b6749,False,1,True,not_returned,False
+nifty_1210,Republic Airways Files for Bankruptcy,nifty_1375,Republic Airways to Send Reorganization Plan to Creditors,0.77796066,0.5,300,7713f1c2345a901fb698e0e9f28a5807,False,1,True,not_returned,False
+nifty_762,"Virgin America Posts Profit, Eyes IPO",nifty_953,Virgin America Unveils Estimated Terms of IPO; Profit Rises 24%,0.77716243,0.8333333333333334,356,3b4d8188f720fb70650cfccf3767e396,False,1,True,not_returned,False
+nifty_1349,"Lockheed, Pentagon Spar Over F-35 Contract",nifty_1386,"Pentagon, Lockheed Martin Meet to Discuss F-35",0.777152,0.5,71,23b5b2e309f5d6dba20e85194bbd5328,False,1,True,not_returned,False
+nifty_378,Air India to Sell and Lease Back Dreamliners,nifty_481,Air India to Get Three Dreamliners in June,0.77688545,0.5,190,828f811af954d17dd4eb1333f29b1afc,False,1,True,not_returned,False
+nifty_112,Southwest Profit Jumps,nifty_1191,Southwest Profit Soars on Cheap Fuel,0.77663213,0.6666666666666666,2002,f588734b95e026005ce75eff10b3a798,False,1,True,not_returned,False
+nifty_461,Etihad Buys Aer Lingus Stake,nifty_553,Etihad would be interested in Irish government's Aer Lingus stake,0.7757744,0.6,168,c5546dfcac5899f4ba1b67426a99a679,False,1,True,not_returned,False
+nifty_472,Fuel Costs to Pinch Ryanair,nifty_702,Ryanair Hit by Fuel Costs,0.77572787,1.0,434,5cd803b41a096b6133fbe09e3f2513dc,False,1,True,not_returned,False
+nifty_1006,Takata Air-Bag Probe Drags On,nifty_1089,Takata Air-Bag Probe Points to Leaky Seals,0.77424186,0.6666666666666666,149,904474c02c5474dfb0c39f09efd0d96d,False,1,True,not_returned,False
+nifty_781,Etihad Airways May Take Stake in Alitalia,nifty_806,Etihad says meeting with Alitalia's banks over stake,0.7736536,0.5,54,e706cd3c193ead7a3b74751c0b007fce,False,1,True,not_returned,False
+nifty_82,IATA Sees Airline Profits in '10,nifty_867,IATA Lowers Airlines' Profit Outlook,0.77327716,0.5,1456,c4a8a913094a7ed283c94b9070b61b65,False,1,True,not_returned,False
+nifty_40,Air India Plans to Raise Funds,nifty_313,Government to Infuse Funds in Air India,0.7730918,0.8,498,f97d359e16ddfed3c627dc27a6654f94,False,1,True,not_returned,False
+nifty_369,Air France-KLM Profit Tumbles,nifty_1350,Air France-KLM Profit Up Despite Strikes,0.77290183,0.8,1821,d154a908308723243c640862373b1832,False,1,True,not_returned,False
+nifty_847,JetBlue Profit Plunges,nifty_1195,JetBlue Profit Doubles on Cheap Fuel,0.7726465,0.6666666666666666,644,b945df8000a4bbcc3abf713d07c85f05,False,5,False,not_reviewed,False
+nifty_632,Boeing Works to Redeem Dreamliner,nifty_639,Boeing Lands Dreamliner Order,0.77248544,0.6666666666666666,14,06a49411125be7351a9437defd4d901b,False,5,False,not_reviewed,False
+nifty_901,Lufthansa Posts Decline in Profit,nifty_1097,Lufthansa Profit Rebounds,0.7722321,0.6666666666666666,364,e01b00aab73d47b1d47198de96ef81c2,False,5,False,correct,False
+nifty_377,"Air India May Sell Dreamliner Plane on Delivery, Lease Back",nifty_438,Air India Will Take Delivery of All Dreamliners,0.77140546,0.6666666666666666,113,b133116bab0dc85bbd9c582df9bdf662,False,5,False,correct,False
+nifty_544,Kingfisher Cancels Flights Due to Labor Unrest,nifty_547,Kingfisher Halts Flights Through Next Week,0.7713304,0.5,3,0ece42929f7934bd535e305e21e1163f,False,3,True,incorrect,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_560,"Lufthansa, Air France-KLM Profits Rise",0.7712833,0.6666666666666666,713,ca97c5c201a84574cb66fd1e8627c614,False,5,False,not_reviewed,False
+nifty_86,Spirit Cancels Flights Through Tuesday,nifty_89,Spirit Sees Flights Resuming on Friday,0.77084,0.5,3,5a156e99825dc1727414cc99a8c104a1,False,5,False,not_reviewed,False
+nifty_1153,Lufthansa Strike Continues,nifty_1155,Lufthansa Strike Moves into Fifth Day,0.77030814,0.6666666666666666,2,e3bd0bbe40128282684b6d474ddb1313,False,5,False,not_reviewed,False
+nifty_1210,Republic Airways Files for Bankruptcy,nifty_1434,Republic Airways Moves Closer to Exit From Bankruptcy,0.7693046,0.8,411,b24b439a925273ad988e0edafdad8bb8,False,5,False,correct,False
+nifty_461,Lockheed: Cuts Will Spur Mergers,nifty_650,Lockheed Sees Cuts Affecting Sales,0.76925296,0.5,357,5a4c246be4bf0322af8f4d32d6d7631f,False,5,False,not_reviewed,False
+nifty_285,Ash Disrupts Flights in Australia,nifty_289,Virgin Australia Suspends Flights Due to Ash,0.76867455,0.6,7,a5dd10338a29472250b5e73b12a3bf71,False,5,False,not_reviewed,False
+nifty_311,Boeing Slows 787 Deliveries,nifty_662,Boeing Resumes 787 Deliveries,0.7685663,1.0,656,cac5a7d9d3b074a6678952223e6be414,False,5,False,not_reviewed,False
+nifty_299,Air France-KLM Moves Toward New Structure,nifty_812,Air France-KLM Looks to Strengthen Alliances,0.7666587,0.6666666666666666,959,47fe182ded31bf32b9ed8d4f9ded8aa6,False,5,False,not_reviewed,False
+nifty_873,UPDATE 2-Flybe swings to profit; shares slip on Lufthansa warning,nifty_873,"UPDATE 3-Lufthansa warns on profit, shares plunge",0.7664898,0.5,0,babc0e75570fb1cddcb00ff52dc2fa2e,False,5,False,not_reviewed,False
+nifty_954,Virgin Money to Proceed With IPO,nifty_960,Virgin Money expected to price IPO at bottom of range -sources,0.76603675,0.5714285714285714,9,93f52f57db2ea47c554f2eb46c7c592a,True,4,False,not_reviewed,False
+nifty_945,Lufthansa Pilots to Expand Strike,nifty_1361,"Lufthansa Pilots Extend Strike; Airline Cancels 1,700 Flights",0.76478285,0.6,770,38477528753e2abc279e404415183e36,True,4,False,correct,False
+nifty_933,Lufthansa Pilots Plan New Strike,nifty_937,Lufthansa Pilots to Strike Cargo Flights,0.76425326,0.5,7,1c137f38a2f9a5f8cea38922e0a9998d,False,5,False,not_reviewed,False
+nifty_933,Boeing Shifting Defense Jobs Away From Washington,nifty_1356,Boeing to Cut Defense Jobs,0.76414,0.6666666666666666,778,1f9a85d0b435ab728b06ded6c9fc8484,False,5,False,not_reviewed,False
+nifty_150,Air Liquide: Success of the Bond Exchange Offer,nifty_1062,Air Liquide Issues â¬500 Million of Bonds,0.7640213,0.5,1695,61d279984a169e85694d4980f9243852,False,5,False,not_reviewed,False
+nifty_525,Boeing Expands Dreamliner Assembly,nifty_639,Boeing Lands Dreamliner Order,0.7637347,0.5,219,e883d9a331a855b7462ef53fa5194b83,False,5,False,not_reviewed,False
+nifty_632,Boeing Works to Redeem Dreamliner,nifty_650,Boeing Had Say on Dreamliner Tests,0.76370645,0.5,34,40750b61f4f14f52756605157fbbe62c,False,5,False,not_reviewed,False
+nifty_993,Southwest Earnings Helped by Lower Fuel,nifty_1043,Southwest Earnings More Than Double,0.7632357,0.6666666666666666,91,c42092c0b1cd68b8addb661da76caf73,False,5,False,not_reviewed,False
+nifty_509,Costs Hit Air France-KLM,nifty_1295,UPDATE 2-Air France-KLM says attacks hitting revenue,0.76276517,0.5,1459,b44a7c3b49490db71f12860ad07b45fe,False,5,False,not_reviewed,False
+nifty_821,Justice Department Defends Airline Settlement,nifty_1081,Justice Department Probes Airlines for Collusion,0.76261115,0.5,478,dbdedd1cea6dca03f1fd252cba007036,False,5,False,not_reviewed,False
+nifty_139,"Boeing Received Illegal Aid, WTO Says",nifty_213,WTO Rules Boeing Got Improper Subsidies,0.7622721,0.5,138,4d12b714b81a4d500fff2385c71df960,True,5,False,not_reviewed,True
+nifty_1210,Republic Airways Files for Bankruptcy,nifty_1290,Republic Airways Wins Court Approval for Bankruptcy Bonuses,0.76182884,0.5,146,0f746b97a42c4e3a6f89b0892eb2cc42,False,5,False,not_reviewed,False
+nifty_182,Air India Plans to Lease 57 Planes,nifty_265,"Air India Looks to Lease Planes, Crew",0.7616963,0.5,150,e1293cf85348f7d5db9b6bdfd8e046d0,True,4,False,not_reviewed,False
+nifty_384,Southwest Nears Deal to Purchase Boeing Jets,nifty_456,United Nears Deal to Buy Boeing Jets,0.761506,0.6,137,af1ebfeaa161690608581295788d0c25,False,5,False,not_reviewed,False
+nifty_50,"US Airways, UAL in Merger Talks",nifty_447,US Airways Pushes Merger,0.7605247,0.5,727,d888434a3724830fda34c40c9c50c576,False,5,False,not_reviewed,False
+nifty_171,Boeing Suspends 787 Test Flights,nifty_634,Boeing Begins 787 Test Flights,0.75998634,1.0,865,9108fb3d767c5e641c8adc117fe64fbd,False,5,False,not_reviewed,False
+nifty_1344,JetBlue Profit Essentially Flat,nifty_1393,JetBlue Profit Pressured by Sagging Fares,0.75989467,0.6666666666666666,93,b6909b9c5fe65d3b7e1dfacaa534443c,False,5,False,not_reviewed,False
+nifty_159,Airline Profits Take Off,nifty_672,Airline Profits Forecast to Rise,0.7588672,1.0,956,4985e03f0f2a354f9d325d0ffb755043,True,4,False,not_reviewed,False
+nifty_808,Republic Airways CEO Says Pilot Shortage Will Cause More Service Cuts,nifty_1094,Pilot Shortage Halves Republic Airways Stock,0.75840735,0.5,530,399d484d7d2ac920d493ab310a5cdac9,False,5,False,not_reviewed,False
+nifty_565,Boeing Is on Track to Outsell Airbus,nifty_591,Boeing Is Likely to Overtake Airbus,0.7575839,0.6666666666666666,56,0dcc3d843e6e5fa68c44a98b12775b4a,True,4,False,not_reviewed,False
+nifty_219,Air France-KLM profit warning slump,nifty_1350,Air France-KLM Profit Up Despite Strikes,0.7564902,0.5,2093,045cf6ec658dc2c6dd1d70f8ab20b71e,False,5,False,not_reviewed,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_428,Air France-KLM Raises $622 Million,0.7561728,0.8,469,6d3b34f5fa0ff92acab819071305f6e4,False,5,False,not_reviewed,False
+nifty_1366,"Alaska Air, Virgin America Get U.S. Nod for Merger",nifty_1371,Alaska Air Closes Virgin America Acquisition,0.75579345,0.5,8,76a7a15b8167dfcfb14970da6222af91,False,5,False,not_reviewed,False
+nifty_128,Virgin Blue Swings to Profit,nifty_208,Virgin Blue Warns of Profit Drop,0.7555841,0.5,151,c26bbe2337f6af61ba6a50813732f713,False,5,False,not_reviewed,False
+nifty_37,Union Is Ready to Meet With BA,nifty_90,BA Union Signals New Job Action,0.75488216,0.5,97,5fb80572c4c5a409344819738d1fb96c,False,5,False,not_reviewed,False
+nifty_1206,Air France-KLM Shares Take Flight After First Net Profit Since 2008,nifty_1231,Air France-KLM Shares Tumble on CEO Departure,0.7548607,0.5714285714285714,47,84600bf44dae5f9ca52d4fce669189b4,False,5,False,not_reviewed,False
+nifty_400,Kingfisher Still Owes $11.4 Million,nifty_598,Kingfisher Gets OK From Some Debtors,0.7537972,0.5,372,e0307dabed5bab5d406399bbb1ba421a,False,1,True,not_returned,False
+nifty_1195,JetBlue Profit Doubles on Cheap Fuel,nifty_1393,JetBlue Profit Pressured by Sagging Fares,0.75366884,0.5,364,5bfa8c45bed12df2867f053e42265842,False,1,True,not_returned,False
+nifty_632,Boeing Works to Redeem Dreamliner,nifty_646,Boeing Completes Dreamliner Tests,0.75352097,0.6666666666666666,27,c0a32d0c685fb4809348f8d894b7b1f3,False,1,True,not_returned,False
+nifty_905,Air Canada Swings to Profit,nifty_1104,Air Canada Profit Climbs 33%,0.75332963,0.5,370,38dafabc5a1e4d7b21414d4a4ac2acc9,False,1,True,not_returned,False
+nifty_215,Delta Says Higher Fares Will Offset Fuel Costs,nifty_700,Delta Gets Lift as Fuel Costs Ease,0.7532441,0.5,902,fa120c9c1581f8030d534618c35f77fe,False,1,True,not_returned,False
+nifty_313,Government to Infuse Funds in Air India,nifty_451,India to Infuse $5.85 Billion in Air India,0.75234395,0.6,254,b35e3ab17386990704d21ceb62bed9ac,False,1,True,not_returned,False
+nifty_438,Boeing Gains New Dreamliner Clearance,nifty_525,Boeing Expands Dreamliner Assembly,0.7521689,0.5,160,205bfed3383d68823211eef288fa4448,False,1,True,not_returned,False
+nifty_455,Southwest Profit Soars,nifty_504,Southwest's Net Soars,0.7520768,0.5,91,7a92c7c6b7c31c0adcfd5952942c849f,False,1,True,not_returned,False
+nifty_361,Lockheed Faces F-35 Funding Challenge,nifty_662,Lockheed CEO Backs F-35,0.7519355,0.5,566,006d52a96f749aba1be3258407b14272,False,1,True,not_returned,False
+nifty_159,Boeing Swings to Profit,nifty_1392,Boeing’s Quarterly Profit Climbs,0.75188816,0.5,2288,a6dd34ee889fc540a1c17bdda0a03ace,False,1,True,not_returned,False
+nifty_438,Boeing Gains New Dreamliner Clearance,nifty_639,Boeing Lands Dreamliner Order,0.7514447,0.5,379,2eb6f861dc5b17f5872a95babf85a06e,False,1,True,not_returned,False
+nifty_621,Boeing Pares Dreamliner Workforce,nifty_632,Boeing Works to Redeem Dreamliner,0.7512264,0.6666666666666666,20,2976d5429013d7cb89208845dbf4ec3a,False,1,True,not_returned,False
+nifty_1054,Frontier Airlines CEO Resigns,nifty_1222,Frontier Airlines Promotes President to CEO,0.75110435,0.5,309,e588312067d2e0ae60ef38cb1f12937e,False,1,True,not_returned,False
+nifty_218,Air France-KLM Lowers Year's Operating-Profit Guidance,nifty_219,Air France-KLM profit warning slump,0.75024617,0.5,1,f467cd222dbad3edde69ac5463e31034,False,1,True,not_returned,False
+nifty_995,Aer Lingus Set to Recommend IAG Takeover,nifty_1089,IAG Extends Offer for Aer Lingus,0.7493234,0.6666666666666666,170,1530945ff988f6c93b4b20cfc902b6ae,False,1,True,not_returned,False
+nifty_824,UPDATE 2-Lufthansa restores dividend as revamp bears fruit,nifty_824,Lufthansa Resumes Dividend,0.7492602,0.5,0,6010a4928cc06dc9b19c032344ce4d48,False,1,True,not_returned,True
+nifty_145,Southwest to Buy AirTran,nifty_259,"U.S. Clears Merger of Southwest, AirTran",0.7491935,0.5,210,0c8de06b9a639ae73c28d3015b90ca02,False,1,True,not_returned,False
+nifty_333,Ireland considering sale of Aer Lingus stake,nifty_461,Etihad Buys Aer Lingus Stake,0.74829197,0.5,237,2d177368329f354ee4c24f13f2c735e6,False,1,True,not_returned,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_402,Air France-KLM Starts Cost Cuts,0.7481333,0.6666666666666666,420,7ddb442488c69482417f32df1258f7cf,False,1,True,not_returned,False
+nifty_709,Jet Airways Posts Loss,nifty_864,Jet Airways Posts Biggest-Ever Quarterly Loss,0.7481229,0.6,292,92325d1b32c5ece90c94f3ddb8c30540,False,1,True,not_returned,False
+nifty_748,Air France-KLM Seeks Control of Alitalia,nifty_797,"Alitalia Talks Still an Option, Says Air France-KLM",0.7479142,0.7142857142857143,98,56fa5e5e6bdbdb27d08e53df6a1ba5e3,False,1,True,not_returned,False
+nifty_525,Boeing Expands Dreamliner Assembly,nifty_632,Boeing Works to Redeem Dreamliner,0.747764,0.6666666666666666,205,e9bcae3da6560c754be62ad67c2bc4b1,False,1,True,not_returned,False
+nifty_274,Ryanair Warns on Fuel Costs,nifty_472,Fuel Costs to Pinch Ryanair,0.7477535,1.0,364,9f07380bce9ab52d20987f0433b5231d,False,1,True,not_returned,False
+nifty_84,Emirates Orders 32 Airbus A380s,nifty_1236,Emirates to Buy Two More Airbus A380s in $865 Million Deal,0.7465815,0.5,2135,22c0df57ffcbd485bb499e2694cfdf13,False,1,True,not_returned,False
+nifty_1283,Lockheed Martin Says New F-35 Contract Talks in Final Stages,nifty_1386,"Pentagon, Lockheed Martin Meet to Discuss F-35",0.746523,0.5714285714285714,189,4e2f18fff43d834f50ca8017103afa09,False,1,True,not_returned,False
+nifty_549,EADS-BAE talks hit new roadblock : sources,nifty_551,BAE and EADS Regroup,0.7458653,0.5,2,5c90ea326e95909a142f99021722c7d6,False,1,True,not_returned,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_812,Air France-KLM Looks to Strengthen Alliances,0.74576455,0.6666666666666666,1190,10865a782c4846743776d85160069a74,False,1,True,not_returned,False
+nifty_276,Flights Seen Resuming as Ash Clears,nifty_285,Ash Disrupts Flights in Australia,0.7455245,0.6666666666666666,19,f7ebc1dc81d70b93b0e392a38f01c382,False,1,True,not_returned,False
+nifty_850,Air France-KLM Trims Losses in First Quarter,nifty_1447,Air France-KLM Reports Wider Loss but Notes Improved Bookings,0.74488455,0.5,1100,fb09611c4f5d94489ac016a08012587e,False,1,True,not_returned,False
+nifty_1149,"Ryanair Profit Rises on Low Fuel Costs, Strong Summer",nifty_1460,Ryanair Profit Edges Up,0.7446475,0.5,575,3a4d1509fad3e78f8d50b19628ed90ce,False,1,True,not_returned,False
+nifty_175,Airbus to Seek Compensation,nifty_813,Airbus Seeks Compensation from Germany for Canceled Jet Order,0.7446049,0.5,1194,683b242baf74f4997afc889c0a351381,False,1,True,not_returned,False
+nifty_561,Spirit AeroSystems May Renegotiate Contracts,nifty_841,"Spirit AeroSystems, Boeing in Tentative Supply Deal",0.7434817,0.5,529,f3394bd32227006fc26061002c0f2bd6,False,1,True,not_returned,False
+nifty_402,Air France-KLM Starts Cost Cuts,nifty_428,Air France-KLM Raises $622 Million,0.7428718,0.8,49,ccb39be774c039e44cba8b471ac04811,False,1,True,not_returned,False
+nifty_748,Air France-KLM Seeks Control of Alitalia,nifty_797,Air France-KLM may reinvest in Alitalia if conditions met: CEO,0.7424687,0.7142857142857143,98,8785926df5120e9ca6738ae32be519a3,False,1,True,not_returned,False
+nifty_112,Southwest Profit Jumps,nifty_1291,"Southwest Profit Tops Views, Warns About Revenue Slowdown",0.7417654,0.5,2184,0f59a320a45a696a2b08f97a4bb9b9db,False,1,True,not_returned,False
+nifty_238,Lufthansa Returns to Profit,nifty_941,Lufthansa to Invest $2.5 Billion,0.7415541,0.5,1306,908a68bb82525554fa669f094870f7f7,False,1,True,not_returned,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_797,Air France-KLM may reinvest in Alitalia if conditions met: CEO,0.7412736,0.5714285714285714,1162,e6147c4b147e25eb507323fcca841779,False,1,True,not_returned,False
+nifty_699,Lockheed Martin Lifts Outlook,nifty_1243,Lockheed Martin Lifts Full-Year Guidance,0.741179,0.6,1008,7f614d44e0dd3afc6ec8e9a0c149caa2,False,1,True,not_returned,False
+nifty_313,Government to Infuse Funds in Air India,nifty_480,Air India Set for More Taxpayer Money,0.7411586,0.5,308,ad150b149712965963ec939df570906d,False,1,True,not_returned,False
+nifty_659,Boeing warns against U.S. Ex-Im Bank closure,nifty_1461,Boeing Finds an Ex-Im Bank Alternative,0.7405515,0.5714285714285714,1484,5b143edef89c4ab9a1be2597e19cc92c,False,1,True,not_returned,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_850,Air France-KLM Trims Losses in First Quarter,0.74042726,0.5714285714285714,1259,c3847ccb46bff0c04fd1c2377a992ae9,False,5,False,not_reviewed,False
+nifty_531,Strike Forces Lufthansa to Cancel Flights,nifty_945,Lufthansa Pilots to Expand Strike,0.74005437,0.5,774,4d4a317ce145faff1f7136740b046bf2,False,5,False,not_reviewed,False
+nifty_246,India Orders More Boeing Maritime Planes,nifty_435,India Tussles With Boeing,0.73967254,0.6666666666666666,349,12d0b3b9b91da9f0b00a4086810addb3,False,5,False,not_reviewed,False
+nifty_752,Jet Airways Posts Wider Loss,nifty_864,Jet Airways Posts Biggest-Ever Quarterly Loss,0.73891115,0.6,215,415e04d5d585444801d5865d432ddea3,False,5,False,not_reviewed,False
+nifty_408,Air France-KLM Expects Deep Loss,nifty_1447,Air France-KLM Reports Wider Loss but Notes Improved Bookings,0.7385466,0.5714285714285714,1926,0d77595f5ef46fc879c17748750f858b,False,5,False,correct,False
+nifty_873,Lufthansa Warns on Profit,nifty_901,Lufthansa Posts Decline in Profit,0.7382722,0.6666666666666666,50,3269a1958064ca31db23376cd184ae7c,False,5,False,not_reviewed,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_661,"CEO Sees Profit, IPO for Virgin America",0.7382141,0.6666666666666666,431,79a9e31f1059ad398b2e2ea8ecae28d2,True,4,False,not_reviewed,False
+nifty_537,"EADS, BAE Face Political Hurdles",nifty_551,BAE and EADS Regroup,0.73768127,0.6666666666666666,23,8a8a984b4403cdb843b7075bc12d8e8b,False,5,False,not_reviewed,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_1447,Air France-KLM Reports Wider Loss but Notes Improved Bookings,0.7372712,0.5714285714285714,2359,11d0d126942c9b2094dda8f1e1cbc2f9,False,5,False,correct,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_953,Virgin America Unveils Estimated Terms of IPO; Profit Rises 24%,0.7364771,0.6666666666666666,970,83c3c003770c907555403a69d9edf348,False,5,False,not_reviewed,False
+nifty_373,"Airbus, Boeing Share Gulf Orders",nifty_765,"Boeing, Airbus Reel In Persian Gulf Orders",0.736279,0.5,733,f57dbce9dd46f5048b66fc2e702110a9,True,5,False,not_reviewed,True
+nifty_847,Virgin Atlantic's Loss Narrows,nifty_1017,Virgin Atlantic’s Profits Take Off,0.736041,0.5,319,cf5245d97762aa356d3e41c14f1298e9,False,5,False,not_reviewed,False
+nifty_77,British Airways Resumes Strike Talks,nifty_243,British Airways Faces New Strike,0.7357828,0.6,306,2881f41cd08d4545abe5624bd715b440,False,5,False,not_reviewed,False
+nifty_873,Lufthansa Warns on Profit,nifty_941,Lufthansa to Invest $2.5 Billion,0.73568374,0.5,124,8f637324e13b49ac069a823cebe12b71,False,5,False,not_reviewed,False
+nifty_616,Boeing Union Divides on Contract,nifty_764,Boeing Union Rejects Contract,0.7349727,1.0,267,cc992c9c0d90f8a0a90532552ee55bec,False,5,False,not_reviewed,False
+nifty_1289,Lockheed Martin Says F-35 Contract Talks Weigh on Cash,nifty_1391,Lockheed Martin Maintains F-35 Pricing Plan,0.734728,0.5714285714285714,189,55e08bf95b94faa6c8ce4bbf71513606,False,5,False,correct,False
+nifty_288,New Bombardier Jet Struggles,nifty_1010,New Bombardier Jet Due to Fly Thursday,0.7347052,0.6666666666666666,1349,086715ef542983b3d13cf9e44ce598a9,False,5,False,not_reviewed,False
+nifty_1054,Qatar Airways CEO Defends State Support,nifty_1067,Qatar Airways CEO Warns of Protectionism in Aviation,0.73447543,0.5,26,b8e0121dbad9faff0cd52ecfca773914,False,5,False,not_reviewed,False
+nifty_433,Kingfisher to Cut Flights,nifty_545,Kingfisher Cancels Flights Amid Strikes,0.7342306,0.6666666666666666,204,38fce953be9a7356490288c5dc39a834,False,5,False,not_reviewed,False
+nifty_219,UPDATE 2-Air France-KLM slumps after profit warning,nifty_1295,UPDATE 2-Air France-KLM says attacks hitting revenue,0.73418933,0.625,1995,efc61118c763db9f47fd85500a711135,False,5,False,correct,False
+nifty_219,Air France-KLM profit warning slump,nifty_509,Costs Hit Air France-KLM,0.7341776,0.5,536,69eb722a5bc88bb45f3ff4934547d841,False,5,False,not_reviewed,False
+nifty_867,Lockheed Martin Wins $915 Million Space Fence Deal,nifty_902,Lockheed Martin Wins $151 Million U.K. Contract,0.7338508,0.5,63,8be2796d93aaefb610e963ff8b9f2a27,False,5,False,not_reviewed,False
+nifty_704,Air France Cuts More Jobs,nifty_1148,Air France Seeks Cost Cuts Despite Higher Profit,0.73354834,0.5,820,00789bfb80ad58ea81e0a64c0ec4423f,False,5,False,not_reviewed,False
+nifty_58,Boeing Begins Cold-Weather Testing of Dreamliner,nifty_646,Boeing Completes Dreamliner Tests,0.7333594,0.5,1090,ce3b2ade4d15df9cc2be1306b2bd4c85,False,5,False,not_reviewed,False
+nifty_109,Singapore Airlines Gains,nifty_900,Singapore Airlines Net Profit Falls 71%,0.7328884,0.5,1465,220a8beefda8aa8eb8047aa747137cb2,False,5,False,not_reviewed,False
+nifty_109,Singapore Airlines Gains,nifty_855,Singapore Airlines Profit Falls 60%,0.73232,0.5,1382,3ab4c8399f9822c2af187050b5f24197,False,5,False,not_reviewed,False
+nifty_369,Air France-KLM Profit Tumbles,nifty_509,Costs Hit Air France-KLM,0.73204184,0.5,264,416768dcd933e8f21defe0d406fc3bd4,False,5,False,not_reviewed,False
+nifty_432,Virgin America Aims for IPO in 2013,nifty_762,"Virgin America Posts Profit, Eyes IPO",0.7319147,0.8,614,b558f56cfeccead61fd4526d05afdafe,True,4,False,not_reviewed,False
+nifty_544,Lagardère Objects to EADS Deal,nifty_642,Lagardère Sells EADS Stake,0.73188883,0.5,190,a6bdadb0084cace264b75f5b548bd27a,False,5,False,not_reviewed,False
+nifty_671,U.K. Delivers Blow to Ryanair,nifty_720,U.K. Deals Ryanair a Setback,0.73165894,0.5,90,f24c0dc6e8ca2151f1f97e439e944bb1,True,5,False,not_reviewed,False
+nifty_886,"Lufthansa, Air China to Boost Alliance",nifty_889,Lufthansa sees full Air China joint venture not before 2016,0.73165107,0.5,3,536f528d92af9a9693d1a980b6c6ee53,False,5,False,not_reviewed,False
+nifty_291,Airbus Dominates at Paris Air Show,nifty_1074,Airbus Outpaces Boeing at Paris Air Show,0.73104507,0.75,1457,a71112073f84e2c8a8bece917dbd2fd5,True,5,False,not_reviewed,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_299,Air France-KLM Moves Toward New Structure,0.7307661,0.6666666666666666,231,3ec33b0645e86df186b15b666e1dfbeb,False,5,False,not_reviewed,False
+nifty_795,Delta Earnings Soar on Huge Gain,nifty_1287,Delta Earnings Beat Views,0.7302044,0.5,905,59f655d5f78ebabd298d51e5831a1275,False,5,False,not_reviewed,False
+nifty_218,Boeing to Deliver Dreamliner to Air India by December,nifty_525,Air India to Get Dreamliner This Week,0.729992,0.6666666666666666,565,c5f6d41b4dda74eeb49c4a9d8bef42d8,False,5,False,not_reviewed,False
+nifty_1124,Southwest Pilots to Vote on Tentative Labor Deal,nifty_1151,Southwest Pilots Reject New Contract,0.72939825,0.5,48,ac7b67c26e53a8d0dfef8f2465ce14d3,False,5,False,not_reviewed,False
+nifty_1283,Lockheed Martin Says New F-35 Contract Talks in Final Stages,nifty_1391,Lockheed Martin Maintains F-35 Pricing Plan,0.7281178,0.5714285714285714,201,3d78ab9bfb4a468640f8909e61743ef8,False,5,False,not_reviewed,False
+nifty_724,"Boeing: China needs 5,580 new aircraft over next 20 years",nifty_724,Boeing Forecasts China's Fleet to Triple Over Next 20 Years,0.72809607,0.6,0,aa08e4ad53751ac8cb587f9322d968b6,False,5,False,not_reviewed,False
+nifty_988,Lufthansa leads European stock bounce as oil slump boosts profit,nifty_1097,Lufthansa Profit Rebounds,0.7276087,0.5,198,e6785aaf808bb5a329f3a54de4ba18b7,False,5,False,not_reviewed,False
+nifty_599,Hit to Boeing Depends on When 787s Fly Again,nifty_640,Boeing Shows Optimism on 787s,0.72755516,0.5,77,603f3bd1ba6f18a7c149872514485694,False,5,False,not_reviewed,False
+nifty_361,Lockheed Faces F-35 Funding Challenge,nifty_889,Lockheed says F-35 investments will save $1.8 billion by 2019,0.7273515,0.5,988,f79dd2527eb02cb515c936d8ee343b5c,False,5,False,not_reviewed,False
+nifty_309,Lockheed Martin Posts Profit,nifty_1007,Post-Earnings Briefing - Lockheed Martin,0.72721916,0.6,1303,95902d2cdb46066d27f87e29ab237853,False,5,False,not_reviewed,False
+nifty_1194,Boeing Shares Fall Sharply Following Weak Forecast,nifty_1203,Boeing Shares Fall on Probe Report,0.7271648,0.5,15,3de137eef1c76c1376d26f35069c8101,False,5,False,not_reviewed,False
+nifty_1226,"JetBlue, Alaska Air Bidding for Virgin America",nifty_1342,"Alaska Air, Virgin America Cool Their Jets as They Await Deal’s Approval",0.7265308,0.6,206,24e1f79c174ee5c4b58a3f70faf7e9a7,False,5,False,not_reviewed,False
+nifty_873,"UPDATE 3-Lufthansa warns on profit, shares plunge",nifty_1097,Lufthansa Profit Rebounds,0.7264105,0.6666666666666666,414,0bbae2dadd4d7ef62f994089570d136e,False,5,False,not_reviewed,False
+nifty_509,Costs Hit Air France-KLM,nifty_1297,Flight Attendants’ Strike to Cost Air France-KLM More Than $100 Million,0.72622204,0.6666666666666666,1464,658ec421df0ffafa0524688cc9f00475,False,5,False,not_reviewed,False
+nifty_428,Air France-KLM Raises $622 Million,nifty_1350,Air France-KLM Profit Up Despite Strikes,0.7259688,0.5,1708,92f5fb036022e2a70b4869d1d7ca5eb5,False,5,False,not_reviewed,False
+nifty_77,Delhi Court Blocks Air India Strike,nifty_466,Air India Strike Continues,0.72523177,0.6,714,c9c51b42018688df8b374f83cb1e059d,False,5,False,correct,False
+nifty_280,American Must Return to Orbitz,nifty_915,American Pulls Fares From Orbitz,0.72522765,0.6666666666666666,1181,a5e8dd5bc5454bc65111fccf20a25a95,False,5,False,not_reviewed,False
+nifty_979,Air China to Buy 60 Boeing 737 Jets,nifty_1184,Air China Orders Six B777-300ER Aircraft From Boeing,0.7250452,0.5,381,318ec52fcde219e184bdec569ad04f11,False,5,False,not_reviewed,False
+nifty_190,Boeing Plans to Boost 777 Production,nifty_1016,Boeing Sold Half of 777 Production,0.7248672,0.6666666666666666,1536,76f5178cf0b1cf51dc0cc4c3b2bc7582,False,5,False,not_reviewed,False
+nifty_42,WTO Decries Airbus Aid,nifty_97,WTO Condemns Airbus Subsidies,0.7246755,0.5,99,b6737f0e04ad568863e29491d51c821b,False,5,False,not_reviewed,False
+nifty_559,Spirit AeroSystems Takes Hit,nifty_728,Spirit AeroSystems Cuts More Jobs,0.72398937,0.6,322,bf661eef7447801bcb8b8a7f2492df09,False,5,False,not_reviewed,False
+nifty_728,Spirit AeroSystems Cuts More Jobs,nifty_1048,Boeing Pursues Fresh Deal With Spirit AeroSystems,0.72388685,0.5,599,a660ce7a9791aae9e653be59cdd2fec3,False,5,False,not_reviewed,False
+nifty_925,Lufthansa Pilots Call Off Strike,nifty_937,Lufthansa Pilots to Strike Cargo Flights,0.723761,0.5,21,e57dce9cf6ff97c08bcfa4b53e0d9b4e,False,5,False,not_reviewed,False
+nifty_377,Flights Canceled Ahead of Strike,nifty_633,Lufthansa Cancels Flights Amid Strike,0.72362775,0.6666666666666666,479,ac8d1c08c9bd603f1a2618db635146d0,False,5,False,not_reviewed,False
+nifty_175,Air France-KLM Swings Back to Profitability,nifty_1295,UPDATE 2-Air France-KLM says attacks hitting revenue,0.7230686,0.5,2079,55fe3c9b889b61dabb948a9bc9fafcd2,False,5,False,not_reviewed,False
+nifty_612,Kingfisher's Lenders Plan to Recall Loans,nifty_613,Kingfisher's Lenders Plan to Start Asset Sales Soon,0.722891,0.5,1,60670f8f77e30ec9eea3c6c5b2bac0c4,False,5,False,not_reviewed,False
+nifty_891,Qatar Airways Interested in Airbus A330neo,nifty_979,Airbus Delivers First A350 to Qatar Airways,0.722769,0.5,160,bb87c1aafca5cd32b5edbca12097141a,False,5,False,correct,False
+nifty_534,Daimler still intends to reduce EADS stake by end-2012,nifty_646,Daimler Looks to Exit EADS,0.72276545,0.5,216,ff3969ecb40b3d097c8c0e6b14729c7e,False,5,False,not_reviewed,False
+nifty_1206,BAE Systems Sees Recovering Defense Budgets Driving Growth,nifty_1275,BAE Systems Spies Growth in Space Defense,0.7223271,0.6666666666666666,125,724ad6a7dcac80db6a50da46367a5daa,False,5,False,not_reviewed,False
+nifty_361,Lockheed Faces F-35 Funding Challenge,nifty_889,Lockheed says F-35 investments will save $1.8 bln by 2019,0.7219993,0.5,988,0a29121301a283c3881ede39af8cc2ef,False,5,False,not_reviewed,False
+nifty_391,Lufthansa aims to save 1.5 bln euros -paper,nifty_941,Lufthansa to Invest $2.5 Billion,0.72160584,0.5,1027,f729ab4c1d4e4623c0ef0572274a9475,False,5,False,not_reviewed,False
+nifty_109,Singapore Airlines Gains,nifty_413,Singapore Airlines Net Profit Falls 53%,0.72146064,0.5,556,69b96642125690b3e0c0e37bf47105d6,False,5,False,not_reviewed,False
+nifty_914,Lufthansa Seeks to Reopen Talks With Pilots Union,nifty_932,Pilots Union Plans New Lufthansa Strikes,0.7211786,0.6666666666666666,31,5535eaffc8010061f97fc75a65bd0dc4,False,5,False,not_reviewed,False
+nifty_561,Spirit AeroSystems May Renegotiate Contracts,nifty_1048,Boeing Pursues Fresh Deal With Spirit AeroSystems,0.72112006,0.5,914,dce4cdbc97226a1a128b2975d21f8250,False,5,True,incorrect,False
+nifty_490,"Air France to Cut Over 5,000 Jobs",nifty_1132,Air France to Unveil Drastic Cost-Cutting Plan,0.72079647,0.6,1197,67b567932c5245ccc56e44f9b0d56b03,False,5,False,not_reviewed,False
+nifty_777,Union Offers Boeing New Contract Proposal,nifty_1187,"Boeing, Union in Surprise Pact",0.7207879,0.5,763,9aa2c4a3dcf82c4a7b6d0b5dc58ee4ac,False,5,False,correct,False
+nifty_103,"Air China seeks to buy Airbus, Boeing jets-source",nifty_979,Air China to Buy 60 Boeing 737 Jets,0.7204893,0.5714285714285714,1622,a7462f9c8fa4f8dd5cccdd52f1ece731,False,5,False,not_reviewed,False
+nifty_1019,United Technologies May Spin Off Sikorsky Helicopter Unit,nifty_1057,United Technologies Talking to Possible Buyers for Sikorsky,0.71971786,0.6666666666666666,69,e085d6c6ad3481bfc5a7f1d618b35ec5,False,5,False,not_reviewed,False
+nifty_73,Air France-KLM Net Loss Widens,nifty_175,Air France-KLM Swings Back to Profitability,0.7196536,0.5,183,a898a686f72ce5b94425f4995a161ad6,False,5,False,not_reviewed,False
+nifty_217,Boeing Plans More India Tie-Ups,nifty_246,India Orders More Boeing Maritime Planes,0.71964115,0.5,51,1d1a345977fa2c4f31830783f6082475,False,5,False,not_reviewed,False
+nifty_460,A Boeing Rollout in South Carolina,nifty_642,Boeing to Expand Staff in South Carolina,0.7192805,0.6666666666666666,344,58fd7d29f820dcc720a684bc623b8390,False,5,False,not_reviewed,False
+nifty_291,Cathay Pacific Plans Economy-Class Overhaul,nifty_711,Cathay Pacific cuts capacity to restore profitability,0.7191598,0.5,783,f7e4a5c882fc5626dfe6b94659d702dc,False,5,False,not_reviewed,False
+nifty_392,Kingfisher Slips to Fifth Spot,nifty_422,Kingfisher Limps Along,0.71895444,0.5,61,0bd831bc4c7a0e9f87cf7d13957e9223,False,5,False,not_reviewed,False
+nifty_972,Spirit AeroSystems to Transfer Wing Business,nifty_1048,Boeing Pursues Fresh Deal With Spirit AeroSystems,0.718756,0.5,146,c5dbe1f0fa1f7fdc9b3e642c9bb76372,False,5,False,not_reviewed,False
+nifty_390,Virgin America Attendants Turn Down Union,nifty_1066,Virgin America Pilots to Join Union,0.7183131,0.6,1262,73eff7049c4e25927c2b6858c90e8dc3,False,5,False,not_reviewed,False
+nifty_433,Kingfisher to Cut Flights,nifty_544,Kingfisher Cancels Flights Due to Labor Unrest,0.717667,0.6666666666666666,203,bc06347ff7558dd38169c04767137f23,False,5,False,not_reviewed,False
+nifty_435,India Tussles With Boeing,nifty_580,Boeing Preferred Vendor for India Deal,0.71746606,0.5,271,7cc9d4402c50010dbab1ede22183b9ba,False,5,False,not_reviewed,False
+nifty_119,Virgin Media: Appointment of Corporate Broker,nifty_381,Virgin Media launches new corporate offering,0.7174475,0.5,481,0ab59768901cc505114bb83b25c711c0,False,5,False,not_reviewed,False
+nifty_82,IATA Sees Airline Profits in '10,nifty_281,IATA Cuts Airline Profit Forecast,0.71731085,0.5,364,a9951ccac94c13a42b76e79d0ab2ab96,False,5,False,not_reviewed,False
+nifty_428,Air France-KLM Raises $622 Million,nifty_1008,Air France-KLM Scales Back Investment Plans,0.71728045,0.5,1085,f21215b1ee0a01c06931657ccdcea822,False,5,False,not_reviewed,False
+nifty_408,Air France-KLM Expects Deep Loss,nifty_850,Air France-KLM Trims Losses in First Quarter,0.71677244,0.5714285714285714,826,92c0b20c1943d4f0feb83ea1999e83cf,False,5,False,not_reviewed,False
+nifty_88,Boeing Speeds 737 Output,nifty_139,Boeing to Boost 737 Output,0.71658015,1.0,92,c4474de64c474dc7b14c483e100e66ca,True,5,False,not_reviewed,True
+nifty_414,Boeing Finds Dreamliner Glitch,nifty_646,Boeing Completes Dreamliner Tests,0.7165699,0.5,435,cad52307bfa8ebeadc4b5b1d63b858f1,False,5,False,not_reviewed,False
+nifty_428,Air France-KLM Raises $622 Million,nifty_560,"Lufthansa, Air France-KLM Profits Rise",0.7159207,0.8,244,f07c9029ee8147381fb9b663d92fd437,False,5,False,not_reviewed,False
+nifty_525,Boeing Expands Dreamliner Assembly,nifty_646,Boeing Completes Dreamliner Tests,0.71575284,0.5,232,3ee61ccab2ea23dace343d38f4643450,False,5,False,not_reviewed,False
+nifty_73,Air France-KLM Net Loss Widens,nifty_219,Air France-KLM profit warning slump,0.7156209,0.6,267,a7f82dbcad36f0eb9df2cb2130ed6fad,False,5,False,not_reviewed,False
+nifty_37,Union Is Ready to Meet With BA,nifty_39,BA Union Gets Support Overseas,0.7154183,0.5,2,c5990b01a80c490be72cadeea2219b30,False,5,False,not_reviewed,False
+nifty_109,Singapore Airlines Gains,nifty_1138,Singapore Airlines Back for the Long Haul,0.71536887,0.5,1905,842eb7eb9cab7d5702c09d86074f25ec,False,3,False,correct,False
+nifty_733,Air France-KLM Weighs Fate of Alitalia Stake,nifty_748,Air France-KLM Seeks Control of Alitalia,0.71508455,0.625,24,4cfb24a01c98b0c15243674789e33105,False,5,False,not_reviewed,False
+nifty_303,Dreamliner Put Through Paces,nifty_362,Dreamliner Lifts Off,0.7150382,0.5,105,87210216c69abad354027ca5bee48c7a,False,5,False,not_reviewed,False
+nifty_414,Boeing Finds Dreamliner Glitch,nifty_632,Boeing Works to Redeem Dreamliner,0.7147279,0.6666666666666666,408,27357b14e6d3904cf73201331f0deb94,False,5,False,not_reviewed,False
+nifty_111,Boeing Profit Drops 21%,nifty_1244,Boeing Profit Falls as Jet Charges Mount,0.7147188,0.5,2100,2069f3fe65495f77bcb7da3526fb1eec,True,4,False,not_reviewed,False
+nifty_428,Air France-KLM Raises $622 Million,nifty_1295,UPDATE 2-Air France-KLM says attacks hitting revenue,0.71425354,0.5714285714285714,1610,b8fc9155bae82b4e4c52d55265039007,False,5,False,correct,False
+nifty_559,Spirit AeroSystems Takes Hit,nifty_1048,Boeing Pursues Fresh Deal With Spirit AeroSystems,0.71396375,0.5,921,c467b52acd7abc6cb8802c62b495502b,False,5,False,not_reviewed,False
+nifty_377,Flights Canceled Ahead of Strike,nifty_531,Strike Forces Lufthansa to Cancel Flights,0.7137359,0.6666666666666666,283,70001ee884275894e0da4db0df5e11f8,False,5,False,not_reviewed,False
+nifty_252,REG - Aviva PLC - Aviva-Offering of Delta Lloyd Ord Shares-Pricing,nifty_252,REG - Aviva PLC - Aviva - Financial Impact of Delta Lloyd Sell Down,0.713732,0.5555555555555556,0,07fe647486f0da5466eaa5770ca0e966,False,5,False,not_reviewed,False
+nifty_369,Air France-KLM Profit Tumbles,nifty_560,"Lufthansa, Air France-KLM Profits Rise",0.713309,0.5,357,e79df3f01f8761bda28d5644ab2cdf7b,False,5,False,not_reviewed,False
+nifty_534,Research and Markets: Airlines in China,nifty_985,Research and Markets: The Future of Airlines in France to 2018,0.71273065,0.5,847,b80d4e85bdd8c479bfa2168351ad4698,False,5,False,not_reviewed,False
+nifty_334,Boeing Sees China on the Rise,nifty_1111,Boeing Expects China’s Jet Market to Remain Strong,0.7118877,0.5,1447,8b3aa2f1ed343a509f25bdb490757895,True,4,False,not_reviewed,False
+nifty_219,Air France-KLM profit warning slump,nifty_560,"Lufthansa, Air France-KLM Profits Rise",0.7118222,0.5,629,7a6d1ccbf5933e436e96ef327f43056e,False,5,False,not_reviewed,False
+nifty_1230,Alaska Air Wins Bidding War for Virgin America,nifty_1371,Alaska Air Closes Virgin America Acquisition,0.7116584,0.5,254,f9e800d7850461cfd1248129c692513a,False,5,False,not_reviewed,False
+nifty_238,Lufthansa Returns to Profit,nifty_988,Lufthansa leads European stock bounce as oil slump boosts profit,0.7115718,0.5,1398,c3ab9753c4b7e5198763971474c7d42c,True,4,False,not_reviewed,False
+nifty_138,Boeing Likely to Lose WTO Ruling,nifty_540,U.S.: Complied With WTO on Boeing,0.7111138,0.5,740,e0c055f614d6641a3f8c966ba3114d4d,False,5,False,not_reviewed,False
+nifty_41,"Delta, US Air Offer Airport Slots",nifty_353,"US Air, Delta Get OK to Swap Slots",0.71084213,0.5,568,2ef516d52992fd9218123438bb8b620b,False,5,False,not_reviewed,False
+nifty_48,US Airways' Unit Revenue Gains,nifty_751,US Airways Profit Drops 12%,0.7107919,0.5,1296,802e9231401d39322f75e74e896fff21,False,5,False,not_reviewed,False
+nifty_504,Southwest's Net Soars,nifty_1144,Southwest Soars Past Expectations,0.71038914,0.5,1190,a4c3288d4f614ab8c354a0a03a8d7a02,True,5,False,correct,True
+nifty_550,Deal's Collapse Leaves Challenges for BAE and EADS,nifty_551,BAE and EADS Regroup,0.7102542,0.5,1,1664ae857372c73cd8d5cb673bf54598,False,5,False,not_reviewed,False
+nifty_128,Virgin Blue Swings to Profit,nifty_225,Virgin Blue Profit Drops 62%,0.70951664,0.6666666666666666,181,5e6a114a27a1d64e55662a418a682e9d,False,5,False,not_reviewed,False
+nifty_1023,Boeing commercial airplane CEO presses for Ex-Im Bank renewal,nifty_1461,Boeing Finds an Ex-Im Bank Alternative,0.70842373,0.5714285714285714,805,a193ad5ea45d063aa431c5abca0d37b4,False,5,False,correct,False
+nifty_1245,Bombardier Confirms Large Delta CSeries Order,nifty_1263,Bombardier Hopes Deal With Delta Will Boost CSeries Jets,0.7080411,0.5,34,234c0576263c310496ca5f50d4cc14f1,False,5,False,not_reviewed,False
+nifty_639,Boeing Lands Dreamliner Order,nifty_883,Boeing Delivers First 787-9 Dreamliner,0.70704305,0.5,453,6b610cd120993b0aea2bea3d74cb9427,False,5,False,not_reviewed,False
+nifty_797,Air France-KLM may reinvest in Alitalia if conditions met: CEO,nifty_797,"Alitalia Talks Still an Option, Says Air France-KLM",0.7067317,0.7142857142857143,0,eac57e1e650ec943545fa12e8529094a,False,5,False,not_reviewed,True
+nifty_357,China Eastern to Focus on Short-Haul Flights,nifty_460,China Eastern to Buy 20 Boeing Planes,0.70616895,0.5,194,d93b7c374f6df7919d9051274918209d,False,5,False,not_reviewed,False
+nifty_275,Kingfisher Air Expects 2012 Profit,nifty_281,Kingfisher Air Prepares Fresh Plan for Share Sale,0.70616066,0.5,13,e1d016a3a06694f5a9fc5896f4eda55e,False,5,False,not_reviewed,False
+nifty_362,Dreamliner Lifts Off,nifty_577,Mechanical Issue Diverts Dreamliner,0.7046827,0.5,404,e3ff702c8fecb0a58f45e173e824e977,False,5,False,not_reviewed,False
+nifty_369,Air France-KLM Profit Tumbles,nifty_1231,Air France-KLM Shares Tumble on CEO Departure,0.70436513,0.5,1609,280c0b931746cf893b3a05b593e8b770,False,5,False,not_reviewed,False
+nifty_753,China's Comac gets 20 more orders for its C919,nifty_1209,China's Comac aims for first C919 flight by early 2017 -sources,0.70398736,0.5,849,40b0c1b8cc0634190642604a2ddc0504,False,5,False,correct,False
+nifty_1061,IAG Expects Near-Term Boost From Aer Lingus,nifty_1089,IAG Extends Offer for Aer Lingus,0.7039223,0.6666666666666666,50,ddb52f1c3c18a5e00b09f5756c84e636,False,5,False,not_reviewed,False
+nifty_995,Aer Lingus Set to Recommend IAG Takeover,nifty_1060,Irish Government Backs IAG’s Plan to Buy Aer Lingus,0.7029042,0.5714285714285714,119,869b015190c061f46ce1d7e457044803,False,1,True,not_returned,False
+nifty_219,UPDATE 2-Air France-KLM slumps after profit warning,nifty_509,Costs Hit Air France-KLM,0.70255566,0.5714285714285714,536,08de035565b5c30a64ccc184d43cd75b,False,1,True,not_returned,False
+nifty_109,Singapore Airlines Gains,nifty_763,Singapore Airlines sacrificing yields to defend market share,0.7019349,0.6,1206,2d7f8640b4a6c026c6a1c997272ed8db,False,1,True,not_returned,False
+nifty_404,Airbus Keeps Top Spot Over Boeing,nifty_591,Boeing Is Likely to Overtake Airbus,0.70185864,0.6666666666666666,351,3defcff1527a9809a06ab218c1bc900c,False,1,True,not_returned,False
+nifty_218,Air France-KLM Lowers Year's Operating-Profit Guidance,nifty_369,Air France-KLM Profit Tumbles,0.7013,0.5,273,2418beea435d2749c90a074db628bf50,False,1,True,not_returned,False
+nifty_362,Lufthansa's Profit Drops 21%,nifty_941,Lufthansa to Invest $2.5 Billion,0.70127296,0.5,1082,e0d314316cc610582925aadbf89b6807,False,1,True,not_returned,False
+nifty_438,Boeing Gains New Dreamliner Clearance,nifty_632,Boeing Works to Redeem Dreamliner,0.70113105,0.6666666666666666,365,b67e6bf769c97cb3a557febd4948b137,False,1,True,not_returned,False
+nifty_337,Air India to Discuss Dreamliner Order,nifty_377,"Air India May Sell Dreamliner Plane on Delivery, Lease Back",0.7010636,0.5,75,9ccd391bcd4b01790c65b2ccf234e7e5,False,1,True,not_returned,False
+nifty_428,Republic Airways Posts Wider Loss,nifty_1434,Republic Airways Moves Closer to Exit From Bankruptcy,0.70048183,0.5,1867,3cf9d9a62228f90673aefae59785b1e9,False,1,True,not_returned,False
+nifty_139,"Boeing Received Illegal Aid, WTO Says",nifty_540,U.S.: Complied With WTO on Boeing,0.7001549,0.5,739,afa7b9935ea6fedc828d7946d1be50ad,False,1,True,not_returned,False
+nifty_299,Air France-KLM Moves Toward New Structure,nifty_509,Costs Hit Air France-KLM,0.7000422,0.6666666666666666,389,634adf597f8343ddaa06ca5512969f69,False,1,True,not_returned,False
+nifty_405,Southwest to Hold Capacity Flat,nifty_957,Southwest Expects to Boost Capacity 6% in 2015,0.6818379,1.0,1026,9608fdfb15c00a12707ba2df8a07e58f,False,1,True,not_returned,False
+nifty_233,EADS Swings to Profit,nifty_635,EADS Aims to Break Free,0.6753671,1.0,748,67bcc8090181eac15aa2a08c1c124c4d,False,1,True,not_returned,False
+nifty_362,Dreamliner Lifts Off,nifty_364,Dreamliner's Here: Now Learn to Fly It,0.65898514,1.0,5,86f1eb8c3fbd0abd205f1d093d43c8f3,False,1,True,not_returned,False
+nifty_63,Airbus Aims to Break Even,nifty_483,Airbus Remains Upbeat,0.6301006,1.0,770,c3257942d39c92ba95ecb27a5099d55a,False,1,True,not_returned,False
+nifty_400,Kingfisher Still Owes $11.4 Million,nifty_422,Kingfisher Limps Along,0.5431292,1.0,42,0319ff0ea9c63246d7175113d8e065ed,False,1,True,not_returned,False
+nifty_159,Boeing Swings to Profit,nifty_220,Boeing Shows Off New 747,0.42990318,1.0,116,9ea0ccb15b5fa7385462916d791c243e,False,1,True,not_returned,False
+nifty_159,Boeing Swings to Profit,nifty_306,Boeing Courts American With 737,0.36460772,1.0,272,c3a4e3fdce786d254a6c72e52fe192c1,False,1,True,not_returned,False
+nifty_220,Boeing Shows Off New 747,nifty_306,Boeing Courts American With 737,0.33768755,1.0,156,969d22333ec6d649e622fe6793899b85,False,1,True,not_returned,False

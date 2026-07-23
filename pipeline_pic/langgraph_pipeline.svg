@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-label="LangGraph pipeline diagram">
+  <defs>
+    <style>
+      .title { font: 700 28px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 700 18px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 14px Arial, sans-serif; fill: #334155; }
+      .box { rx: 18; ry: 18; stroke: #0f172a; stroke-width: 2; }
+      .arrow { stroke: #334155; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+      .dash { stroke-dasharray: 8 7; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#334155" />
+    </marker>
+  </defs>
+
+  <rect width="1500" height="760" fill="#f8fafc" />
+  <text x="60" y="58" class="title">LangGraph Pipeline</text>
+  <text x="60" y="92" class="small">Manager prepares prompts, Doer executes or configures, Evaluator routes the next step.</text>
+
+  <!-- Main row -->
+  <rect x="80" y="170" width="210" height="98" fill="#dbeafe" class="box" />
+  <text x="185" y="208" text-anchor="middle" class="label">manager</text>
+  <text x="185" y="234" text-anchor="middle" class="small">Build prompt</text>
+  <text x="185" y="254" text-anchor="middle" class="small">Add dataset stats</text>
+
+  <rect x="360" y="170" width="210" height="98" fill="#dcfce7" class="box" />
+  <text x="465" y="208" text-anchor="middle" class="label">doer</text>
+  <text x="465" y="234" text-anchor="middle" class="small">Generate code / config</text>
+  <text x="465" y="254" text-anchor="middle" class="small">Run pipeline step</text>
+
+  <rect x="640" y="170" width="210" height="98" fill="#fef3c7" class="box" />
+  <text x="745" y="208" text-anchor="middle" class="label">evaluator</text>
+  <text x="745" y="234" text-anchor="middle" class="small">Check output quality</text>
+  <text x="745" y="254" text-anchor="middle" class="small">Return verdict</text>
+
+  <!-- Routing row -->
+  <rect x="590" y="370" width="180" height="88" fill="#fde68a" class="box" />
+  <text x="680" y="405" text-anchor="middle" class="label">advance</text>
+  <text x="680" y="428" text-anchor="middle" class="small">Move to next phase</text>
+
+  <rect x="820" y="370" width="180" height="88" fill="#fecaca" class="box" />
+  <text x="910" y="405" text-anchor="middle" class="label">retry</text>
+  <text x="910" y="428" text-anchor="middle" class="small">Append feedback</text>
+
+  <rect x="1050" y="370" width="180" height="88" fill="#ddd6fe" class="box" />
+  <text x="1140" y="405" text-anchor="middle" class="label">escalate</text>
+  <text x="1140" y="428" text-anchor="middle" class="small">Human review</text>
+
+  <rect x="1230" y="170" width="190" height="98" fill="#e2e8f0" class="box" />
+  <text x="1325" y="210" text-anchor="middle" class="label">END</text>
+  <text x="1325" y="236" text-anchor="middle" class="small">Pipeline complete</text>
+
+  <!-- Arrows -->
+  <path d="M 290 219 L 360 219" class="arrow" />
+  <path d="M 570 219 L 640 219" class="arrow" />
+  <path d="M 850 219 L 1230 219" class="arrow" />
+
+  <path d="M 745 268 C 745 320, 680 320, 680 370" class="arrow dash" />
+  <path d="M 745 268 C 830 320, 875 320, 910 370" class="arrow dash" />
+  <path d="M 745 268 C 930 320, 1080 320, 1140 370" class="arrow dash" />
+
+  <path d="M 680 370 C 560 320, 400 320, 185 268" class="arrow dash" />
+  <path d="M 910 458 C 910 530, 465 530, 185 268" class="arrow dash" />
+  <path d="M 1140 458 C 1140 530, 1325 530, 1325 268" class="arrow dash" />
+
+  <!-- Footer note -->
+  <text x="60" y="690" class="small">Conditional routes: PASS → advance, FAIL → retry, PASS_WITH_WARNING → escalate.</text>
+  <text x="60" y="716" class="small">Phase order: preprocessing → topic_modelling → semantic_similarity → data_labelling → stats_est.</text>
+</svg>

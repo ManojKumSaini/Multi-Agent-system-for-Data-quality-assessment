@@ -1,0 +1,8 @@
+row_idx,pair_id,text1,text2,doer_label,confidence,evaluator_verdict,human_label,human_notes
+64,ecbb5e7eb413df3927347761195cf476,"FACTBOX-Security developments in Pakistan, March 3",Factbox: Security developments in Pakistan,True,5,incorrect,,
+96,cbc9cd446d5e533da995386746638f6b,Research and Markets: Global Cloud-Based Application Infrastructure Market 2009-2013,Research and Markets: Global Cloud-Based Applications Market 2009-2013,True,5,incorrect,,
+110,b1b3b0cc8a684fe091f7d7973d319531,ISACA Survey: Consumers Aware of Major Data Breaches but Few Have Changed Shopping Behaviors,"ISACA survey: Most UK consumers aware of major data breaches, but a third havenât changed shopping behaviour",True,3,incorrect,,
+118,53d17ab7ec9b4d90c0f285e5c8b2fb8e,"McAfee, Inc. Adds Eight New Partners to Its Security Innovation Alliance Partner Program",McAfee Security Innovation Alliance Welcomes New Partners,True,5,incorrect,,
+177,21d1b8a1d4cd7c31ff5151103b9cee0f,Identity Experts Head International Case Studies Track at Cloud Identity Summit 2012,Identity Practitioners Headline Enterprise Case Studies Track at Cloud Identity Summit 2012,True,5,incorrect,,
+490,6b737d4c614b51313f74f5e51c4e5ca4,Gigamon Announces New Solutions for Security Services Delivery,Gigamon Transforms Security Market; Champions the Security Delivery Platform,False,5,incorrect,,
+695,2af624183d624b16bb261ef321fb87a9,Research and Markets: High Performance Computing Market - Global Market Forecasts & Analysis (2013 - 2018),"Research and Markets: Global High Performance Computing Market 2013-2018: Server, Storage, Networking, Software, Professional Services, Deployment Models, Price Bands",False,5,incorrect,,

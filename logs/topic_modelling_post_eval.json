@@ -1,0 +1,71 @@
+{
+  "verdict": "PASS",
+  "checks": [
+    {
+      "criterion": "Coherence score (c_v)",
+      "status": "warn",
+      "observed": "0.3913",
+      "expected": "> 0.40 for PASS (0.34–0.40 acceptable for short financial text)"
+    },
+    {
+      "criterion": "Topic diversity",
+      "status": "pass",
+      "observed": "0.6592",
+      "expected": "< 0.70"
+    },
+    {
+      "criterion": "Document coverage",
+      "status": "pass",
+      "observed": "89.89%",
+      "expected": "> 70%"
+    },
+    {
+      "criterion": "Outlier percentage remaining",
+      "status": "pass",
+      "observed": "10.11%",
+      "expected": "< 15%"
+    },
+    {
+      "criterion": "Number of topics",
+      "status": "pass",
+      "observed": "390",
+      "expected": "20–400"
+    },
+    {
+      "criterion": "Largest topic size proportion",
+      "status": "pass",
+      "observed": "2.73% (6685 documents)",
+      "expected": "< 12%"
+    },
+    {
+      "criterion": "Interpretability of top 30 topics",
+      "status": "pass",
+      "observed": "29 out of 30 topics have coherent keywords and can be labeled",
+      "expected": "Majority interpretable"
+    },
+    {
+      "criterion": "Boilerplate topics proportion",
+      "status": "pass",
+      "observed": "1 / 30 topics (3.3%) identified as boilerplate",
+      "expected": "< 20%"
+    },
+    {
+      "criterion": "Size distribution skew",
+      "status": "pass",
+      "observed": "Mean 790.8, Std 700.87, Min 139 (> min_cluster_size 120), Max 6685",
+      "expected": "No extreme outliers, min size >= min_cluster_size"
+    }
+  ],
+  "metrics_summary": {
+    "coherence_cv": 0.3913,
+    "topic_diversity": 0.6592,
+    "document_coverage_pct": 89.89,
+    "outlier_pct": 11.18,
+    "total_topics": 390,
+    "interpretable_topics_in_top30": 29,
+    "boilerplate_topics_in_top30": [22]
+  },
+  "issues": "Coherence and Topic diversity is slightly below the preferred threshold (0.40), but all other quality metrics meet the acceptance criteria.",
+  "recommendation": "The topic model demonstrates good coverage, well-separated topics, balanced topic sizes, and high interpretability. No immediate parameter changes are required. If desired, minor tuning could be explored to slightly improve coherence without sacrificing coverage or topic diversity.",
+  "required_actions": []
+}

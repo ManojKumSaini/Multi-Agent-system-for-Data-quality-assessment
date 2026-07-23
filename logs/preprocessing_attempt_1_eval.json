@@ -1,0 +1,68 @@
+{
+  "verdict": "PASS",
+  "checks": [
+    {
+      "criterion": "Script execution status",
+      "status": "pass",
+      "observed": "return_code = 0, stderr empty, stdout contains all expected metric lines",
+      "expected": "Successful execution with no errors"
+    },
+    {
+      "criterion": "Row count consistency",
+      "status": "pass",
+      "observed": "loaded = 411623, after_min_word_filter = 410884, after_dedup = 391640, after_empty_removal = 391640; rows_removed = 19983 matches difference between loaded and final count",
+      "expected": "Monotonic decreasing counts and correct removal percentage"
+    },
+    {
+      "criterion": "Word count filter alignment",
+      "status": "pass",
+      "observed": "word_count_dist.min = 3, filter threshold = 3, no rows with fewer than 3 words remain",
+      "expected": "Minimum word count filter respects threshold"
+    },
+    {
+      "criterion": "Original text column preservation",
+      "status": "pass",
+      "observed": "`news` column unchanged; `preprocessed_text` created as a copy",
+      "expected": "Original `news` column must remain intact"
+    },
+    {
+      "criterion": "Domain signal preservation",
+      "status": "pass",
+      "observed": "Samples retain `$`, `%`, `&`, ticker-like patterns (e.g., \"inc.\", \"wal-mart\"), and numeric values; no essential symbols removed",
+      "expected": "Financial symbols and company names should be kept"
+    },
+    {
+      "criterion": "Optional operation justification",
+      "status": "pass",
+      "observed": "Each optional regex block preceded by a comment explaining its relevance to the dataset",
+      "expected": "Optional steps must be justified in code comments"
+    },
+    {
+      "criterion": "Boilerplate detection handling",
+      "status": "pass",
+      "observed": "Boilerplate rows flagged via `is_boilerplate` column; no rows dropped",
+      "expected": "Boilerplate should be flagged, not removed"
+    },
+    {
+      "criterion": "Deduplication logic",
+      "status": "pass",
+      "observed": "Deduplication uses `subset=['preprocessed_text', 'date']`, preserving distinct dates for identical texts",
+      "expected": "Deduplication must consider date to avoid losing temporal variants"
+    },
+    {
+      "criterion": "Output file and schema",
+      "status": "pass",
+      "observed": "CSV written to `outputs/preprocessing/NIFTY_preprocessed.csv` with required columns plus optional `is_boilerplate`",
+      "expected": "Correct path, columns, and `index=False`"
+    },
+    {
+      "criterion": "Library usage compliance",
+      "status": "pass",
+      "observed": "Only pandas, numpy, re, os, sys, html imported",
+      "expected": "No disallowed libraries"
+    }
+  ],
+  "issues": "",
+  "recommendation": "",
+  "required_actions": ""
+}

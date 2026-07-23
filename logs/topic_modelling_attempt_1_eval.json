@@ -1,0 +1,38 @@
+{
+  "verdict": "PASS_WITH_WARNING",
+  "checks": [
+    {
+      "criterion": "Parameter ranges",
+      "status": "pass",
+      "observed": "All values within specified numeric/string limits",
+      "expected": "Each parameter must satisfy its valid range"
+    },
+    {
+      "criterion": "Reason justification",
+      "status": "pass",
+      "observed": "All reasons \u226420 words, provide numeric or theoretical justification",
+      "expected": "Each reason must contain a justification (numeric or theoretical) and be concise"
+    },
+    {
+      "criterion": "JSON completeness and formatting",
+      "status": "pass",
+      "observed": "All 12 parameters present; integers are integers; strings quoted; no nulls",
+      "expected": "Complete JSON with correct types"
+    },
+    {
+      "criterion": "Parameter consistency",
+      "status": "warn",
+      "observed": "HDBSCAN_MIN_SAMPLES = 17 is ~9.9% of HDBSCAN_MIN_CLUSTER_SIZE (172), slightly below the 10\u201120% guideline",
+      "expected": "HDBSCAN_MIN_SAMPLES should be roughly 10\u201120% of HDBSCAN_MIN_CLUSTER_SIZE"
+    },
+    {
+      "criterion": "Best choice justification (self\u2011reflection)",
+      "status": "warn",
+      "observed": "HDBSCAN_MIN_CLUSTER_SIZE = 172 (0.05% of docs) may be too low for a 343k\u2011doc corpus; a larger size (e.g., 0.5% \u2248 1700) could yield more stable topics",
+      "expected": "Cluster size proportionate to dataset size for robust clustering"
+    }
+  ],
+  "issues": "HDBSCAN_MIN_SAMPLES is marginally below the recommended 10\u201120% proportion, and HDBSCAN_MIN_CLUSTER_SIZE may be set too low for the dataset size.",
+  "recommendation": "Consider increasing HDBSCAN_MIN_CLUSTER_SIZE to around 0.5% of documents (\u22481700) and adjust HDBSCAN_MIN_SAMPLES to 10\u201120% of that new size (\u2248170\u2011340).",
+  "required_actions": []
+}

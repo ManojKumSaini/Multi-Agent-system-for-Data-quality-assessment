@@ -1,0 +1,16 @@
+
+
+{
+  "EMBEDDING_MODEL":          {"value": "mukaj/fin-mpnet-base", "reason": "Financial domain signals require financial text specialization"},
+  "UMAP_N_NEIGHBORS":         {"value": 15,     "reason": "Balances local and global structure for large dataset"},
+  "UMAP_N_COMPONENTS":        {"value": 5, "reason": "Captures semantic relationships without excessive dimensionality"},
+  "UMAP_MIN_DIST":            {"value": 0.05,   "reason": "Moderate clustering density for diverse texts"},
+  "UMAP_METRIC":              {"value": "cosine",    "reason": "Optimal for directional sentence embeddings"},
+  "HDBSCAN_MIN_CLUSTER_SIZE": {"value": 172,     "reason": "0.05% of 343,102 documents for appropriate granularity"},
+  "HDBSCAN_MIN_SAMPLES":      {"value": 17,     "reason": "10% of 172 for conservative clustering"},
+  "HDBSCAN_METRIC":           {"value": "euclidean",    "reason": "Standard for UMAP-reduced space"},
+  "VECTORIZER_MIN_DF":        {"value": 15, "reason": "Filters noise while retaining meaningful term frequency patterns"},
+  "VECTORIZER_NGRAM_RANGE":   {"value": "(1,2)",    "reason": "Captures domain phrases with bigrams"},
+  "NR_TOPICS":                {"value": "auto",    "reason": "Automatically merges similar topics"},
+  "OUTLIER_STRATEGY":         {"value": "c-tf-idf",    "reason": "Efficient word overlap for large text corpora"}
+}

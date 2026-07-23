@@ -1,0 +1,691 @@
+{
+  "execution_status": "Success",
+  "statistics": {
+    "topics_before_outlier_reduction": 391,
+    "topics_after_outlier_reduction": 390,
+    "outlier_count_before": 173709,
+    "outlier_count_after": 34689,
+    "outliers_recovered": 139020,
+    "document_coverage_pct": 89.89,
+    "topic_diversity": 0.6592,
+    "mean_inter_topic_similarity": 0.0202,
+    "top_similar_topic_pairs": [],
+    "topic_size_distribution": {
+      "mean": 790.8,
+      "std": 700.87,
+      "min": 139,
+      "max": 6685
+    }
+  },
+  "top_topics": [
+    {
+      "topic_id": 0,
+      "count": 6685,
+      "name": "0_security_cloud_cyber_computing",
+      "top_words": [
+        "security",
+        "cloud",
+        "cyber",
+        "computing",
+        "big data",
+        "analytics",
+        "enterprise",
+        "cloud computing",
+        "cyber security",
+        "cybersecurity"
+      ],
+      "representative_docs": [
+        "centrify partners with leading cloud access security brokers to enhance cloud security for saas applications",
+        "national cyber security alliance launches web portal for 2010 national cyber security awareness month",
+        "the top cyber security journalists of 2014"
+      ]
+    },
+    {
+      "topic_id": 1,
+      "count": 5940,
+      "name": "1_present_conference_investor_investor conference",
+      "top_words": [
+        "present",
+        "conference",
+        "investor",
+        "investor conference",
+        "conferences",
+        "investor conferences",
+        "present investor",
+        "participate",
+        "investor day",
+        "investment conference"
+      ],
+      "representative_docs": [
+        "powerwave to present at upcoming investor conferences",
+        "cyren to present at upcoming investor conferences",
+        "hospira to present at upcoming investor conferences"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "count": 4666,
+      "name": "2_analyst_technical_updates_notes",
+      "top_words": [
+        "analyst",
+        "technical",
+        "updates",
+        "notes",
+        "stock price",
+        "equities",
+        "appointments",
+        "movements",
+        "dividends",
+        "motor"
+      ],
+      "representative_docs": [
+        "stock price updates, earnings schedules, financial results releases, and trade-in offers - analyst notes on chipotle, ctrip, liberty, moody and best buy",
+        "xerium announces analyst coverage initiated by r.w. pressprich & co.",
+        "mkm partners hires director of research banks analyst and semiconductor analyst"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "count": 4302,
+      "name": "3_officer_appoints_chief_chief officer",
+      "top_words": [
+        "officer",
+        "appoints",
+        "chief",
+        "chief officer",
+        "names",
+        "president",
+        "vice president",
+        "vice",
+        "cfo",
+        "names new"
+      ],
+      "representative_docs": [
+        "xhibit corp. announces new chief financial officer and senior vice president",
+        "motricity appoints nathan fong as chief financial officer",
+        "flare industries announces new vice president and chief financial officer"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "count": 3796,
+      "name": "4_boeing_air_airlines_jet",
+      "top_words": [
+        "boeing",
+        "air",
+        "airlines",
+        "jet",
+        "delta",
+        "airline",
+        "virgin",
+        "lockheed",
+        "airways",
+        "southwest"
+      ],
+      "representative_docs": [
+        "boeing can t make case for revamping 757 jet",
+        "leidos names boeing krone ceo",
+        "boeing sets jet record in 2014"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "count": 3286,
+      "name": "5_ecb_eurozone_zone_euro zone",
+      "top_words": [
+        "ecb",
+        "eurozone",
+        "zone",
+        "euro zone",
+        "draghi",
+        "eu",
+        "euro",
+        "crisis",
+        "europe",
+        "inflation"
+      ],
+      "representative_docs": [
+        "ecb signals may buy euro zone bonds",
+        "data underline banks dependency on ecb",
+        "markets may flare again without fed and ecb hoses"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "count": 3059,
+      "name": "6_holding company_holding_notice_company",
+      "top_words": [
+        "holding company",
+        "holding",
+        "notice",
+        "company",
+        "statement",
+        "fin",
+        "yearly",
+        "admission",
+        "trading",
+        "final"
+      ],
+      "representative_docs": [
+        "reg - cobham plc - holding in company",
+        "reg - neovia financial plc - holding in company",
+        "reg - conygar investmnt co - holding in company"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "count": 2879,
+      "name": "7_fed_yellen_rate_bullard",
+      "top_words": [
+        "fed",
+        "yellen",
+        "rate",
+        "bullard",
+        "inflation",
+        "transcript",
+        "bernanke",
+        "fed rate",
+        "policy",
+        "rates"
+      ],
+      "representative_docs": [
+        "fed should give more detail on rate hike plans: williams",
+        "fed treads into once-taboo realm",
+        "the fuss around the fed"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "count": 2735,
+      "name": "8_2012 results_2011 results_fourth quarter_fourth",
+      "top_words": [
+        "2012 results",
+        "2011 results",
+        "fourth quarter",
+        "fourth",
+        "quarter 2011",
+        "results",
+        "fiscal year",
+        "quarter",
+        "2010 results",
+        "fiscal"
+      ],
+      "representative_docs": [
+        "international game technology reports fourth quarter and fiscal year 2012 results",
+        "igo reports fourth quarter 2012 financial results",
+        "rpx announces fourth quarter and fiscal year 2012 financial results"
+      ]
+    },
+    {
+      "topic_id": 9,
+      "count": 2583,
+      "name": "9_secures_series_funding_financing",
+      "top_words": [
+        "secures",
+        "series",
+        "funding",
+        "financing",
+        "round",
+        "million",
+        "closes",
+        "raises",
+        "led",
+        "ventures"
+      ],
+      "representative_docs": [
+        "garantia data secures $9m in series a funding",
+        "vidyard secures $6 million in series a financing",
+        "prospx secures series b funding of $8 million"
+      ]
+    },
+    {
+      "topic_id": 10,
+      "count": 2350,
+      "name": "10_dividend_quarterly dividend_declares_quarterly",
+      "top_words": [
+        "dividend",
+        "quarterly dividend",
+        "declares",
+        "quarterly",
+        "cash dividend",
+        "quarterly cash",
+        "cash",
+        "bancorp",
+        "increases quarterly",
+        "increases"
+      ],
+      "representative_docs": [
+        "teco energy declares quarterly dividend",
+        "bancorpsouth, inc. declares quarterly dividend",
+        "oceaneering declares quarterly dividend"
+      ]
+    },
+    {
+      "topic_id": 11,
+      "count": 2297,
+      "name": "11_earnings release_release_quarter earnings_webcast",
+      "top_words": [
+        "earnings release",
+        "release",
+        "quarter earnings",
+        "webcast",
+        "schedules",
+        "earnings",
+        "conference webcast",
+        "2012 earnings",
+        "conference",
+        "date"
+      ],
+      "representative_docs": [
+        "bank of the ozarks, inc. announces third quarter earnings release date and conference call",
+        "rockville financial, inc. announces third quarter earnings release and conference call",
+        "mattersight schedules first quarter earnings release and conference call"
+      ]
+    },
+    {
+      "topic_id": 12,
+      "count": 2115,
+      "name": "12_kong_hong_hong kong_china shares",
+      "top_words": [
+        "kong",
+        "hong",
+        "hong kong",
+        "china shares",
+        "hk",
+        "china stocks",
+        "shares",
+        "china",
+        "shares end",
+        "shares open"
+      ],
+      "representative_docs": [
+        "hong kong - july 6",
+        "hong kong - april 2",
+        "consumer lifestyles in hong kong, china"
+      ]
+    },
+    {
+      "topic_id": 13,
+      "count": 2104,
+      "name": "13_brazil_petrobras_brazilian_vale",
+      "top_words": [
+        "brazil",
+        "petrobras",
+        "brazilian",
+        "vale",
+        "emerging",
+        "real",
+        "inflation",
+        "banco",
+        "brasil",
+        "bradesco"
+      ],
+      "representative_docs": [
+        "brazil itau unibanco names candido bracher as ceo",
+        "brazil funding still too dependent on bndes, odebrecht says",
+        "profit at brazil ambev rises"
+      ]
+    },
+    {
+      "topic_id": 14,
+      "count": 2093,
+      "name": "14_fy_ebitda_euros_revenue",
+      "top_words": [
+        "fy",
+        "ebitda",
+        "euros",
+        "revenue",
+        "revenue growth",
+        "ebit",
+        "mln euros",
+        "net",
+        "revenues",
+        "million euros"
+      ],
+      "representative_docs": [
+        "brief-indata fy 2015 net profit down at 6.5 mln zlotys",
+        "brief-cie automotive fy ebitda rises by 21% to 290.9 mln euros",
+        "brief-televerbier fy ebitda stable at 14.1 mln euros"
+      ]
+    },
+    {
+      "topic_id": 15,
+      "count": 2071,
+      "name": "15_preciousgold_gold_bullion_gold prices",
+      "top_words": [
+        "preciousgold",
+        "gold",
+        "bullion",
+        "gold prices",
+        "near",
+        "dollar",
+        "low",
+        "gains",
+        "fed",
+        "holds"
+      ],
+      "representative_docs": [
+        "gold ends higher",
+        "gold solidifies gains",
+        "gold ends flat"
+      ]
+    },
+    {
+      "topic_id": 16,
+      "count": 1982,
+      "name": "16_ipo_yuan_mln yuan_placement",
+      "top_words": [
+        "ipo",
+        "yuan",
+        "mln yuan",
+        "placement",
+        "bln yuan",
+        "private placement",
+        "raise",
+        "alibaba",
+        "mln",
+        "plans"
+      ],
+      "representative_docs": [
+        "brief-electronics firm tai yuan tianlong to raise 516 mln yuan via private placement of shares",
+        "brief-jiangsu aoyang tech to raise up to 836 mln yuan in private placement",
+        "brief-nanning baling tech to raise up to 581.7 mln yuan in private placement"
+      ]
+    },
+    {
+      "topic_id": 17,
+      "count": 1966,
+      "name": "17_european_european shares_european stocks_europe",
+      "top_words": [
+        "european",
+        "european shares",
+        "european stocks",
+        "europe",
+        "stocks",
+        "shares",
+        "europe stocks",
+        "europe shares",
+        "factors",
+        "shares rise"
+      ],
+      "representative_docs": [
+        "european stocks give up gains",
+        "european stocks eke out gains",
+        "european stocks firm"
+      ]
+    },
+    {
+      "topic_id": 18,
+      "count": 1931,
+      "name": "18_global chinese_chinese_industry 2014_industry",
+      "top_words": [
+        "global chinese",
+        "chinese",
+        "industry 2014",
+        "industry",
+        "market size",
+        "size",
+        "2014 global",
+        "global market",
+        "industry outlook",
+        "acid"
+      ],
+      "representative_docs": [
+        "global and chinese aniline industry report 2014",
+        "global and chinese polyester polyol industry report 2014",
+        "global and chinese xanthan gum industry report 2014"
+      ]
+    },
+    {
+      "topic_id": 19,
+      "count": 1890,
+      "name": "19_carbon_solar_climate_renewable",
+      "top_words": [
+        "carbon",
+        "solar",
+        "climate",
+        "renewable",
+        "power",
+        "nuclear",
+        "renewable energy",
+        "wind",
+        "energy",
+        "climate change"
+      ],
+      "representative_docs": [
+        "best buy gets a 96a from the cdp for carbon performance & climate change disclosure",
+        "carbon funds 2011",
+        "nuclear power in taiwan, market outlook to 2025, 2012 update - capacity, generation, regulations, power plants, companies"
+      ]
+    },
+    {
+      "topic_id": 20,
+      "count": 1820,
+      "name": "20_retirement_voices_clients_client",
+      "top_words": [
+        "retirement",
+        "voices",
+        "clients",
+        "client",
+        "advisers",
+        "401",
+        "planning",
+        "helping",
+        "adviser",
+        "savings"
+      ],
+      "representative_docs": [
+        "voices: cicily maton, on clients sudden money events",
+        "voices: how to manage clients transition to retirement",
+        "voices: how to help clients set smart retirement goals"
+      ]
+    },
+    {
+      "topic_id": 21,
+      "count": 1800,
+      "name": "21_bancorp_ended_net income_quarter ended",
+      "top_words": [
+        "bancorp",
+        "ended",
+        "net income",
+        "quarter ended",
+        "quarter",
+        "results quarter",
+        "ended september",
+        "ended december",
+        "december 31",
+        "31"
+      ],
+      "representative_docs": [
+        "iplayco announces financial results for the first quarter ended december 31, 2012",
+        "first bancorp reports financial results for the quarter ended september 30, 2011",
+        "highlands bancorp, inc. reports increased net income and earnings per share for the first quarter ended march 31, 2013"
+      ]
+    },
+    {
+      "topic_id": 22,
+      "count": 1782,
+      "name": "22_public offering_offering_common stock_common",
+      "top_words": [
+        "public offering",
+        "offering",
+        "common stock",
+        "common",
+        "public",
+        "initial public",
+        "initial",
+        "stock",
+        "ipo",
+        "stock offering"
+      ],
+      "representative_docs": [
+        "felcor prices public offering of common stock",
+        "immunogen, inc. prices public offering of common stock",
+        "newcastle announces public offering of common stock"
+      ]
+    },
+    {
+      "topic_id": 23,
+      "count": 1749,
+      "name": "23_2014 results_quarter 2014_second quarter_2013 results",
+      "top_words": [
+        "2014 results",
+        "quarter 2014",
+        "second quarter",
+        "2013 results",
+        "second",
+        "quarter 2013",
+        "results",
+        "quarter",
+        "quarter results",
+        "2014"
+      ],
+      "representative_docs": [
+        "enteromedics reports second quarter 2014 financial results",
+        "cyan reports second quarter 2014 financial results",
+        "shutterstock reports second quarter 2014 financial results"
+      ]
+    },
+    {
+      "topic_id": 24,
+      "count": 1742,
+      "name": "24_factors watch_factors_watch_nordic",
+      "top_words": [
+        "factors watch",
+        "factors",
+        "watch",
+        "nordic",
+        "stocks",
+        "german",
+        "african",
+        "swiss",
+        "french",
+        "nov"
+      ],
+      "representative_docs": [
+        "uk stocks-factors to watch on march 9",
+        "uk stocks-factors to watch on march 9",
+        "german stocks - factors to watch on may 5"
+      ]
+    },
+    {
+      "topic_id": 25,
+      "count": 1724,
+      "name": "25_russia_russian_ukraine_moscow",
+      "top_words": [
+        "russia",
+        "russian",
+        "ukraine",
+        "moscow",
+        "sberbank",
+        "eurobond",
+        "reserves",
+        "sanctions",
+        "cbank",
+        "bln"
+      ],
+      "representative_docs": [
+        "russia to lower u.s. debt holdings",
+        "markets rise but russia in focus",
+        "russia pilots braked on takeoff"
+      ]
+    },
+    {
+      "topic_id": 26,
+      "count": 1700,
+      "name": "26_stores_penney_walmart_sears",
+      "top_words": [
+        "stores",
+        "penney",
+        "walmart",
+        "sears",
+        "depot",
+        "jc penney",
+        "jc",
+        "staples",
+        "macy",
+        "men"
+      ],
+      "representative_docs": [
+        "office depot to close 400 u.s. stores",
+        "j.c. penney to close 33 stores, cut 2,000 jobs",
+        "sears plans to close more stores"
+      ]
+    },
+    {
+      "topic_id": 27,
+      "count": 1685,
+      "name": "27_home_housing_real estate_estate",
+      "top_words": [
+        "home",
+        "housing",
+        "real estate",
+        "estate",
+        "real",
+        "home sales",
+        "housing market",
+        "commercial real",
+        "home prices",
+        "commercial"
+      ],
+      "representative_docs": [
+        "brief-investors house sells commercial real estate in pori",
+        "across the home front",
+        "cnl commercial real estate expands industrial platform"
+      ]
+    },
+    {
+      "topic_id": 28,
+      "count": 1663,
+      "name": "28_mobile_payments_payment_cards",
+      "top_words": [
+        "mobile",
+        "payments",
+        "payment",
+        "cards",
+        "banking",
+        "card",
+        "wallet",
+        "app",
+        "credit cards",
+        "chip"
+      ],
+      "representative_docs": [
+        "gft markets launches mt4 for mobile",
+        "mobile financial services and the underbanked",
+        "the future of mobile payments 2012"
+      ]
+    },
+    {
+      "topic_id": 29,
+      "count": 1630,
+      "name": "29_devices_market outlook_outlook 2020_key players",
+      "top_words": [
+        "devices",
+        "market outlook",
+        "outlook 2020",
+        "key players",
+        "2020",
+        "imaging",
+        "medical",
+        "players",
+        "2018",
+        "outlook"
+      ],
+      "representative_docs": [
+        "italy orthopedic devices market outlook to 2020 - arthroscopy, cranio maxillofacial fixation cmf , hip reconstruction, knee reconstruction, spinal surgery, orthobiologics, trauma fixation and others",
+        "germany orthopedic devices market outlook to 2020 - arthroscopy, cranio maxillofacial fixation cmf , hip reconstruction, knee reconstruction, spinal surgery, orthobiologics, trauma fixation and others",
+        "canada cardiovascular devices market outlook to 2020"
+      ]
+    }
+  ],
+  "validation": {
+    "all_checks_passed": true,
+    "failed_checks": [],
+    "check_details": {
+      "coverage_gte_threshold": true,
+      "topics_gte_threshold": true,
+      "not_all_outliers": true
+    }
+  }
+}
