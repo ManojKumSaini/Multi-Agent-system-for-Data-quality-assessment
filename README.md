@@ -8,7 +8,7 @@ The system automates the currency assessment methodology proposed by Hristova et
 
 ## Pipeline Overview
 
-![LangGraph Pipeline](pipeline_pic/langgraph_pipeline.svg)
+![LangGraph Pipeline](pipeline_pic/langgraph_pipeline_image.png)
 
 ```
 Input: Financial News Headlines (NIFTY dataset, 411,623 records)

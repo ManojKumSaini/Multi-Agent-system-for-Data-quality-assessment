@@ -1,6 +1,6 @@
 
 # -------------------------------------------------------------------------------------------------------------------------------
-# Stage 4: Data Labelling Pipeline                                                                                  
+# Stage 4: Data Labelling Pipeline
 # -------------------------------------------------------------------------------------------------------------------------------
 # Batch-based binary labelling of semantic text pairs using Doer + Evaluator agents.                                             
 # Unlike other stages, this runs as a self-contained LangGraph subgraph with its own state.                                     
@@ -9,10 +9,12 @@
 #   Step 0 — Generate deterministic pair_id (MD5 hash of text1 + text2) for deduplication                                       
 #   Step 1 — SBERT auto-pass: pairs with similarity > 0.9999 labelled True automatically                                       
 #   Step 2 — Batch loop (40 unique pairs per batch):                                                                            
-#            Doer labels pairs → Evaluator reviews low-confidence + 10% sample of high-confidence                               
+#            Doer labels pairs → low-confidence (≤3) flagged directly for human review                                          
+#            → 10% sample of high-confidence (≥4) sent to Evaluator for verification                                            
+#            → Evaluator disagreements also flagged for human review                                                             
 #            → results propagated to all rows sharing same pair_id (duplicate handling)                                          
 #            → 2 consecutive all-false batches triggers short-circuit (remaining = False)                                        
-#   Step 3 — Save human review file for items where Evaluator disagreed with Doer                                               
+#   Step 3 — Save human review file (low-confidence + Evaluator-disagreed items)                                                
 #                                                                                                                               
 # Agents: Doer (Qwen 3 8B via OpenRouter), Evaluator (GPT OSS 120B via OpenRouter)                                             
 # Input: outputs/sbert_output/{topic}/topic.csv (from Stage 3)                                                                  
@@ -174,17 +176,38 @@ def batch_data_labeling_node(state: BatchLabelingState) -> dict:
         print(f"Batch is 100% FALSE. Consecutive all-false count: {new_false_count}")
 
     # Build evaluator queue safely
-    low_conf  = [r for r in llm_output if int(r.get("confidence", 5)) <= 3]
+    # Separate by confidence
+    low_conf = [r for r in llm_output if int(r.get("confidence", 5)) <= 3]
     high_conf = [r for r in llm_output if int(r.get("confidence", 5)) >= 4]
-    
-    # FIX: Safe sampling boundary calculation
+
+    # Low-confidence items go directly to human review (not Evaluator)
+    human_flagged = []
+    for res in low_conf:
+        if res.get("id") is None:
+            continue
+        try:
+            matching_input = next(
+                p for p in state["batch_pairs"] if int(p["row_idx"]) == int(res["id"])
+            )
+            human_flagged.append({
+                "row_idx": res["id"],
+                "text1": matching_input["text1"],
+                "text2": matching_input["text2"],
+                "doer_label": res.get("label", False),
+                "confidence": res.get("confidence", 5),
+                "reason": "low_confidence"
+            })
+        except StopIteration:
+            pass
+
+    # Only 10% sample of high-confidence items goes to Evaluator
     high_conf_sample = []
     if high_conf:
         sample_size = max(1, round(len(high_conf) * 0.10))
         high_conf_sample = random.sample(high_conf, min(sample_size, len(high_conf)))
 
     evaluator_queue = []
-    for res in (low_conf + high_conf_sample):
+    for res in high_conf_sample:
         if res.get("id") is None:
             continue
         try:
@@ -192,9 +215,9 @@ def batch_data_labeling_node(state: BatchLabelingState) -> dict:
                 p for p in state["batch_pairs"] if int(p["row_idx"]) == int(res["id"])
             )
             evaluator_queue.append({
-                "row_idx":    res["id"],
-                "text1":      matching_input["text1"],
-                "text2":      matching_input["text2"],
+                "row_idx": res["id"],
+                "text1": matching_input["text1"],
+                "text2": matching_input["text2"],
                 "doer_label": res.get("label", False),
                 "confidence": res.get("confidence", 5)
             })
@@ -202,16 +225,17 @@ def batch_data_labeling_node(state: BatchLabelingState) -> dict:
             pass
 
     print(
-        f"Evaluator queue: {len(low_conf)} low-conf + "
-        f"{len(high_conf_sample)} sampled high-conf = {len(evaluator_queue)} items"
+        f"Evaluator queue: {len(high_conf_sample)} sampled high-conf items | "
+        f"Human review: {len(human_flagged)} low-conf items"
     )
 
+
     return {
-        "batch_results":           llm_output,
-        "evaluator_items":         evaluator_queue,
+        "batch_results": llm_output,
+        "evaluator_items": evaluator_queue,
+        "human_review_items": human_flagged,
         "all_false_batches_count": new_false_count,
-        "evaluator_verdict":       "PASS"
-    }
+        "evaluator_verdict": "PASS"}
 
 # NODE 2: EVALUATOR AGENT — reviews selected items, says correct/incorrect
 def evaluator_node(state: BatchLabelingState) -> dict:
@@ -441,6 +465,9 @@ def run_batch_experiment(topic_name: str = "topic_17"):
         doer_results              = final_state.get("batch_results",     [])
         evaluator_results         = final_state.get("evaluator_results", [])
         evaluator_items           = final_state.get("evaluator_items",   [])
+        human_flagged_items       = final_state.get("human_review_items", [])
+        master_human_review_log.extend(human_flagged_items)
+
 
         # Build evaluator verdict lookup: row_idx → verdict
         eval_verdict_map = {

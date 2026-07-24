@@ -164,6 +164,17 @@ def manager_node(state: PipelineState) -> PipelineState:
             print(f"[MANAGER] Confidence: {state['domain_confidence']}")
             print(f"[MANAGER] Signals: {state['domain_signals']}")
 
+            # Escalate to human if Manager confidence is below threshold
+            if state.get("domain_confidence", 0) < 90:
+                print(f"[MANAGER] Confidence {state['domain_confidence']} < 90 — escalating to human.")
+                state["needs_human"] = True
+                state["human_report"] = (
+                    f"Domain classification confidence too low ({state['domain_confidence']}/100). "
+                    f"Detected domain: '{state['domain']}'. "
+                    f"Human verification required before proceeding."
+                )
+                return state
+
     # Load the base task prompt for this phase
     task_prompt = load_task_prompt(phase_name)
 
@@ -200,7 +211,6 @@ def manager_node(state: PipelineState) -> PipelineState:
             f"- Max word count: {word_counts.max()}\n"
             f"- Date range: {df['date'].min()} to {df['date'].max()}\n"
         )
-
         state["dataset_stats"] = dataset_stats
         task_prompt += f"\n\n## DATASET STATS\n{dataset_stats}"
 
