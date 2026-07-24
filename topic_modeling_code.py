@@ -178,19 +178,25 @@ def load_runtime_config_from_doer():
 
 # ── SECTION 5: LOAD DATA ─────────────────────────────────────
 def load_documents():
-    """Loads text records safely and alerts you if file targets are missing."""
+    """Loads text records and filters out boilerplate rows before topic modelling."""
     if not config.INPUT_PATH.exists():
         raise FileNotFoundError(f"Missing preprocessed input data: {config.INPUT_PATH}")
 
     df = pd.read_csv(config.INPUT_PATH)
 
+    total_rows = len(df)
+
+    # Filter out boilerplate rows
+    if "is_boilerplate" in df.columns:
+        df = df[df["is_boilerplate"] != True].reset_index(drop=True)
+        logger.info(f"Boilerplate filtered: {total_rows - len(df)} rows removed")
+
     # Convert text column to clean strings to prevent downstream float/NaN issues
     documents = df["preprocessed_text"].astype(str).tolist()
 
-    logger.info(f"Loaded source records dataset. Total rows: {len(df)}")
+    logger.info(f"Loaded source records dataset. Total rows: {len(df)} (from {total_rows} original)")
 
     return df, documents
-
 
 # ── SECTION 6: EMBEDDINGS ────────────────────────────────────
 def compute_embeddings(documents):
